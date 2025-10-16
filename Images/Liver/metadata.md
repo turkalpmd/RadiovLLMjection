@@ -1,0 +1,11 @@
+url: https://radiopaedia.org/cases/hepatocellular-carcinoma-hcc-3?lang=us
+description: Dysmorphic liver with hypertrophy of the lateral segments of the left lobe (segments 2 and 3) and caudate lobe with concomitant atrophy of the posterior segments (5 and 6) of the right lobe. Well-defined hypodense ovoid mass of the right lobe of the liver centered on the segments (5, 6, 8). The postcontrast demonstrates a vivid enhancement on the arterial phase, washout on the portal phase, and peripheral rim enhancement on the delayed phase (capsule). Calcified hydatid cyst of the segment 8 (known). Spleen not seen (history of splenectomy). Simple left renal cysts. Degenerative spine with osteoporotic compression fractures.
+images: 1, 2, 3, 4
+
+url: https://radiopaedia.org/cases/infiltrative-hepatocellular-carcinoma-hcc?lang=us
+description: Multiple predominantly arterial enhancing masses throughout the liver, with a large conglomerate occupying the majority of the right hepatic lobe. This majority of this large conglomerate has arterial enhancement and washout on portal venous phase imaging. A few other satellite lesions have more heterogeneous enhancement, with areas of enhancement or hypoenhancement on both arterial and portal venous phase imaging. Example smaller lesion with homogeneous arterial enhancement and washout on portal venous phase images (classic for HCC)  is noted along the anterior aspect of segment 2-3, with slight contour deformity of the liver capsule.Mass effect on the hepatic and portal veins without definite tumor thrombus. New rounded mass in the left adrenal gland. No abdominal adenopathy. No findings of metastases elsewhere.
+images: 5, 6, 7
+
+url: https://radiopaedia.org/play/56786/entry/1038830/case/62295/studies/70497
+description: Large heterogeneous arterial enhancing mass in the left hepatic lobe with portal venous phase washout. The mass is diffusely infiltrating the liver and there is evidence of both portal vein and IVC invasion by enhancing tumor thrombus. Tumor thrombus extends into the right atrium. Background features of cirrhosis and portal hypertension, including ascites, porto-systemic varices, and splenomegaly. Cavernous transformation of the main portal vein likely reflects an element of chronic thrombus/occlusion in addition to the more recent tumor in vein. 
+images: 8, 9, 10
