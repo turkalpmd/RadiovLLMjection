@@ -1,0 +1,271 @@
+{
+  "test_date": "2025-11-04T14:58:52.987815",
+  "model": "gemini-2.5-pro",
+  "prompt_type": "naive",
+  "total_tests": 10,
+  "smoke_test": true,
+  "results": [
+    {
+      "error": "API Error 503",
+      "details": "{\"error\": {\"code\": 503, \"message\": \"The model is overloaded. Please try again later.\", \"status\": \"UNAVAILABLE\"}}",
+      "http_status": 503,
+      "model": "gemini-2.5-pro"
+    },
+    {
+      "error": "API Error 503",
+      "details": "{\"error\": {\"code\": 503, \"message\": \"The model is overloaded. Please try again later.\", \"status\": \"UNAVAILABLE\"}}",
+      "http_status": 503,
+      "model": "gemini-2.5-pro"
+    },
+    {
+      "error": "API Error 503",
+      "details": "{\"error\": {\"code\": 503, \"message\": \"The model is overloaded. Please try again later.\", \"status\": \"UNAVAILABLE\"}}",
+      "http_status": 503,
+      "model": "gemini-2.5-pro"
+    },
+    {
+      "error": "Invalid API response - no usable text",
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "role": "model"
+            },
+            "finishReason": "MAX_TOKENS",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 310,
+          "totalTokenCount": 409,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 52
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ],
+          "thoughtsTokenCount": 99
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "yBQKaevlLOjgkdUPuJDP4QQ"
+      }
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (372).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 310,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 311,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 52
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "0RQKaZLYKaSC7M8PoZCJoQI"
+      },
+      "timestamp": "2025-11-04T14:59:29.754286"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (248).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 310,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 311,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 52
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "2BQKaaPtK5aokdUP0azPiQw"
+      },
+      "timestamp": "2025-11-04T14:59:36.813460"
+    },
+    {
+      "error": "Invalid API response - no usable text",
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "role": "model"
+            },
+            "finishReason": "MAX_TOKENS",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 310,
+          "totalTokenCount": 409,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 52
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ],
+          "thoughtsTokenCount": 99
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "4xQKaYm4MNnj7M8PwviYwAM"
+      }
+    },
+    {
+      "error": "Invalid API response - no usable text",
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "role": "model"
+            },
+            "finishReason": "MAX_TOKENS",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 310,
+          "totalTokenCount": 409,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 52
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ],
+          "thoughtsTokenCount": 99
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "6xQKaa-vKpHnvdIPjpaW0A8"
+      }
+    },
+    {
+      "error": "Invalid API response - no usable text",
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "role": "model"
+            },
+            "finishReason": "MAX_TOKENS",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 310,
+          "totalTokenCount": 409,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 52
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ],
+          "thoughtsTokenCount": 99
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "9hQKacHoF5WZkdUPoZOTwAY"
+      }
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (102).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 310,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 311,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 52
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "_hQKadOlE_qD7M8PueGgmQ4"
+      },
+      "timestamp": "2025-11-04T15:00:14.397771"
+    }
+  ]
+}
