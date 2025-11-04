@@ -1,0 +1,7508 @@
+{
+  "test_date": "2025-11-04T14:13:54.658542",
+  "model": "Gemini Pro Vision",
+  "prompt_type": "naive",
+  "total_tests": 300,
+  "results": [
+    {
+      "success": true,
+      "image": "512_injected_glioma (235).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "9d8JaazsDNLZxs0PvbyAiQw"
+      },
+      "timestamp": "2025-11-04T14:13:57.181358"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_311.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "-t8JadizCOHcxs0PuJKZyAg"
+      },
+      "timestamp": "2025-11-04T14:14:02.161617"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (262).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "_t8JaYX1LuXpvdIPn9qEsQw"
+      },
+      "timestamp": "2025-11-04T14:14:06.722691"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (348).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "A-AJaeuAEMHusAL2w_6wCw"
+      },
+      "timestamp": "2025-11-04T14:14:11.205488"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:14:16.375942"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (124).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "DeAJaYTxB_utxN8PxODmwQk"
+      },
+      "timestamp": "2025-11-04T14:14:21.101330"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_16.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "EeAJaaugEoigxN8P6NSf2Qk"
+      },
+      "timestamp": "2025-11-04T14:14:25.252890"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_265.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "FuAJad3JK4X1xs0Pi_zZwAg"
+      },
+      "timestamp": "2025-11-04T14:14:30.664914"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:14:36.123621"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_258.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "IOAJaYGOKpahxN8Phc36wAk"
+      },
+      "timestamp": "2025-11-04T14:14:40.704280"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (372).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "JeAJaZLBELmwxN8P26eQMQ"
+      },
+      "timestamp": "2025-11-04T14:14:45.276899"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (98).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "KeAJaZzQM7jYvdIPz6zB-Ak"
+      },
+      "timestamp": "2025-11-04T14:14:49.814577"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (260).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "LuAJaZz9LZahxN8Phc36wAk"
+      },
+      "timestamp": "2025-11-04T14:14:54.709829"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (98).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "M-AJaa7KIdWPxN8Po-bZ2Qk"
+      },
+      "timestamp": "2025-11-04T14:14:59.528337"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_6.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "OOAJaeajDKfpvdIPjITFiAw"
+      },
+      "timestamp": "2025-11-04T14:15:04.144379"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:15:09.601641"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (221).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "QuAJaYPJKZaokdUP0azPiQw"
+      },
+      "timestamp": "2025-11-04T14:15:14.943451"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (108).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "R-AJaY_GMO3_nsEPye2JsQQ"
+      },
+      "timestamp": "2025-11-04T14:15:19.752345"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (167).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "TOAJabyvLvakkdUPvNmouQ4"
+      },
+      "timestamp": "2025-11-04T14:15:25.079029"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (239).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "U-AJadONCfybkdUP-cOy-QQ"
+      },
+      "timestamp": "2025-11-04T14:15:31.106373"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (41).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "WOAJaYKjJ56ekdUPtav7yA4"
+      },
+      "timestamp": "2025-11-04T14:15:36.891415"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (313).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "XeAJad3zG4TgnsEPusab-QI"
+      },
+      "timestamp": "2025-11-04T14:15:41.443143"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_4.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "YuAJaaCTGOqH7M8P6rrk6QU"
+      },
+      "timestamp": "2025-11-04T14:15:46.352313"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (1).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "Z-AJaYvED7nOnsEPifHuwQ4"
+      },
+      "timestamp": "2025-11-04T14:15:51.208665"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:15:56.567682"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:16:02.610723"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (281).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "d-AJac3tFvCD7M8PsOukqA4"
+      },
+      "timestamp": "2025-11-04T14:16:07.353190"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:16:12.554633"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:16:19.100655"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (352).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "h-AJaZmlMfakkdUPvNmouQ4"
+      },
+      "timestamp": "2025-11-04T14:16:23.728140"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_299.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "jOAJafm5FPvlnsEP1uqc2Q4"
+      },
+      "timestamp": "2025-11-04T14:16:28.274009"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:16:33.581072"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:16:39.354610"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_272.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "nOAJacbJBOD_nsEPwdaYwA4"
+      },
+      "timestamp": "2025-11-04T14:16:44.005849"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (57).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "oOAJabyaKqXrnsEP7JS0wQ4"
+      },
+      "timestamp": "2025-11-04T14:16:48.687813"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:16:53.956568"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:16:59.685775"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_14.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "seAJaaKoAf3MnsEP7YvssQI"
+      },
+      "timestamp": "2025-11-04T14:17:04.944535"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (153).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "uOAJaaX_AeTcnsEP4Z3n4Q4"
+      },
+      "timestamp": "2025-11-04T14:17:11.950826"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:17:17.553112"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_313.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "wuAJabXiBfCD7M8PsOukqA4"
+      },
+      "timestamp": "2025-11-04T14:17:22.016978"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (184).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "yeAJaZKlJ7no7M8P66248AE"
+      },
+      "timestamp": "2025-11-04T14:17:29.573000"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (243).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "0OAJaeC6LOSikdUP0JSm0QI"
+      },
+      "timestamp": "2025-11-04T14:17:36.659730"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (185).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "1uAJaauRGa25nsEPk7u3qQ4"
+      },
+      "timestamp": "2025-11-04T14:17:42.339779"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:17:47.957365"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (95).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "4eAJadPZAvDjkdUPh9-ggQQ"
+      },
+      "timestamp": "2025-11-04T14:17:52.976166"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (152).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "5eAJaf_0NeSikdUP0JSm0QI"
+      },
+      "timestamp": "2025-11-04T14:17:57.791250"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:18:03.854985"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:18:09.290302"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (310).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "9uAJaarQA_G4kdUP87_6mA4"
+      },
+      "timestamp": "2025-11-04T14:18:13.995760"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_10.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "--AJacvqPNrMnsEP9-DzoQI"
+      },
+      "timestamp": "2025-11-04T14:18:19.929772"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:18:25.758097"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:18:32.243161"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:18:38.093340"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:18:43.262236"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (150).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "GOEJacedG7no7M8P66248AE"
+      },
+      "timestamp": "2025-11-04T14:18:48.373380"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:18:54.041161"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:18:59.906040"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:19:05.915083"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:19:12.233273"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (37).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "NeEJafLBFKSYkdUP-9yVqA4"
+      },
+      "timestamp": "2025-11-04T14:19:17.260377"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:19:23.226092"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (298).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "QeEJaYy7OJWZkdUP3JOTwAY"
+      },
+      "timestamp": "2025-11-04T14:19:29.978712"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (277).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "R-EJacX-Jdjl7M8P_s7XoA4"
+      },
+      "timestamp": "2025-11-04T14:19:35.563562"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:19:41.847898"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (127).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "UuEJadXPLabvxN8P-uLZ6Ag"
+      },
+      "timestamp": "2025-11-04T14:19:46.670225"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (324).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "V-EJadDJJsHusAL2w_6wCw"
+      },
+      "timestamp": "2025-11-04T14:19:51.874417"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_248.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "XOEJadjDK5LOsAKjnaWwCw"
+      },
+      "timestamp": "2025-11-04T14:19:56.657059"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (373).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "YuEJaZbsMNLZxs0PvbyAiQw"
+      },
+      "timestamp": "2025-11-04T14:20:03.682381"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (37).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "aOEJadTGJPrlvdIPtcTI4Aw"
+      },
+      "timestamp": "2025-11-04T14:20:08.527855"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:20:13.912327"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:20:19.944309"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:20:26.361926"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:20:31.428170"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:20:37.225820"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_400.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "iuEJaZvhJfa8vdIPqPjaiAw"
+      },
+      "timestamp": "2025-11-04T14:20:42.564986"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (268).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "j-EJaZrVDorzxN8PpKzvsAk"
+      },
+      "timestamp": "2025-11-04T14:20:47.225049"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:20:53.586787"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (285).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "muEJaZODE43Zxs0PzezwuAo"
+      },
+      "timestamp": "2025-11-04T14:20:58.687256"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (205).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "n-EJaYLnGcyxxN8P9a2r-Ag"
+      },
+      "timestamp": "2025-11-04T14:21:03.366282"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (102).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "pOEJafWZC-WWxN8PrOXX6As"
+      },
+      "timestamp": "2025-11-04T14:21:08.110197"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (233).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "qOEJafGgI8q_vdIP8daPkQw"
+      },
+      "timestamp": "2025-11-04T14:21:12.896499"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (272).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "reEJaaH9LLHsxN8PkqK1yQo"
+      },
+      "timestamp": "2025-11-04T14:21:17.735078"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:21:22.888768"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (360).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "uOEJabykBZzsxN8P_tzHoQw"
+      },
+      "timestamp": "2025-11-04T14:21:28.044333"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:21:35.796515"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:21:41.410561"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (118).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "yuEJaYHgKd-TvdIP8IC-kAw"
+      },
+      "timestamp": "2025-11-04T14:21:46.612650"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (198).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "0eEJaYXkC6_oxN8PxLfMsAw"
+      },
+      "timestamp": "2025-11-04T14:21:53.121345"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:22:00.659242"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (67).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "3eEJaYHgK5DsxN8PoICWoAw"
+      },
+      "timestamp": "2025-11-04T14:22:06.349169"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:22:11.961928"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:22:17.822022"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (227).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "7uEJaayOFbj2xN8Puv-bqAk"
+      },
+      "timestamp": "2025-11-04T14:22:23.152427"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (363).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "9eEJadOZLKDoxN8PqcK00Qk"
+      },
+      "timestamp": "2025-11-04T14:22:29.659268"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (249).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "-uEJaezvC4X1xs0Pi_zZwAg"
+      },
+      "timestamp": "2025-11-04T14:22:34.115357"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (334).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "_uEJaZvXH5LOsAKjnaWwCw"
+      },
+      "timestamp": "2025-11-04T14:22:38.495060"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:22:44.086393"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_73.jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "CeIJadLEEPLMxN8P_r2wwA8"
+      },
+      "timestamp": "2025-11-04T14:22:49.442600"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:22:55.167764"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:23:01.692880"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:23:06.955427"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:23:12.440879"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:23:19.100386"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_99.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "LOIJaZTEG6ajxN8Pkrv9sA8"
+      },
+      "timestamp": "2025-11-04T14:23:24.412334"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_215.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "MeIJaZWnDc71xN8P6Yjj-Qs"
+      },
+      "timestamp": "2025-11-04T14:23:29.493436"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:23:34.980499"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_72.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "O-IJaZmYLu_vxN8Pj5uSKQ"
+      },
+      "timestamp": "2025-11-04T14:23:39.960527"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (135).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "QOIJaa_aNab0xs0PzPP7kAw"
+      },
+      "timestamp": "2025-11-04T14:23:44.869201"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_163.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "ReIJadSzJcq_vdIP8daPkQw"
+      },
+      "timestamp": "2025-11-04T14:23:49.537880"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:23:54.801256"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (357).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "T-IJadakLKu0xN8PyonawAw"
+      },
+      "timestamp": "2025-11-04T14:23:59.640090"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (212).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "VeIJaZKiAaapvdIP9LGOsQk"
+      },
+      "timestamp": "2025-11-04T14:24:05.227077"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:24:11.778269"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_175.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "YeIJacfYBMyxxN8P9a2r-Ag"
+      },
+      "timestamp": "2025-11-04T14:24:17.731642"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:24:23.309436"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (93).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "bOIJaZjaNp2EvdIP3s_RqAs"
+      },
+      "timestamp": "2025-11-04T14:24:29.192395"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (316).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "cuIJacScHLmwxN8P26eQMQ"
+      },
+      "timestamp": "2025-11-04T14:24:34.371459"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:24:39.455944"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (253).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "feIJadfADYm-xN8PluShuQs"
+      },
+      "timestamp": "2025-11-04T14:24:45.179248"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:24:50.525568"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (50).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "iOIJaZz2M_LnxN8Pl_3boAw"
+      },
+      "timestamp": "2025-11-04T14:24:56.776492"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (290).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "juIJaeuDFOXWvdIP-K-KiAw"
+      },
+      "timestamp": "2025-11-04T14:25:03.180833"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (156).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "k-IJabb6LYrzxN8PpKzvsAk"
+      },
+      "timestamp": "2025-11-04T14:25:07.676676"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_174.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "meIJabD2BpHnvdIPvZaW0A8"
+      },
+      "timestamp": "2025-11-04T14:25:13.041956"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:25:19.259386"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_376.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "o-IJae77OIq5vdIPvIDUsAk"
+      },
+      "timestamp": "2025-11-04T14:25:23.883072"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:25:29.228171"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:25:34.744683"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (229).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "s-IJaeLYFZLOsAKjnaWwCw"
+      },
+      "timestamp": "2025-11-04T14:25:39.460859"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:25:45.084571"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:25:51.458414"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:25:57.111330"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (141).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "yeIJabbFNc71xN8P6Yjj-Qs"
+      },
+      "timestamp": "2025-11-04T14:26:01.789987"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:26:08.522436"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_54.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "1uIJaa3IDLm-vdIP-NDwmQw"
+      },
+      "timestamp": "2025-11-04T14:26:14.136860"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (28).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "2uIJaZGpOO2jxN8Pvbyb2Qg"
+      },
+      "timestamp": "2025-11-04T14:26:19.191610"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:26:24.367890"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_82.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "5OIJaZqNO9CWxN8PpJPCwQg"
+      },
+      "timestamp": "2025-11-04T14:26:28.875591"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_41.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "7OIJaZ2oHvLMxN8Pm76wuA8"
+      },
+      "timestamp": "2025-11-04T14:26:36.459848"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:26:41.615222"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:26:47.462268"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (213).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "_OIJadiQItWPxN8Po-bZ2Qk"
+      },
+      "timestamp": "2025-11-04T14:26:52.572416"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (155).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "AeMJaZqOIN71xN8PoPaDsQk"
+      },
+      "timestamp": "2025-11-04T14:26:57.468835"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:27:03.115627"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:27:26.399982"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (45).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "JeMJaa3WBuWWxN8PrOXX6As"
+      },
+      "timestamp": "2025-11-04T14:27:33.050636"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:27:38.459286"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_387.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "L-MJaaazCaiXxN8P74mIwQs"
+      },
+      "timestamp": "2025-11-04T14:27:43.085672"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:27:48.477318"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_344.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "OeMJabRxirm90g-8gNSwCQ"
+      },
+      "timestamp": "2025-11-04T14:27:52.942161"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_350.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "PuMJacDSMbK-vdIPouHp8Qs"
+      },
+      "timestamp": "2025-11-04T14:27:58.763550"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:28:03.978113"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:28:10.727042"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:28:16.147705"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (65).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "VuMJabD4HKfpvdIPjITFiAw"
+      },
+      "timestamp": "2025-11-04T14:28:22.420365"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (337).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "W-MJaZXHDMzDvdIP4tjnmAw"
+      },
+      "timestamp": "2025-11-04T14:28:27.147544"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (122).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "X-MJad7hPJapxN8P7fud2Ak"
+      },
+      "timestamp": "2025-11-04T14:28:31.954205"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:28:37.374804"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_94.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "a-MJafffEO3_nsEPye2JsQQ"
+      },
+      "timestamp": "2025-11-04T14:28:43.195576"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (319).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "b-MJaaKiN4KfkdUPwZOPmA4"
+      },
+      "timestamp": "2025-11-04T14:28:48.184941"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (227).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "deMJadi7D4fWvdIP_Oi3kQw"
+      },
+      "timestamp": "2025-11-04T14:28:53.178931"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:29:00.184288"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (136).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "guMJabrPB6b0xs0PzPP7kAw"
+      },
+      "timestamp": "2025-11-04T14:29:06.042303"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (270).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "h-MJadn6LofWvdIP_Oi3kQw"
+      },
+      "timestamp": "2025-11-04T14:29:11.710919"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:29:17.397468"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (209).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "kuMJacmXFvyP28oP-67poA8"
+      },
+      "timestamp": "2025-11-04T14:29:22.289004"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_184.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "l-MJae26MO6vxN8P1dDm4Ak"
+      },
+      "timestamp": "2025-11-04T14:29:27.709324"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:29:32.925160"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (231).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "ouMJabv_Kdm_vdIPkMHJyAg"
+      },
+      "timestamp": "2025-11-04T14:29:38.658729"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:29:44.218384"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (48).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "rOMJaabXOoX1xs0Pi_zZwAg"
+      },
+      "timestamp": "2025-11-04T14:29:48.897139"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:29:54.537959"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (8).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "t-MJafWxHva8vdIPl_jaiAw"
+      },
+      "timestamp": "2025-11-04T14:29:59.401490"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_157.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "vOMJaZ-OB-e-vdIPrLzfyQg"
+      },
+      "timestamp": "2025-11-04T14:30:04.067651"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (334).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "wOMJaZ62K8q_vdIP8daPkQw"
+      },
+      "timestamp": "2025-11-04T14:30:08.659842"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:30:15.028825"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (249).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "y-MJadnULf6-vdIP-KjJoAw"
+      },
+      "timestamp": "2025-11-04T14:30:19.740439"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (48).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "0OMJaZHTF8HUvdIP-ebCkQ8"
+      },
+      "timestamp": "2025-11-04T14:30:24.321967"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:30:32.120115"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (33).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "3eMJabeYKZHnvdIPjpaW0A8"
+      },
+      "timestamp": "2025-11-04T14:30:37.661529"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (25).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "4uMJaayxM4q5vdIPvIDUsAk"
+      },
+      "timestamp": "2025-11-04T14:30:42.775096"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_90.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "5-MJaYXgC7LovdIP-Lrr4Qo"
+      },
+      "timestamp": "2025-11-04T14:30:47.138981"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:30:52.985033"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (4).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "8uMJafuuC_a8vdIPl_jaiAw"
+      },
+      "timestamp": "2025-11-04T14:30:58.108844"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (336).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "9uMJafmSI9LZxs0PvbyAiQw"
+      },
+      "timestamp": "2025-11-04T14:31:02.540363"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (224).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "--MJabLsA5DsxN8PoICWoAw"
+      },
+      "timestamp": "2025-11-04T14:31:07.022818"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (361).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "_-MJaaP1O7i-xN8Pivn-uAk"
+      },
+      "timestamp": "2025-11-04T14:31:11.907121"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_368.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "BOQJaY3rG-6vxN8P1dDm4Ak"
+      },
+      "timestamp": "2025-11-04T14:31:16.399300"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:31:21.695386"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (195).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "DuQJacX_GMLOsAKG4prJCg"
+      },
+      "timestamp": "2025-11-04T14:31:26.355533"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_381.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "EuQJaZmdNc-LxN8PwN6wkAE"
+      },
+      "timestamp": "2025-11-04T14:31:30.788210"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:31:37.001181"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:31:42.791051"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:31:48.179549"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_168.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "KOQJaYHYK4KfkdUPwZOPmA4"
+      },
+      "timestamp": "2025-11-04T14:31:52.772868"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_140.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "LeQJadiSPPv6nsEPiPWkmAI"
+      },
+      "timestamp": "2025-11-04T14:31:57.902020"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (204).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "MuQJaanlK8yBkdUPg-6f2A4"
+      },
+      "timestamp": "2025-11-04T14:32:02.663075"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:32:08.150623"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:32:14.064596"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_79.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "QuQJacO5NNCAkdUPqtzg0QI"
+      },
+      "timestamp": "2025-11-04T14:32:18.796477"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:32:24.667632"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (300).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "TeQJaei4DaXm7M8P4IDkqQ4"
+      },
+      "timestamp": "2025-11-04T14:32:29.624308"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:32:35.179681"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_92.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "WuQJaeXRMuTcnsEP4Z3n4Q4"
+      },
+      "timestamp": "2025-11-04T14:32:43.077167"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (140).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "YOQJaZtp37WewQ-MhMa5Dg"
+      },
+      "timestamp": "2025-11-04T14:32:48.156423"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (8).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "ZeQJac71EPvlnsEP1uqc2Q4"
+      },
+      "timestamp": "2025-11-04T14:32:53.202717"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (91).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "auQJacyIA_akkdUPvNmouQ4"
+      },
+      "timestamp": "2025-11-04T14:32:57.958285"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_141.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "buQJaYihLMCkkdUPqfqx-AE"
+      },
+      "timestamp": "2025-11-04T14:33:03.166992"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_155.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "c-QJaYzXO_DjkdUPh9-ggQQ"
+      },
+      "timestamp": "2025-11-04T14:33:07.923361"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:33:13.350468"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_196.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "feQJaeSDOpSskdUP_5rZwA4"
+      },
+      "timestamp": "2025-11-04T14:33:18.666315"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (290).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "g-QJacyGG5-vkdUP46r92AQ"
+      },
+      "timestamp": "2025-11-04T14:33:23.348343"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:33:29.446136"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:33:35.275872"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:33:40.771921"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_394.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "meQJaeH4DtOekdUPq7OIqA4"
+      },
+      "timestamp": "2025-11-04T14:33:45.293562"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (22).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "neQJaeKFO72zkdUPwpOx4A4"
+      },
+      "timestamp": "2025-11-04T14:33:49.885361"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:33:56.943750"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (366).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "qeQJaZzRKZSckdUPuoP_oA4"
+      },
+      "timestamp": "2025-11-04T14:34:01.608006"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (309).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "r-QJafbwI4C2nsEPm7LbqQI"
+      },
+      "timestamp": "2025-11-04T14:34:07.974518"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (132).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "tOQJaf26KpSckdUPuoP_oA4"
+      },
+      "timestamp": "2025-11-04T14:34:12.597410"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (75).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "uOQJabqgM56ekdUPmKr7yA4"
+      },
+      "timestamp": "2025-11-04T14:34:16.791307"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_132.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "veQJaaL1JPDjkdUP_t6ggQQ"
+      },
+      "timestamp": "2025-11-04T14:34:21.533225"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:34:27.692483"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:34:33.078561"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:34:38.931040"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:34:45.613282"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_250.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "2uQJabbtEKXrnsEP7JS0wQ4"
+      },
+      "timestamp": "2025-11-04T14:34:50.266647"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (235).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "3uQJaYuWKeSikdUP0JSm0QI"
+      },
+      "timestamp": "2025-11-04T14:34:54.623946"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (370).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "5OQJaf3GKou9kdUP2pD2-AE"
+      },
+      "timestamp": "2025-11-04T14:35:00.611493"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:35:06.978761"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:35:12.135674"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:35:18.177591"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:35:23.924692"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:35:29.571086"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:35:36.473807"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (106).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "DeUJadLOHf3MnsEP7YvssQI"
+      },
+      "timestamp": "2025-11-04T14:35:41.478872"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:35:47.202128"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (297).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "F-UJafSMLZ6ekdUPmKr7yA4"
+      },
+      "timestamp": "2025-11-04T14:35:52.997473"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_131.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "HeUJadGNNMytnsEPhpmf8Q4"
+      },
+      "timestamp": "2025-11-04T14:35:57.839588"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (201).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "I-UJaa_AFNCskdUP3-_L0QI"
+      },
+      "timestamp": "2025-11-04T14:36:03.275367"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (281).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "KOUJafv3Ff3wnsEP6q7O0AI"
+      },
+      "timestamp": "2025-11-04T14:36:08.295541"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (147).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "LeUJad2CA-fwnsEPkbGW4A4"
+      },
+      "timestamp": "2025-11-04T14:36:13.015029"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (256).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "MeUJae2bK5jfnsEPydqyqQ4"
+      },
+      "timestamp": "2025-11-04T14:36:17.610960"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:36:22.990758"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (38).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "POUJaZbDAYvrkdUP56yLoQ4"
+      },
+      "timestamp": "2025-11-04T14:36:27.954423"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (313).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "QOUJacH9F625nsEPk7u3qQ4"
+      },
+      "timestamp": "2025-11-04T14:36:32.421174"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:36:38.216218"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:36:43.833040"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:36:49.950665"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_35.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "VuUJaYOcHb2zkdUPwpOx4A4"
+      },
+      "timestamp": "2025-11-04T14:36:54.387194"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:37:00.336738"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:37:05.505799"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (153).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "ZuUJaYDxOtnj7M8PwviYwAM"
+      },
+      "timestamp": "2025-11-04T14:37:10.897372"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (14).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "a-UJafSWIJLzkdUPhp3jqQQ"
+      },
+      "timestamp": "2025-11-04T14:37:15.420926"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (203).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "cOUJadCOIq_9nsEPitfHkQY"
+      },
+      "timestamp": "2025-11-04T14:37:20.496935"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:37:26.543830"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:37:31.881317"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:37:37.194960"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (144).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "heUJabO5I7nOnsEP8vDuwQ4"
+      },
+      "timestamp": "2025-11-04T14:37:41.487339"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (328).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "ieUJaam8NNHlnsEPwePIsAI"
+      },
+      "timestamp": "2025-11-04T14:37:45.813810"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:37:50.942081"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:37:56.378708"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:38:01.584712"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:38:07.667129"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (105).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "pOUJadS9Np61vdIPxa2YkA4"
+      },
+      "timestamp": "2025-11-04T14:38:12.826769"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_25.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "qeUJafDuJO6nvdIPr6KdsQI"
+      },
+      "timestamp": "2025-11-04T14:38:17.671222"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:38:22.741855"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_257.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "s-UJaYCuJMzXvdIP2OKtqAw"
+      },
+      "timestamp": "2025-11-04T14:38:27.532436"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (111).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "uOUJaf2cFqbvxN8P-uLZ6Ag"
+      },
+      "timestamp": "2025-11-04T14:38:32.416669"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:38:38.427453"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (312).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "w-UJaaL-Dee-vdIPrLzfyQg"
+      },
+      "timestamp": "2025-11-04T14:38:43.160480"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (129).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "x-UJafGzOO_vxN8Pj5uSKQ"
+      },
+      "timestamp": "2025-11-04T14:38:47.874280"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:38:54.848041"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_121.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "0-UJadmtGPvAxN8P78KqyQk"
+      },
+      "timestamp": "2025-11-04T14:38:59.665743"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:39:05.733643"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:39:11.490507"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (216).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "5OUJacu4DMHusAL2w_6wCw"
+      },
+      "timestamp": "2025-11-04T14:39:16.161325"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:39:21.752747"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (353).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "7uUJaZ-6FLjYvdIPz6zB-Ak"
+      },
+      "timestamp": "2025-11-04T14:39:26.282540"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (296).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "8-UJaaDhKvLMxN8P_r2wwA8"
+      },
+      "timestamp": "2025-11-04T14:39:31.646338"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (259).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "-OUJaYCFDsLOsAKG4prJCg"
+      },
+      "timestamp": "2025-11-04T14:39:36.395789"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:39:41.998345"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:39:48.727010"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (127).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "CeYJab6rINm_vdIPkMHJyAg"
+      },
+      "timestamp": "2025-11-04T14:39:54.662792"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:40:00.683701"
+    },
+    {
+      "success": true,
+      "image": "512_injected_glioma (365).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "FeYJadOiDeb1xN8Pvp_qwQ8"
+      },
+      "timestamp": "2025-11-04T14:40:05.177158"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (166).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "GuYJaZDCH_LnxN8Pl_3boAw"
+      },
+      "timestamp": "2025-11-04T14:40:10.462826"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:40:17.252641"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_240.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "J-YJaeG7MKajxN8Pkrv9sA8"
+      },
+      "timestamp": "2025-11-04T14:40:23.730290"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (234).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "LeYJaabkHKfpvdIPjITFiAw"
+      },
+      "timestamp": "2025-11-04T14:40:29.418218"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:40:35.330298"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:40:40.868850"
+    },
+    {
+      "error": "İstek hatası: 'parts'",
+      "timestamp": "2025-11-04T14:40:46.684496"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (263).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "Q-YJac2VBpLOsAKjnaWwCw"
+      },
+      "timestamp": "2025-11-04T14:40:51.108414"
+    },
+    {
+      "success": true,
+      "image": "512_injected_M_136.jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "R-YJaeHKL-XWvdIP-K-KiAw"
+      },
+      "timestamp": "2025-11-04T14:40:55.726872"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (275).jpg",
+      "ai_response": "1",
+      "ai_result": 1,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "1"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "TeYJafz1BofYxs0Ppqzf6Qo"
+      },
+      "timestamp": "2025-11-04T14:41:01.072423"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (222).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "UuYJaYL8AuXWvdIP-K-KiAw"
+      },
+      "timestamp": "2025-11-04T14:41:05.999352"
+    },
+    {
+      "success": true,
+      "image": "512_injected_pituitary (367).jpg",
+      "ai_response": "0",
+      "ai_result": 0,
+      "raw_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "0"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 327,
+          "candidatesTokenCount": 1,
+          "totalTokenCount": 328,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 69
+            },
+            {
+              "modality": "IMAGE",
+              "tokenCount": 258
+            }
+          ]
+        },
+        "modelVersion": "gemini-2.5-pro",
+        "responseId": "VuYJaabYOom-xN8PluShuQs"
+      },
+      "timestamp": "2025-11-04T14:41:10.904251"
+    }
+  ]
+}
