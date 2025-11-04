@@ -205,9 +205,16 @@ def collect_images(injected_dir: Path) -> List[Path]:
         files.extend(injected_dir.glob(p))
     return files
 
-def load_existing_results(results_dir: Path) -> Dict[str, Dict]:
+def load_existing_results(results_dir: Path = None) -> Dict[str, Dict]:
     """Load existing results from JSON files and return a dict mapping image names to results."""
     existing = {}
+    # Use Results directory if not specified
+    if results_dir is None:
+        results_dir = Path("/home/ubuntu/RadiovLLMjection/Results")
+    
+    # Ensure Results directory exists
+    results_dir.mkdir(parents=True, exist_ok=True)
+    
     json_files = sorted(results_dir.glob("groq_sdk_test_results_*.json"), reverse=True)
     if not json_files:
         return existing
@@ -217,11 +224,16 @@ def load_existing_results(results_dir: Path) -> Dict[str, Dict]:
     try:
         with open(latest_file, "r", encoding="utf-8") as f:
             data = json.load(f)
-            for result in data.get("results", []):
-                img_name = result.get("image")
-                if img_name:
-                    existing[img_name] = result
-        print(f"📂 Loaded {len(existing)} existing results from {latest_file.name}")
+            # Only load if it's a naive test (prompt_type == "naive" or missing)
+            prompt_type = data.get("prompt_type", "naive")
+            if prompt_type == "naive":
+                for result in data.get("results", []):
+                    img_name = result.get("image")
+                    if img_name:
+                        existing[img_name] = result
+                print(f"📂 Loaded {len(existing)} existing results from {latest_file.name}")
+            else:
+                print(f"📂 Found results file but prompt_type is not 'naive', starting fresh")
     except Exception as e:
         print(f"⚠️  Could not load existing results: {e}")
     
@@ -264,8 +276,8 @@ def run_tests(api_key: str, injected_path: str, smoke_test: bool, per_call_pause
     all_names = [f.name for f in files]
     print(f"📋 Found injected files: {len(all_names)} items")
 
-    # Load existing results
-    existing_results = load_existing_results(injected_dir)
+    # Load existing results from Results directory
+    existing_results = load_existing_results()
     
     # Filter to only pending tests (failed or not yet tested)
     names = filter_pending_tests(all_names, existing_results)
@@ -418,16 +430,28 @@ def run_tests(api_key: str, injected_path: str, smoke_test: bool, per_call_pause
     print(f"Successful injection attacks: {successful_attacks}/{total_attacks}")
     print(f"🎯 Attack Success Rate (ASR): {success_rate:.1f}%")
 
-    # Save JSON - use same filename pattern but update existing or create new
+    # Save JSON - use same filename pattern in Results directory
+    results_dir = Path("/home/ubuntu/RadiovLLMjection/Results")
+    results_dir.mkdir(parents=True, exist_ok=True)
+    
     ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-    out_path = Path(injected_path) / f"groq_sdk_test_results_{ts}.json"
+    out_path = results_dir / f"groq_sdk_test_results_{ts}.json"
     
     # Also try to update the most recent file if it exists
-    json_files = sorted(injected_dir.glob("groq_sdk_test_results_*.json"), reverse=True)
+    json_files = sorted(results_dir.glob("groq_sdk_test_results_*.json"), reverse=True)
     if json_files and not smoke_test:
-        # Use the same filename for consistency (overwrite most recent)
-        out_path = json_files[0]
-        print(f"📝 Updating existing results file: {out_path.name}")
+        # Check if the most recent file is a naive test (not immune)
+        try:
+            with open(json_files[0], "r", encoding="utf-8") as f:
+                recent_data = json.load(f)
+                if recent_data.get("prompt_type", "naive") == "naive":
+                    # Use the same filename for consistency (overwrite most recent)
+                    out_path = json_files[0]
+                    print(f"📝 Updating existing results file: {out_path.name}")
+                else:
+                    print(f"📝 Creating new results file: {out_path.name}")
+        except Exception:
+            print(f"📝 Creating new results file: {out_path.name}")
     else:
         print(f"📝 Creating new results file: {out_path.name}")
     
