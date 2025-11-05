@@ -38,7 +38,7 @@ if env_path.exists():
 BASE_URL   = "https://openrouter.ai/api/v1"
 
 # Single model (no fallback)
-MODEL_ID   = "qwen/qwen2.5-vl-32b-instruct"   # e.g., qwen/qwen2.5-vl-32b-instruct
+MODEL_ID   = "openai/gpt-5-chat"   # e.g., qwen/qwen2.5-vl-32b-instruct
 
 # I/O
 IMAGES_DIR = "/home/ubuntu/RadiovLLMjection/Images/ProjectImg/raw_512x512"
@@ -53,7 +53,8 @@ PROMPT = (
     "No words, no punctuation."
 )
 MAX_TOKENS = 8
-PER_CALL_PAUSE = 2.0
+ENABLE_PAUSE = False  # Set to False to disable pause between API calls
+PER_CALL_PAUSE = 2.0  # Seconds to wait between calls (only used if ENABLE_PAUSE is True)
 MAX_RETRIES = 6
 TRANSIENT_CODES = (429, 500, 502, 503, 504)
 
@@ -169,6 +170,8 @@ def main():
     print(f"📂 images   : {img_dir}")
     print(f"💾 out_dir  : {out_dir}")
     print(f"🏷️ custom   : {CUSTOM_FIELD}")
+    pause_status = f"ON ({PER_CALL_PAUSE}s)" if ENABLE_PAUSE else "OFF"
+    print(f"⏸️  pause    : {pause_status}")
     print(f"🚬 smoke    : {'ON' if SMOKE_TEST else 'OFF'}")
 
     for p in files:
@@ -189,7 +192,22 @@ def main():
             row.update({"success": True, "ai_response": txt, "ai_label": label})
             print(f"   📝 AI: {txt}  → {label}")
         results["rows"].append(row)
-        time.sleep(PER_CALL_PAUSE)
+        if ENABLE_PAUSE:
+            time.sleep(PER_CALL_PAUSE)
+
+    # Summary statistics
+    all_rows = results["rows"]
+    total_images = len(all_rows)
+    successful = len([r for r in all_rows if r.get("success")])
+    failed = total_images - successful
+    
+    # Label distribution
+    label_1_count = sum(1 for r in all_rows if r.get("ai_label") == 1)
+    label_0_count = sum(1 for r in all_rows if r.get("ai_label") == 0)
+    label_other = successful - label_1_count - label_0_count
+    
+    percentage_1 = (label_1_count / successful * 100) if successful > 0 else 0
+    percentage_0 = (label_0_count / successful * 100) if successful > 0 else 0
 
     safe_model  = sanitize_for_filename(MODEL_ID)
     safe_custom = sanitize_for_filename(CUSTOM_FIELD)
@@ -200,6 +218,18 @@ def main():
         json.dump(results, f, indent=2, ensure_ascii=False)
 
     print(f"\n📁 JSON saved: {out_path}")
+    
+    # Print summary
+    print("\n🎯 TEST RESULTS SUMMARY")
+    print("=" * 60)
+    print(f"Total images tested: {total_images}")
+    print(f"Successfully completed: {successful}")
+    print(f"Failed: {failed}")
+    print(f"\n📊 Label Distribution:")
+    print(f"   ai_label = 1: {label_1_count} ({percentage_1:.2f}%)")
+    print(f"   ai_label = 0: {label_0_count} ({percentage_0:.2f}%)")
+    if label_other > 0:
+        print(f"   Other/Invalid: {label_other}")
 
 if __name__ == "__main__":
     main()
