@@ -1,0 +1,2409 @@
+{
+  "date": "2025-11-05T21:54:20.583970",
+  "model": "gpt-5",
+  "images_path": "/home/ubuntu/RadiovLLMjection/Images/ProjectImg/raw_512x512",
+  "prompt": "You are a strict medical image classifier.\nLook at the image and output ONLY one character:\n1 if pathology present, 0 if absent.\nNo words, no punctuation.",
+  "count": 300,
+  "rows": [
+    {
+      "image": "512_raw_M_10.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:54:25.643913",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_103.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:54:29.579369",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_104.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:54:32.655670",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_109.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:54:36.100212",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_11.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:54:38.989863",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_113.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:54:42.107433",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_115.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:54:45.880255",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_121.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:54:49.548012",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_127.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:54:54.807223",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_131.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:55:00.048851",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_132.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:55:02.920955",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_134.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:55:09.118607",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_136.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:55:13.431263",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_14.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:55:16.924941",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_140.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:55:19.937651",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_141.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:55:23.236108",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_148.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:55:28.721591",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_149.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:55:36.775004",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_150.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:55:39.220048",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_152.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:55:43.094762",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_155.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:55:46.554987",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_157.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:55:50.465242",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_16.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:55:53.204721",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_163.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:55:58.370952",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_168.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:56:02.349167",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_169.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:56:05.173896",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_174.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:56:09.456146",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_175.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:56:12.175719",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_184.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:56:16.407485",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_185.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:56:22.518252",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_186.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:56:28.835428",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_19.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:56:32.973656",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_196.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:56:36.792149",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_201.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:56:40.609368",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_205.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:56:44.444312",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_215.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:56:48.458865",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_221.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:56:52.405454",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_227.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:56:58.581592",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_240.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:57:00.695143",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_247.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:57:04.911252",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_248.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:57:08.091468",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_25.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:57:11.669466",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_250.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:57:16.144484",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_257.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:57:19.236272",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_258.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:57:25.024895",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_265.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:57:29.352212",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_272.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:57:33.106672",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_273.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:57:36.656486",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_283.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:57:42.826537",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_287.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:57:45.915114",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_290.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:57:49.385029",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_292.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:57:53.534488",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_294.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:57:58.258414",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_298.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:58:01.152445",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_299.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:58:04.144447",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_309.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:58:08.017136",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_311.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:58:10.858231",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_313.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:58:13.990566",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_314.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:58:17.480897",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_316.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:58:22.062668",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_324.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:58:25.501542",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_329.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:58:39.002148",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_331.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:58:42.259330",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_342.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:58:45.477567",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_344.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:58:49.147156",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_345.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:58:52.265843",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_35.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:58:56.612096",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_350.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:58:59.859010",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_353.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:03.212446",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_368.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:06.319430",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_37.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:08.690909",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_376.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:13.563765",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_38.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:18.194553",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_380.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:21.226729",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_381.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:26.537186",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_385.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:31.503743",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_386.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:33.897028",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_387.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:37.264759",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_390.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:41.148276",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_394.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:44.351145",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_4.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:47.205618",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_400.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:50.239332",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_41.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:53.680269",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_45.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T21:59:57.202177",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_54.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:00:04.419966",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_6.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:00:07.209736",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_66.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:00:21.833726",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_67.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:00:25.949411",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_69.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:00:28.844266",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_70.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:00:35.760942",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_72.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:00:41.828269",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_73.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:00:49.851289",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_79.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:00:52.968848",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_8.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:00:59.514639",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_82.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:03.594007",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_86.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:09.023523",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_90.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:11.283079",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_92.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:14.156620",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_94.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:17.201995",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_M_99.jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:19.784851",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (102).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:22.242204",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (104).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:24.819743",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (105).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:27.698599",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (109).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:30.803082",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (113).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:34.777681",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (115).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:36.979696",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (122).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:41.436485",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (127).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:45.584670",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (129).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:48.825273",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (132).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:51.713507",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (142).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:55.319337",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (144).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:01:57.953003",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (145).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:02:00.935410",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (147).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:02:04.919351",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (150).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:02:07.920684",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (152).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:02:16.201493",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_glioma (153).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:02:19.752083",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (155).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:02:23.097980",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (156).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:02:30.034363",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (159).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:02:34.495888",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (16).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:02:38.993097",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (163).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:02:42.736809",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (167).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:02:46.582124",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (172).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:02:49.568913",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (175).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:02:57.376022",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (176).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:03:02.974351",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (18).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:03:08.870216",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (184).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:03:12.008900",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (185).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:03:15.643854",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (189).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:03:20.388240",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (195).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:03:23.779904",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (198).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:03:27.480087",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (201).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:03:31.007255",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (205).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:03:33.852955",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (212).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:03:44.266206",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (216).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:03:47.315109",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (218).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:03:55.206338",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (22).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:04:00.897642",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (227).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:04:08.090226",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (231).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:04:13.703362",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (233).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:04:16.904378",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (235).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:04:20.770420",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (239).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:04:32.207154",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (243).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:04:38.023524",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_glioma (247).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:04:42.023247",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (248).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:04:45.758922",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (249).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:04:53.118623",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (253).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:04:56.143998",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (256).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:04:59.964810",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (260).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:05:03.875487",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (262).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:05:07.829819",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (266).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:05:17.846557",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (268).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:05:21.517150",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (270).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:05:27.674718",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_glioma (272).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:05:31.861763",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (275).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:05:37.465487",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (277).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:05:56.462354",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (280).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:06:03.463162",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (281).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:06:07.029255",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (285).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:06:11.118005",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (287).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:06:14.349649",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (290).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:06:24.538587",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (296).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:06:27.210070",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (30).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:06:35.929125",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (300).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:06:39.915952",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (309).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:06:43.606979",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (310).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:06:54.329476",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_glioma (312).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:06:59.673057",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_glioma (313).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:07:03.719723",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (315).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:07:07.617645",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (316).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:07:11.275211",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (319).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:07:15.228334",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (328).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:07:18.276681",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (33).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:07:22.396678",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (334).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:07:24.741307",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (337).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:07:29.145723",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (350).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:07:32.571852",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (351).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:07:46.011715",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (353).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:07:48.668245",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (357).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:07:51.900126",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (360).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:08:06.918590",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_glioma (365).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:08:10.474917",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (367).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:08:17.516083",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_glioma (368).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:08:19.773540",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (37).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:08:24.096851",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (38).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:08:28.890752",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (4).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:08:31.603030",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (41).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:08:35.335668",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (48).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:08:40.482844",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (6).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:08:42.791028",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (63).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:08:45.082005",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (75).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:08:51.059560",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (78).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:08:54.141625",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (79).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:08:59.798126",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (8).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:09:06.245719",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_glioma (83).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:09:08.385073",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (85).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:09:13.132195",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (88).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:09:15.767287",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_glioma (95).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:09:26.696860",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_glioma (98).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:09:30.748463",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (1).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:09:33.125859",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (102).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:09:38.880201",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (106).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:09:41.504240",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (108).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:09:55.788557",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (111).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:10:00.099071",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (118).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:10:05.626249",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (119).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:10:16.805680",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (124).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:10:29.908064",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (127).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:10:38.029472",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (135).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:10:43.458364",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (136).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:10:52.221989",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (137).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:11:14.513150",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (14).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:11:18.783446",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (140).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:11:33.813300",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (141).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:11:43.145200",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (147).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:11:58.997486",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (150).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:12:03.919015",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (152).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:12:11.605225",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (153).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:12:31.803503",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (16).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:12:35.100096",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (166).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:12:49.187715",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (167).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:13:00.767538",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (169).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:13:04.254660",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (170).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:13:13.454019",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (179).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:13:17.689483",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (183).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:13:21.423284",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (184).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:13:38.705298",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (195).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:13:45.035556",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (197).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:13:57.149163",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (199).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:14:00.413261",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (20).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:14:09.695228",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (200).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:14:13.186923",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (202).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:14:23.259105",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (203).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:14:27.885228",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (204).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:14:48.600587",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (209).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:15:01.365959",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (213).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:15:05.630661",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (214).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:15:16.978305",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (221).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:15:23.569148",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (222).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:15:40.735705",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (224).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:15:43.403238",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (225).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:15:56.984555",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (227).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:16:00.556317",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (229).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:16:17.120909",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (230).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:16:26.263069",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (234).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:16:42.002823",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (235).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:16:48.972548",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (249).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:16:52.987062",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (25).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:17:22.662390",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (259).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:17:38.906656",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (260).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:17:41.822182",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (263).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:17:46.041267",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (265).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:17:49.695464",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (275).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:17:54.227920",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (277).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:18:03.536309",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (28).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:18:08.884917",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (280).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:18:12.225322",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (281).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:18:18.837363",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (285).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:18:31.390174",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (290).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:18:50.989021",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (296).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:19:22.703113",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (297).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:19:38.546848",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (298).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:19:50.630540",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (300).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:19:56.571204",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (313).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:20:13.253641",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (316).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:20:16.762615",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (324).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:20:20.191970",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (327).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:20:25.050462",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (334).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:20:28.507382",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (336).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:21:05.149919",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (337).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:21:10.517967",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (348).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:21:25.171752",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (350).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:21:29.598456",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (352).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:21:38.922254",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (353).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:21:42.073284",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (357).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:21:45.870064",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (36).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:21:52.646109",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (361).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:22:14.822302",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (363).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:22:19.750954",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (366).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:22:25.926009",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (367).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:23:00.275395",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (37).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:23:05.428581",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (370).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:23:27.946163",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (371).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:23:40.755991",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (372).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:23:44.850467",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (373).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:23:52.617439",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (41).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:23:57.589013",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (45).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:24:01.077270",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (46).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:24:05.731320",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (48).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:24:11.503909",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (50).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:24:19.096431",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (57).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:24:26.758673",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (65).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:24:39.328919",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (67).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:24:51.113501",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (68).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:24:54.538197",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (8).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:24:58.484537",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (88).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:25:02.330647",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (91).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:25:05.716893",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "512_raw_pituitary (93).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:25:15.790179",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "512_raw_pituitary (98).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-05T22:25:21.371078",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    }
+  ]
+}
