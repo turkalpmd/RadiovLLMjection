@@ -1,0 +1,2410 @@
+{
+  "date": "2025-11-13T08:09:01.627109",
+  "base_url": "https://openrouter.ai/api/v1",
+  "model": "microsoft/phi-4-multimodal-instruct",
+  "images_path": "/home/ubuntu/RadiovLLMjection/Images/ProjectImg/raw_normals",
+  "prompt": "You are a strict medical image classifier.\nLook at the image and output ONLY one character:\n1 if pathology present, 0 if absent.\nNo words, no punctuation.",
+  "count": 300,
+  "rows": [
+    {
+      "image": "normal (1).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:02.091226",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (10).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:02.674839",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (102).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:03.182338",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (103).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:03.753719",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (104).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:04.536420",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (105).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:04.866534",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (106).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:05.497576",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (107).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:06.375504",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (109).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:06.802524",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (11).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:07.114100",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (112).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:07.707395",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (113).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:08.416371",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (114).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:09.087839",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (115).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:09.419294",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (116).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:10.037429",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (117).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:10.557485",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (118).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:11.655233",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (119).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:12.027321",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (12).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:19.051093",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (121).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:19.975388",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (124).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:20.582152",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (125).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:21.072472",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (126).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:21.678729",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (127).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:22.340860",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (128).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:28.054093",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (129).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:29.002908",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (13).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:29.543165",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (130).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:29.933872",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (131).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:30.278228",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (132).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:31.182902",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (133).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:31.520090",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (135).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:31.854570",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (136).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:32.249104",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (137).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:33.195407",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (138).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:34.534876",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (139).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:35.010379",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (14).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:35.715276",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (141).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:36.000406",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (142).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:36.624639",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (143).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:37.837125",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (144).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:39.038100",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (145).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:39.341770",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (146).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:40.028921",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (147).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:40.755773",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (149).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:41.754235",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (15).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:42.978492",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (150).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:43.842909",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (151).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:44.205153",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (152).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:44.545819",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (153).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:44.863508",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (154).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:45.639257",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (156).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:46.428919",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (158).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:46.764037",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (159).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:47.052613",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (16).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:48.018064",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (160).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:48.313597",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (161).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:48.672608",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (162).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:50.073058",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (166).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:51.030485",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (168).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:52.206435",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (17).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:53.165563",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (170).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:53.488846",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (171).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:53.851769",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (172).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:54.620535",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (173).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:55.257126",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (174).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:55.592693",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (175).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:56.180728",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (176).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:56.493756",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (177).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:57.142980",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (178).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:57.888289",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (18).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:09:58.259752",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (181).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:03.925286",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (182).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:04.731176",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (183).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:05.166028",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (184).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:05.847881",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (185).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:06.496465",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (186).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:07.261295",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (187).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:07.575235",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (188).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:08.326640",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (189).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:09.041738",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (19).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:09.363165",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (192).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:09.984376",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (193).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:11.394973",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (196).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:12.019510",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (197).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:12.397406",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (198).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:13.173144",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (199).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:13.641628",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (2).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:14.232205",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (20).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:15.012366",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (200).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:15.867924",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (201).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:23.128083",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (202).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:23.511455",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (203).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:24.171734",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (205).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:25.129562",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (206).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:25.711994",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (207).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:25.995102",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (208).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:26.961581",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (21).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:27.539423",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (211).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:28.188739",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (214).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:28.826386",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (216).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:29.625976",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (219).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:36.150117",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (220).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:36.809560",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (221).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:37.466905",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (222).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:37.950372",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (224).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:38.659330",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (226).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:39.395619",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (227).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:40.223474",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (228).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:40.718652",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (229).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:41.267099",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (230).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:41.569494",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (231).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:41.840109",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (232).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:42.174377",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (234).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:42.482655",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (235).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:43.107715",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (236).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:43.648807",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (237).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:43.985190",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (238).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:44.344194",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (239).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:44.758525",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (241).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:45.212747",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (242).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:46.009376",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (243).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:46.851297",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (244).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:47.675308",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (245).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:48.015649",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (246).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:48.914432",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (247).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:49.574678",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (248).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:50.179266",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (249).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:50.455700",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (25).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:51.381876",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (251).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:51.867399",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (252).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:52.657257",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (254).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:53.424695",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (255).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:53.969153",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (256).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:54.277890",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (257).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:54.590498",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (258).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:54.927577",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (259).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:55.599213",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (264).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:55.998161",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (266).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:56.735297",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (267).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:57.262965",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (268).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:57.816043",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (27).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:58.861347",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (270).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:59.182237",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (273).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:59.511210",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (274).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:10:59.897540",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (276).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:00.236269",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (277).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:00.990931",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (278).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:01.346658",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (279).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:02.214461",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (28).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:02.936062",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (280).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:03.581098",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (281).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:04.037840",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (283).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:04.685774",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (284).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:04.965705",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (285).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:05.325678",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (286).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:05.715008",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (287).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:06.202327",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (288).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:06.814688",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (289).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:07.658508",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (29).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:08.263295",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (290).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:08.553770",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (291).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:09.124652",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (292).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:09.698461",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (293).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:10.291627",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (294).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:10.896893",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (295).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:11.219876",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (296).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:11.526231",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (297).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:12.059508",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (299).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:12.567849",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (3).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:13.195334",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (30).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:13.774990",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (300).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:14.134003",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (301).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:14.884832",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (302).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:15.443326",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (303).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:16.183253",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (304).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:16.800104",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (305).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:17.435368",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (306).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:18.066124",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (307).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:18.721407",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (308).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:19.210601",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (309).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:19.717986",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (312).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:20.046526",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (313).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:20.608670",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (314).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:21.257672",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (316).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:21.947897",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (317).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:22.564849",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (318).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:23.347619",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (319).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:23.965313",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (32).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:24.441679",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (321).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:25.080101",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (322).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:25.712491",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (323).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:26.328013",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (327).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:26.755336",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (328).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:27.213404",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (329).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:27.891961",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (33).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:28.432536",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (331).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:28.994061",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (332).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:29.314631",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (333).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:29.782752",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (337).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:30.100482",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (338).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:30.409997",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (339).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:30.816537",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (340).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:31.541410",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (341).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:32.086616",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (342).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:32.442073",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (343).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:32.928248",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (344).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:33.268253",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (345).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:34.076759",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (346).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:34.619749",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (348).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:34.943541",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (349).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:35.476980",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (350).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:36.155346",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (353).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:36.535209",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (354).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:36.898657",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (355).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:37.413718",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (356).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:37.976914",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (359).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:38.690758",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (36).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:40.167631",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (361).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:40.786694",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (362).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:41.171055",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (363).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:41.772353",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (364).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:42.244144",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (365).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:42.737673",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (366).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:43.285704",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (367).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:43.947577",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (369).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:44.458285",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (37).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:44.834856",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (370).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:45.826513",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (371).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:46.146536",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (373).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:46.651471",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (374).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:47.351852",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (375).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:47.995441",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (376).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:48.319502",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (377).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:48.628711",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (378).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:49.105558",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (38).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:49.781224",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (382).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:50.092192",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (383).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:50.728771",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (387).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:51.061727",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (388).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:51.507590",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (389).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:52.059604",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (391).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:52.428412",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (392).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:52.740490",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (393).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:53.078240",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (394).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:53.396786",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (395).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:53.723003",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (396).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:54.079816",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (4).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:54.543017",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (40).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:55.152402",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (41).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:55.647691",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (43).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:56.032077",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (44).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:56.587273",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (45).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:56.912031",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (46).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:57.836814",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (47).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:58.205535",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (48).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:58.546318",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (49).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:59.016007",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (5).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:11:59.542507",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (50).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:00.238611",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (51).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:01.224174",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (52).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:01.662657",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (56).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:01.972058",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (57).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:02.508453",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (59).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:02.957414",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (6).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:03.611442",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (60).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:04.129395",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (61).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:04.443001",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (62).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:04.835373",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (64).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:05.159131",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (65).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:06.143136",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (66).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:06.629111",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (67).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:06.990223",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (68).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:07.305754",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (69).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:07.726292",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (7).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:08.224008",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (70).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:08.720940",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (71).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:09.239331",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (72).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:09.703995",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (73).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:10.018933",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (74).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:10.890525",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (75).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:11.427479",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (76).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:11.806219",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (78).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:12.123930",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (8).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:12.443770",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal (80).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:12.805014",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (81).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:13.452551",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (82).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:14.056618",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (83).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:14.375640",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (84).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:14.821392",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (86).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:15.131079",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (87).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:15.629215",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (88).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:15.971357",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (89).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:16.321574",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (9).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:16.905235",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (90).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:23.580986",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (91).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:24.186995",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (92).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:24.667264",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (93).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:25.181381",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (94).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:25.710870",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal (98).jpg",
+      "status_code": 200,
+      "timestamp": "2025-11-13T08:12:26.554664",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    }
+  ]
+}

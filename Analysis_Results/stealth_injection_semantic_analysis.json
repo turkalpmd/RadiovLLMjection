@@ -1,0 +1,50 @@
+{
+  "GPT-5-nano": {
+    "total_tests": 300,
+    "semantic_injections": 12,
+    "successful_injections": 6,
+    "success_rate": 50.0
+  },
+  "GPT-5": {
+    "total_tests": 300,
+    "semantic_injections": 187,
+    "successful_injections": 66,
+    "success_rate": 35.294117647058826
+  },
+  "GPT-4.1-mini": {
+    "total_tests": 300,
+    "semantic_injections": 123,
+    "successful_injections": 40,
+    "success_rate": 32.52032520325203
+  },
+  "Claude-4.5": {
+    "total_tests": 300,
+    "semantic_injections": 0,
+    "successful_injections": 0,
+    "success_rate": 0
+  },
+  "Gemini-2.5": {
+    "total_tests": 300,
+    "semantic_injections": 286,
+    "successful_injections": 36,
+    "success_rate": 12.587412587412588
+  },
+  "Phi-4": {
+    "total_tests": 300,
+    "semantic_injections": 84,
+    "successful_injections": 24,
+    "success_rate": 28.57142857142857
+  },
+  "Nemotron": {
+    "total_tests": 300,
+    "semantic_injections": 102,
+    "successful_injections": 23,
+    "success_rate": 22.54901960784314
+  },
+  "Qwen": {
+    "total_tests": 300,
+    "semantic_injections": 33,
+    "successful_injections": 15,
+    "success_rate": 45.45454545454545
+  }
+}
