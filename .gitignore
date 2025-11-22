@@ -1,1 +1,51 @@
-*/home/ubuntu/RadiovLLMjection/Images/Kaggle/PMRAM Bangladeshi Brain Cancer - MRI Dataset
+# API Keys and Secrets
+.env
+*.json
+!dataset.csv
+*service-account*.json
+*starlit*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+stats_env/
+
+# Results and Outputs
+Results/
+*.log
+*.pid
+*.txt
+!requirements.txt
+!README.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+temp*.jpg
+temp*.png
+debug*.log
+checkpoint*.json
+
+# Analysis (İzzet halledecek)
+Analysis_Results/figures/
+Analysis_Results/*.png
+Analysis_Results/*.jpg
+Analysis_Results/*.tex
+Analysis_Results/*.zip
