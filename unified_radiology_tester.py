@@ -237,10 +237,16 @@ class UnifiedRadiologyTester:
                 else:
                     # Final attempt failed
                     print(f"   Error: All {MAX_RETRIES} attempts failed: {error_msg[:80]}")
+                    
+                    # For logging, combine prompts
+                    prompt_log = f"System: {system_prompt[:50]}..." if system_prompt else user_prompt[:100]
+                    if len(prompt_log) > 100:
+                        prompt_log = prompt_log[:100] + "..."
+                    
                     return TestResult(
                         image_path=image_path,
                         test_type=test_type,
-                        prompt=prompt[:100] + "..." if len(prompt) > 100 else prompt,
+                        prompt=prompt_log,
                         response="",
                         classification=None,
                         success=False,
