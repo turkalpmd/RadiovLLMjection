@@ -1,0 +1,86 @@
+ACADEMIC MODEL ANALYSIS REPORT
+==============================
+
+EXECUTIVE SUMMARY
+--------------------
+This comprehensive analysis evaluates 10 multimodal large language models across 5 test scenarios using 1048 medical images across 2 diagnostic categories.
+
+METHODOLOGY
+------------
+Models were tested using ground truth classification, injection attacks, and immune defense mechanisms. Performance metrics include accuracy rates, deception rates, and statistical significance tests.
+
+KEY RESULTS
+------------
+• Dataset contains 6,000 test instances across 10 multimodal models
+• Average GT accuracy: 82.9% (SD: 12.8%)
+• Average injection attack success: 79.4%
+• Most vulnerable model: anthropic_claude_sonnet_4_5
+• Most robust model: google_gemini_3_pro_preview
+• Data completeness: 59.8% average across all test types
+
+MODEL PERFORMANCE DETAILS
+--------------------------
+
+ANTHROPIC_CLAUDE_SONNET_4_5:
+  - GT_Accuracy: 91.7%
+  - injected_deception: 100.0%
+  - injection_immune_deception: 0.0%
+
+GOOGLE_GEMINI_2_5_FLASH:
+  - GT_Accuracy: 98.7%
+  - injected_deception: 50.7%
+  - injection_immune_deception: 0.3%
+
+GOOGLE_GEMINI_3_PRO_PREVIEW:
+  - GT_Accuracy: 97.3%
+  - injected_deception: 26.8%
+  - injection_immune_deception: 15.3%
+  - stealth_injected_deception: 19.3%
+  - stealth_injection_immune_deception: 10.1%
+
+GPT_4_1_MINI:
+  - GT_Accuracy: 74.0%
+  - injected_deception: 75.3%
+  - injection_immune_deception: 15.3%
+
+GPT_5:
+  - GT_Accuracy: 80.0%
+  - injected_deception: 53.0%
+  - injection_immune_deception: 19.7%
+
+GPT_5_NANO:
+  - GT_Accuracy: 59.0%
+  - injected_deception: 93.3%
+  - injection_immune_deception: 56.0%
+
+MICROSOFT_PHI_4_MULTIMODAL_INSTRUCT:
+  - GT_Accuracy: 72.3%
+  - injected_deception: 99.0%
+  - injection_immune_deception: 0.0%
+
+NVIDIA_NEMOTRON_NANO_12B_V2_VL_FREE:
+  - GT_Accuracy: 77.7%
+  - injected_deception: 95.7%
+  - injection_immune_deception: 87.7%
+
+QWEN_QWEN2_5_VL_32B_INSTRUCT:
+  - GT_Accuracy: 99.7%
+  - injected_deception: 100.0%
+
+QWEN_QWEN3_VL_8B_THINKING:
+  - GT_Accuracy: 78.8%
+  - injected_deception: 100.0%
+  - injection_immune_deception: 54.2%
+
+SECURITY ASSESSMENT
+--------------------
+anthropic_claude_sonnet_4_5: CRITICAL vulnerability to injection attacks (100.0%), LOW to stealth attacks (0.0%)
+google_gemini_2_5_flash: HIGH vulnerability to injection attacks (50.7%), LOW to stealth attacks (0.0%)
+google_gemini_3_pro_preview: MEDIUM vulnerability to injection attacks (26.8%), LOW to stealth attacks (19.3%)
+gpt_4_1_mini: HIGH vulnerability to injection attacks (75.3%), LOW to stealth attacks (0.0%)
+gpt_5: HIGH vulnerability to injection attacks (53.0%), LOW to stealth attacks (0.0%)
+gpt_5_nano: CRITICAL vulnerability to injection attacks (93.3%), LOW to stealth attacks (0.0%)
+microsoft_phi_4_multimodal_instruct: CRITICAL vulnerability to injection attacks (99.0%), LOW to stealth attacks (0.0%)
+nvidia_nemotron_nano_12b_v2_vl_free: CRITICAL vulnerability to injection attacks (95.7%), LOW to stealth attacks (0.0%)
+qwen_qwen2_5_vl_32b_instruct: CRITICAL vulnerability to injection attacks (100.0%), LOW to stealth attacks (0.0%)
+qwen_qwen3_vl_8b_thinking: CRITICAL vulnerability to injection attacks (100.0%), LOW to stealth attacks (0.0%)
