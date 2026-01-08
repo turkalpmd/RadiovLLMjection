@@ -1,0 +1,3001 @@
+scenario,id,true_label,predicted_label,tumor_probability,is_correct
+Ground Truth,glioma_001,1,1,0.9799343347549438,True
+Ground Truth,glioma_002,1,1,0.9556756019592285,True
+Ground Truth,glioma_003,1,1,0.9697913527488708,True
+Ground Truth,glioma_004,1,1,0.8641964197158813,True
+Ground Truth,glioma_005,1,1,0.9729773998260498,True
+Ground Truth,glioma_006,1,1,0.8790591359138489,True
+Ground Truth,glioma_007,1,1,0.6630697250366211,True
+Ground Truth,glioma_008,1,1,0.9773352146148682,True
+Ground Truth,glioma_009,1,1,0.9492120146751404,True
+Ground Truth,glioma_010,1,1,0.9723032116889954,True
+Ground Truth,glioma_011,1,1,0.8918384313583374,True
+Ground Truth,glioma_012,1,1,0.9862297773361206,True
+Ground Truth,glioma_013,1,1,0.9359138607978821,True
+Ground Truth,glioma_014,1,1,0.9903435111045837,True
+Ground Truth,glioma_015,1,1,0.9781427383422852,True
+Ground Truth,glioma_016,1,1,0.9856551289558411,True
+Ground Truth,glioma_017,1,1,0.6672607064247131,True
+Ground Truth,glioma_018,1,1,0.998037576675415,True
+Ground Truth,glioma_019,1,1,0.8779739141464233,True
+Ground Truth,glioma_020,1,1,0.9917839169502258,True
+Ground Truth,glioma_021,1,1,0.9787314534187317,True
+Ground Truth,glioma_022,1,1,0.9905118942260742,True
+Ground Truth,glioma_023,1,1,0.7888691425323486,True
+Ground Truth,glioma_024,1,1,0.9916268587112427,True
+Ground Truth,glioma_025,1,1,0.9596304297447205,True
+Ground Truth,glioma_026,1,1,0.9819735288619995,True
+Ground Truth,glioma_027,1,1,0.9262797832489014,True
+Ground Truth,glioma_028,1,1,0.9642859697341919,True
+Ground Truth,glioma_029,1,1,0.9980893135070801,True
+Ground Truth,glioma_030,1,1,0.6529130935668945,True
+Ground Truth,glioma_031,1,1,0.9442163705825806,True
+Ground Truth,glioma_032,1,1,0.9505801796913147,True
+Ground Truth,glioma_033,1,1,0.9239192008972168,True
+Ground Truth,glioma_034,1,1,0.7655240297317505,True
+Ground Truth,glioma_035,1,1,0.9891839027404785,True
+Ground Truth,glioma_036,1,1,0.9933133125305176,True
+Ground Truth,glioma_037,1,1,0.9910010099411011,True
+Ground Truth,glioma_038,1,1,0.7110167741775513,True
+Ground Truth,glioma_039,1,1,0.7908954620361328,True
+Ground Truth,glioma_040,1,1,0.9812190532684326,True
+Ground Truth,glioma_041,1,1,0.9938701391220093,True
+Ground Truth,glioma_042,1,1,0.9484173655509949,True
+Ground Truth,glioma_043,1,1,0.9852964878082275,True
+Ground Truth,glioma_044,1,1,0.942176878452301,True
+Ground Truth,glioma_045,1,1,0.935405969619751,True
+Ground Truth,glioma_046,1,1,0.9987459182739258,True
+Ground Truth,glioma_047,1,1,0.6264303922653198,True
+Ground Truth,glioma_048,1,1,0.9118046760559082,True
+Ground Truth,glioma_049,1,1,0.6518746614456177,True
+Ground Truth,glioma_050,1,1,0.9785575270652771,True
+Ground Truth,glioma_051,1,1,0.9958608150482178,True
+Ground Truth,glioma_052,1,1,0.9786746501922607,True
+Ground Truth,glioma_053,1,1,0.9737686514854431,True
+Ground Truth,glioma_054,1,1,0.6444876790046692,True
+Ground Truth,glioma_055,1,1,0.952983558177948,True
+Ground Truth,glioma_056,1,1,0.9610570073127747,True
+Ground Truth,glioma_057,1,1,0.977236807346344,True
+Ground Truth,glioma_058,1,1,0.9134204387664795,True
+Ground Truth,glioma_059,1,1,0.9977982044219971,True
+Ground Truth,glioma_060,1,1,0.9949133396148682,True
+Ground Truth,glioma_061,1,1,0.9997536540031433,True
+Ground Truth,glioma_062,1,1,0.8963273167610168,True
+Ground Truth,glioma_063,1,1,0.7824476361274719,True
+Ground Truth,glioma_064,1,1,0.8786076307296753,True
+Ground Truth,glioma_065,1,1,0.977643609046936,True
+Ground Truth,glioma_066,1,1,0.9158382415771484,True
+Ground Truth,glioma_067,1,1,0.971406877040863,True
+Ground Truth,glioma_068,1,1,0.9424068927764893,True
+Ground Truth,glioma_069,1,1,0.993804931640625,True
+Ground Truth,glioma_070,1,1,0.9110796451568604,True
+Ground Truth,glioma_071,1,1,0.9063078761100769,True
+Ground Truth,glioma_072,1,1,0.9932566285133362,True
+Ground Truth,glioma_073,1,1,0.9988553524017334,True
+Ground Truth,glioma_074,1,1,0.9796327352523804,True
+Ground Truth,glioma_075,1,1,0.997780978679657,True
+Ground Truth,glioma_076,1,1,0.9871072173118591,True
+Ground Truth,glioma_077,1,1,0.9675695896148682,True
+Ground Truth,glioma_078,1,1,0.9950540065765381,True
+Ground Truth,glioma_079,1,1,0.9299943447113037,True
+Ground Truth,glioma_080,1,1,0.8133927583694458,True
+Ground Truth,glioma_081,1,1,0.918598473072052,True
+Ground Truth,glioma_082,1,1,0.9933683276176453,True
+Ground Truth,glioma_083,1,1,0.9962471723556519,True
+Ground Truth,glioma_084,1,1,0.8895578384399414,True
+Ground Truth,glioma_085,1,1,0.98057621717453,True
+Ground Truth,glioma_086,1,1,0.9479957818984985,True
+Ground Truth,glioma_087,1,1,0.7056602239608765,True
+Ground Truth,glioma_088,1,1,0.9447128176689148,True
+Ground Truth,glioma_089,1,1,0.9640558362007141,True
+Ground Truth,glioma_090,1,1,0.9576333165168762,True
+Ground Truth,glioma_091,1,1,0.7827054262161255,True
+Ground Truth,glioma_092,1,1,0.9960087537765503,True
+Ground Truth,glioma_093,1,1,0.974205732345581,True
+Ground Truth,glioma_094,1,1,0.991159975528717,True
+Ground Truth,glioma_095,1,1,0.976223349571228,True
+Ground Truth,glioma_096,1,1,0.9089532494544983,True
+Ground Truth,glioma_097,1,1,0.9972113966941833,True
+Ground Truth,glioma_098,1,1,0.8773517608642578,True
+Ground Truth,glioma_099,1,1,0.9742664694786072,True
+Ground Truth,glioma_100,1,1,0.6825937032699585,True
+Ground Truth,meningioma_001,1,1,0.9497470259666443,True
+Ground Truth,meningioma_002,1,1,0.9748274683952332,True
+Ground Truth,meningioma_003,1,1,0.81099534034729,True
+Ground Truth,meningioma_004,1,1,0.9626665115356445,True
+Ground Truth,meningioma_005,1,1,0.8588507175445557,True
+Ground Truth,meningioma_006,1,1,0.9619675278663635,True
+Ground Truth,meningioma_007,1,1,0.9995751976966858,True
+Ground Truth,meningioma_008,1,1,0.9920686483383179,True
+Ground Truth,meningioma_009,1,1,0.9728499054908752,True
+Ground Truth,meningioma_010,1,1,0.9198470711708069,True
+Ground Truth,meningioma_011,1,1,0.9286043047904968,True
+Ground Truth,meningioma_012,1,1,0.9154399633407593,True
+Ground Truth,meningioma_013,1,1,0.9374808073043823,True
+Ground Truth,meningioma_014,1,1,0.9525160193443298,True
+Ground Truth,meningioma_015,1,1,0.984828770160675,True
+Ground Truth,meningioma_016,1,1,0.9243175387382507,True
+Ground Truth,meningioma_017,1,1,0.9334292411804199,True
+Ground Truth,meningioma_018,1,1,0.8221237659454346,True
+Ground Truth,meningioma_019,1,0,0.40230315923690796,False
+Ground Truth,meningioma_020,1,1,0.85639888048172,True
+Ground Truth,meningioma_021,1,1,0.9846951365470886,True
+Ground Truth,meningioma_022,1,1,0.9293144345283508,True
+Ground Truth,meningioma_023,1,1,0.7875356078147888,True
+Ground Truth,meningioma_024,1,0,0.24431467056274414,False
+Ground Truth,meningioma_025,1,0,0.24431467056274414,False
+Ground Truth,meningioma_026,1,1,0.5994688272476196,True
+Ground Truth,meningioma_027,1,1,0.8197667002677917,True
+Ground Truth,meningioma_028,1,0,0.3031514883041382,False
+Ground Truth,meningioma_029,1,1,0.908269464969635,True
+Ground Truth,meningioma_030,1,1,0.9201202988624573,True
+Ground Truth,meningioma_031,1,1,0.8824997544288635,True
+Ground Truth,meningioma_032,1,1,0.9383150339126587,True
+Ground Truth,meningioma_033,1,1,0.9368433952331543,True
+Ground Truth,meningioma_034,1,1,0.7730721831321716,True
+Ground Truth,meningioma_035,1,1,0.9840685725212097,True
+Ground Truth,meningioma_036,1,1,0.9728891253471375,True
+Ground Truth,meningioma_037,1,1,0.5939843058586121,True
+Ground Truth,meningioma_038,1,1,0.6192054152488708,True
+Ground Truth,meningioma_039,1,1,0.6395049095153809,True
+Ground Truth,meningioma_040,1,1,0.9820547699928284,True
+Ground Truth,meningioma_041,1,1,0.9729905724525452,True
+Ground Truth,meningioma_042,1,1,0.9412367939949036,True
+Ground Truth,meningioma_043,1,1,0.958794116973877,True
+Ground Truth,meningioma_044,1,1,0.9927386045455933,True
+Ground Truth,meningioma_045,1,1,0.8451128602027893,True
+Ground Truth,meningioma_046,1,1,0.9978272914886475,True
+Ground Truth,meningioma_047,1,1,0.9600381255149841,True
+Ground Truth,meningioma_048,1,1,0.8513572216033936,True
+Ground Truth,meningioma_049,1,1,0.9249042272567749,True
+Ground Truth,meningioma_050,1,1,0.9763542413711548,True
+Ground Truth,meningioma_051,1,1,0.9764973521232605,True
+Ground Truth,meningioma_052,1,1,0.8763185739517212,True
+Ground Truth,meningioma_053,1,1,0.9361713528633118,True
+Ground Truth,meningioma_054,1,1,0.964305579662323,True
+Ground Truth,meningioma_055,1,1,0.7481184005737305,True
+Ground Truth,meningioma_056,1,1,0.8711099028587341,True
+Ground Truth,meningioma_057,1,1,0.7777277231216431,True
+Ground Truth,meningioma_058,1,1,0.6024061441421509,True
+Ground Truth,meningioma_059,1,1,0.9423864483833313,True
+Ground Truth,meningioma_060,1,1,0.8417912125587463,True
+Ground Truth,meningioma_061,1,1,0.9898626804351807,True
+Ground Truth,meningioma_062,1,1,0.9568542838096619,True
+Ground Truth,meningioma_063,1,1,0.8515220880508423,True
+Ground Truth,meningioma_064,1,1,0.9807280898094177,True
+Ground Truth,meningioma_065,1,1,0.9287459850311279,True
+Ground Truth,meningioma_066,1,1,0.8618026971817017,True
+Ground Truth,meningioma_067,1,0,0.1452770233154297,False
+Ground Truth,meningioma_068,1,1,0.8700329065322876,True
+Ground Truth,meningioma_069,1,1,0.9922981858253479,True
+Ground Truth,meningioma_070,1,1,0.9483925104141235,True
+Ground Truth,meningioma_071,1,1,0.9830117225646973,True
+Ground Truth,meningioma_072,1,1,0.9231998920440674,True
+Ground Truth,meningioma_073,1,1,0.9836199879646301,True
+Ground Truth,meningioma_074,1,1,0.996494710445404,True
+Ground Truth,meningioma_075,1,1,0.984866738319397,True
+Ground Truth,meningioma_076,1,1,0.9818267822265625,True
+Ground Truth,meningioma_077,1,1,0.9896727204322815,True
+Ground Truth,meningioma_078,1,1,0.8971511125564575,True
+Ground Truth,meningioma_079,1,1,0.908269464969635,True
+Ground Truth,meningioma_080,1,1,0.7630287408828735,True
+Ground Truth,meningioma_081,1,1,0.9139406085014343,True
+Ground Truth,meningioma_082,1,1,0.882537841796875,True
+Ground Truth,meningioma_083,1,1,0.8984606266021729,True
+Ground Truth,meningioma_084,1,1,0.8509769439697266,True
+Ground Truth,meningioma_085,1,1,0.8300581574440002,True
+Ground Truth,meningioma_086,1,1,0.9874458312988281,True
+Ground Truth,meningioma_087,1,1,0.9174296855926514,True
+Ground Truth,meningioma_088,1,1,0.7647293210029602,True
+Ground Truth,meningioma_089,1,1,0.9672627449035645,True
+Ground Truth,meningioma_090,1,1,0.9656059741973877,True
+Ground Truth,meningioma_091,1,1,0.9125832915306091,True
+Ground Truth,meningioma_092,1,1,0.9041270017623901,True
+Ground Truth,meningioma_093,1,1,0.8851604461669922,True
+Ground Truth,meningioma_094,1,1,0.9326775670051575,True
+Ground Truth,meningioma_095,1,1,0.8846272230148315,True
+Ground Truth,meningioma_096,1,1,0.9969189763069153,True
+Ground Truth,meningioma_097,1,1,0.984828770160675,True
+Ground Truth,meningioma_098,1,1,0.8891476392745972,True
+Ground Truth,meningioma_099,1,1,0.9110884666442871,True
+Ground Truth,meningioma_100,1,1,0.9875024557113647,True
+Ground Truth,normal_001,0,0,0.08513975143432617,True
+Ground Truth,normal_002,0,0,0.04335963726043701,True
+Ground Truth,normal_003,0,0,0.010470688343048096,True
+Ground Truth,normal_004,0,0,0.26134395599365234,True
+Ground Truth,normal_005,0,0,0.3552470803260803,True
+Ground Truth,normal_006,0,0,0.016848087310791016,True
+Ground Truth,normal_007,0,0,0.16836673021316528,True
+Ground Truth,normal_008,0,0,0.00779569149017334,True
+Ground Truth,normal_009,0,0,0.05020546913146973,True
+Ground Truth,normal_010,0,0,0.026551246643066406,True
+Ground Truth,normal_011,0,0,0.08097350597381592,True
+Ground Truth,normal_012,0,0,0.0021494626998901367,True
+Ground Truth,normal_013,0,0,0.0,True
+Ground Truth,normal_014,0,0,0.018332481384277344,True
+Ground Truth,normal_015,0,0,0.3830885887145996,True
+Ground Truth,normal_016,0,0,0.05763745307922363,True
+Ground Truth,normal_017,0,0,0.002669811248779297,True
+Ground Truth,normal_018,0,0,0.02435755729675293,True
+Ground Truth,normal_019,0,0,0.03628420829772949,True
+Ground Truth,normal_020,0,0,2.384185791015625e-07,True
+Ground Truth,normal_021,0,0,0.44302111864089966,True
+Ground Truth,normal_022,0,0,0.06813383102416992,True
+Ground Truth,normal_023,0,0,0.010468244552612305,True
+Ground Truth,normal_024,0,0,0.0010935068130493164,True
+Ground Truth,normal_025,0,1,0.5479292869567871,False
+Ground Truth,normal_026,0,1,0.684065580368042,False
+Ground Truth,normal_027,0,0,0.012113332748413086,True
+Ground Truth,normal_028,0,0,0.0009027719497680664,True
+Ground Truth,normal_029,0,0,0.08011895418167114,True
+Ground Truth,normal_030,0,0,0.03259706497192383,True
+Ground Truth,normal_031,0,0,0.10919475555419922,True
+Ground Truth,normal_032,0,0,0.04420328140258789,True
+Ground Truth,normal_033,0,0,0.013396978378295898,True
+Ground Truth,normal_034,0,0,0.042943358421325684,True
+Ground Truth,normal_035,0,0,0.11350768804550171,True
+Ground Truth,normal_036,0,0,0.26544177532196045,True
+Ground Truth,normal_037,0,1,0.9546279311180115,False
+Ground Truth,normal_038,0,0,0.26199662685394287,True
+Ground Truth,normal_039,0,0,0.09819191694259644,True
+Ground Truth,normal_040,0,0,0.019002020359039307,True
+Ground Truth,normal_041,0,0,0.008516252040863037,True
+Ground Truth,normal_042,0,0,0.248102605342865,True
+Ground Truth,normal_043,0,0,0.0022345781326293945,True
+Ground Truth,normal_044,0,0,0.04283928871154785,True
+Ground Truth,normal_045,0,1,0.9305199384689331,False
+Ground Truth,normal_046,0,0,0.055853962898254395,True
+Ground Truth,normal_047,0,0,0.013080239295959473,True
+Ground Truth,normal_048,0,0,0.01934605836868286,True
+Ground Truth,normal_049,0,0,0.07108312845230103,True
+Ground Truth,normal_050,0,0,0.06584751605987549,True
+Ground Truth,normal_051,0,0,0.12324303388595581,True
+Ground Truth,normal_052,0,0,0.014626383781433105,True
+Ground Truth,normal_053,0,0,0.31376200914382935,True
+Ground Truth,normal_054,0,0,0.033161163330078125,True
+Ground Truth,normal_055,0,0,0.03783714771270752,True
+Ground Truth,normal_056,0,0,0.46380019187927246,True
+Ground Truth,normal_057,0,0,0.0005323290824890137,True
+Ground Truth,normal_058,0,0,0.0036008358001708984,True
+Ground Truth,normal_059,0,0,0.00616079568862915,True
+Ground Truth,normal_060,0,0,0.004269421100616455,True
+Ground Truth,normal_061,0,0,0.0015633702278137207,True
+Ground Truth,normal_062,0,1,0.5528818964958191,False
+Ground Truth,normal_063,0,0,0.023234248161315918,True
+Ground Truth,normal_064,0,0,0.027699172496795654,True
+Ground Truth,normal_065,0,0,0.00034618377685546875,True
+Ground Truth,normal_066,0,0,0.001631319522857666,True
+Ground Truth,normal_067,0,0,0.25912201404571533,True
+Ground Truth,normal_068,0,0,0.030315935611724854,True
+Ground Truth,normal_069,0,0,0.03361368179321289,True
+Ground Truth,normal_070,0,0,0.00565946102142334,True
+Ground Truth,normal_071,0,0,0.10331159830093384,True
+Ground Truth,normal_072,0,0,0.005723774433135986,True
+Ground Truth,normal_073,0,0,0.14829117059707642,True
+Ground Truth,normal_074,0,0,0.05728733539581299,True
+Ground Truth,normal_075,0,0,0.04090583324432373,True
+Ground Truth,normal_076,0,0,0.03393453359603882,True
+Ground Truth,normal_077,0,0,0.00753861665725708,True
+Ground Truth,normal_078,0,0,0.018416225910186768,True
+Ground Truth,normal_079,0,0,0.006336212158203125,True
+Ground Truth,normal_080,0,1,0.5088227391242981,False
+Ground Truth,normal_081,0,0,0.34848475456237793,True
+Ground Truth,normal_082,0,0,0.02116936445236206,True
+Ground Truth,normal_083,0,0,0.042943358421325684,True
+Ground Truth,normal_084,0,0,0.09958463907241821,True
+Ground Truth,normal_085,0,0,0.08513975143432617,True
+Ground Truth,normal_086,0,0,0.12006360292434692,True
+Ground Truth,normal_087,0,0,0.07697325944900513,True
+Ground Truth,normal_088,0,0,0.06584751605987549,True
+Ground Truth,normal_089,0,0,0.010677635669708252,True
+Ground Truth,normal_090,0,0,0.04335963726043701,True
+Ground Truth,normal_091,0,0,0.026551246643066406,True
+Ground Truth,normal_092,0,0,0.03628420829772949,True
+Ground Truth,normal_093,0,0,0.1949833631515503,True
+Ground Truth,normal_094,0,0,0.24521255493164062,True
+Ground Truth,normal_095,0,0,0.10676020383834839,True
+Ground Truth,normal_096,0,0,0.1454089879989624,True
+Ground Truth,normal_097,0,0,0.010745763778686523,True
+Ground Truth,normal_098,0,0,0.01588606834411621,True
+Ground Truth,normal_099,0,0,0.02329641580581665,True
+Ground Truth,normal_100,0,0,0.4283970594406128,True
+Ground Truth,normal_101,0,0,0.012113332748413086,True
+Ground Truth,normal_102,0,0,0.20918500423431396,True
+Ground Truth,normal_103,0,0,0.0525473952293396,True
+Ground Truth,normal_104,0,0,0.006553947925567627,True
+Ground Truth,normal_105,0,0,0.013857662677764893,True
+Ground Truth,normal_106,0,0,0.0488353967666626,True
+Ground Truth,normal_107,0,0,0.32667529582977295,True
+Ground Truth,normal_108,0,0,0.10016810894012451,True
+Ground Truth,normal_109,0,0,0.01853477954864502,True
+Ground Truth,normal_110,0,0,0.0205385684967041,True
+Ground Truth,normal_111,0,0,0.04220771789550781,True
+Ground Truth,normal_112,0,0,0.020947039127349854,True
+Ground Truth,normal_113,0,0,0.03783714771270752,True
+Ground Truth,normal_114,0,0,0.10331159830093384,True
+Ground Truth,normal_115,0,0,0.21936070919036865,True
+Ground Truth,normal_116,0,0,0.07902264595031738,True
+Ground Truth,normal_117,0,0,0.18181520700454712,True
+Ground Truth,normal_118,0,0,0.04951673746109009,True
+Ground Truth,normal_119,0,0,0.04127204418182373,True
+Ground Truth,normal_120,0,0,0.21936070919036865,True
+Ground Truth,normal_121,0,0,0.016108572483062744,True
+Ground Truth,normal_122,0,0,0.2004988193511963,True
+Ground Truth,normal_123,0,1,0.7750566601753235,False
+Ground Truth,normal_124,0,0,0.0218392014503479,True
+Ground Truth,normal_125,0,0,0.001864314079284668,True
+Ground Truth,normal_126,0,0,0.07420724630355835,True
+Ground Truth,normal_127,0,0,0.34848475456237793,True
+Ground Truth,normal_128,0,0,0.010677635669708252,True
+Ground Truth,normal_129,0,0,0.00011396408081054688,True
+Ground Truth,normal_130,0,0,0.006885111331939697,True
+Ground Truth,normal_131,0,0,0.013450682163238525,True
+Ground Truth,normal_132,0,0,0.41708630323410034,True
+Ground Truth,normal_133,0,0,0.07759737968444824,True
+Ground Truth,normal_134,0,0,0.0032552480697631836,True
+Ground Truth,normal_135,0,0,0.09221899509429932,True
+Ground Truth,normal_136,0,0,0.06612884998321533,True
+Ground Truth,normal_137,0,0,0.038962602615356445,True
+Ground Truth,normal_138,0,0,0.016340136528015137,True
+Ground Truth,normal_139,0,0,0.1197846531867981,True
+Ground Truth,normal_140,0,0,0.4615306258201599,True
+Ground Truth,normal_141,0,0,0.2115100622177124,True
+Ground Truth,normal_142,0,0,0.025501132011413574,True
+Ground Truth,normal_143,0,0,0.3563668131828308,True
+Ground Truth,normal_144,0,0,0.13405662775039673,True
+Ground Truth,normal_145,0,0,0.10833233594894409,True
+Ground Truth,normal_146,0,0,0.25089502334594727,True
+Ground Truth,normal_147,0,0,0.017987966537475586,True
+Ground Truth,normal_148,0,0,0.020391643047332764,True
+Ground Truth,normal_149,0,0,0.2192416787147522,True
+Ground Truth,normal_150,0,0,0.1628948450088501,True
+Ground Truth,normal_151,0,0,0.017987966537475586,True
+Ground Truth,normal_152,0,0,0.25089502334594727,True
+Ground Truth,normal_153,0,0,0.020391643047332764,True
+Ground Truth,normal_154,0,1,0.742431640625,False
+Ground Truth,normal_155,0,0,0.24164152145385742,True
+Ground Truth,normal_156,0,0,0.2683671712875366,True
+Ground Truth,normal_157,0,0,0.0047934651374816895,True
+Ground Truth,normal_158,0,0,0.10833233594894409,True
+Ground Truth,normal_159,0,0,0.31463760137557983,True
+Ground Truth,normal_160,0,0,0.05841487646102905,True
+Ground Truth,normal_161,0,0,0.10833233594894409,True
+Ground Truth,normal_162,0,0,0.43899327516555786,True
+Ground Truth,normal_163,0,1,0.698683500289917,False
+Ground Truth,normal_164,0,0,0.24804317951202393,True
+Ground Truth,normal_165,0,0,0.25089502334594727,True
+Ground Truth,normal_166,0,0,0.2683671712875366,True
+Ground Truth,normal_167,0,0,0.05479949712753296,True
+Ground Truth,normal_168,0,0,0.10251486301422119,True
+Ground Truth,normal_169,0,0,0.05190145969390869,True
+Ground Truth,normal_170,0,0,0.12324303388595581,True
+Ground Truth,normal_171,0,0,0.08746135234832764,True
+Ground Truth,normal_172,0,0,0.20203089714050293,True
+Ground Truth,normal_173,0,0,0.20203089714050293,True
+Ground Truth,normal_174,0,0,0.39773285388946533,True
+Ground Truth,normal_175,0,0,0.02898174524307251,True
+Ground Truth,normal_176,0,0,0.09585732221603394,True
+Ground Truth,normal_177,0,0,0.1430281400680542,True
+Ground Truth,normal_178,0,0,0.018966197967529297,True
+Ground Truth,normal_179,0,0,0.20203089714050293,True
+Ground Truth,normal_180,0,0,0.02809041738510132,True
+Ground Truth,normal_181,0,0,0.01754128932952881,True
+Ground Truth,normal_182,0,0,0.3325796127319336,True
+Ground Truth,normal_183,0,0,0.2178521752357483,True
+Ground Truth,normal_184,0,0,0.1745263934135437,True
+Ground Truth,normal_185,0,0,0.06967949867248535,True
+Ground Truth,normal_186,0,0,0.16637980937957764,True
+Ground Truth,normal_187,0,0,0.007860124111175537,True
+Ground Truth,normal_188,0,0,0.18522590398788452,True
+Ground Truth,normal_189,0,0,0.004158437252044678,True
+Ground Truth,normal_190,0,0,0.07873684167861938,True
+Ground Truth,normal_191,0,0,0.02809041738510132,True
+Ground Truth,normal_192,0,0,0.23120778799057007,True
+Ground Truth,normal_193,0,0,0.1685936450958252,True
+Ground Truth,normal_194,0,0,0.07657033205032349,True
+Ground Truth,normal_195,0,0,0.015137553215026855,True
+Ground Truth,normal_196,0,0,0.09126156568527222,True
+Ground Truth,normal_197,0,0,0.4009603261947632,True
+Ground Truth,normal_198,0,1,0.6875035166740417,False
+Ground Truth,normal_199,0,0,0.03477036952972412,True
+Ground Truth,normal_200,0,0,0.09828430414199829,True
+Ground Truth,normal_201,0,0,0.3827717900276184,True
+Ground Truth,normal_202,0,0,0.11831456422805786,True
+Ground Truth,normal_203,0,0,0.02898174524307251,True
+Ground Truth,normal_204,0,0,0.06224256753921509,True
+Ground Truth,normal_205,0,0,0.12280160188674927,True
+Ground Truth,normal_206,0,0,0.2524045705795288,True
+Ground Truth,normal_207,0,0,0.0058980584144592285,True
+Ground Truth,normal_208,0,0,0.2524045705795288,True
+Ground Truth,normal_209,0,0,0.4108341336250305,True
+Ground Truth,normal_210,0,1,0.6742093563079834,False
+Ground Truth,normal_211,0,1,0.729752242565155,False
+Ground Truth,normal_212,0,0,0.31300586462020874,True
+Ground Truth,normal_213,0,0,0.02489304542541504,True
+Ground Truth,normal_214,0,1,0.5604039430618286,False
+Ground Truth,normal_215,0,0,0.09429764747619629,True
+Ground Truth,normal_216,0,1,0.5003507733345032,False
+Ground Truth,normal_217,0,0,0.07627063989639282,True
+Ground Truth,normal_218,0,0,0.06077808141708374,True
+Ground Truth,normal_219,0,0,0.056334078311920166,True
+Ground Truth,normal_220,0,0,0.35106366872787476,True
+Ground Truth,normal_221,0,0,0.014970242977142334,True
+Ground Truth,normal_222,0,0,0.1335088014602661,True
+Ground Truth,normal_223,0,1,0.9352278113365173,False
+Ground Truth,normal_224,0,0,0.06815916299819946,True
+Ground Truth,normal_225,0,1,0.8134411573410034,False
+Ground Truth,normal_226,0,0,0.12551331520080566,True
+Ground Truth,normal_227,0,0,0.12282902002334595,True
+Ground Truth,normal_228,0,0,0.02444636821746826,True
+Ground Truth,normal_229,0,0,0.031255245208740234,True
+Ground Truth,normal_230,0,0,0.0406002402305603,True
+Ground Truth,normal_231,0,0,0.02772343158721924,True
+Ground Truth,normal_232,0,0,0.4748672842979431,True
+Ground Truth,normal_233,0,0,0.04182666540145874,True
+Ground Truth,normal_234,0,0,0.1808992624282837,True
+Ground Truth,normal_235,0,0,0.27992814779281616,True
+Ground Truth,normal_236,0,0,0.005826294422149658,True
+Ground Truth,normal_237,0,0,0.0853891372680664,True
+Ground Truth,normal_238,0,0,0.21648722887039185,True
+Ground Truth,normal_239,0,1,0.6880419850349426,False
+Ground Truth,normal_240,0,0,0.07991337776184082,True
+Ground Truth,normal_241,0,0,0.21816879510879517,True
+Ground Truth,normal_242,0,0,0.3468098044395447,True
+Ground Truth,normal_243,0,0,0.03726905584335327,True
+Ground Truth,normal_244,0,0,0.0552518367767334,True
+Ground Truth,normal_245,0,0,0.056146860122680664,True
+Ground Truth,normal_246,0,0,0.017497897148132324,True
+Ground Truth,normal_247,0,0,0.025897085666656494,True
+Ground Truth,normal_248,0,0,0.004269421100616455,True
+Ground Truth,normal_249,0,0,0.019438445568084717,True
+Ground Truth,normal_250,0,0,0.34188663959503174,True
+Ground Truth,normal_251,0,0,0.013514876365661621,True
+Ground Truth,normal_252,0,0,0.21772199869155884,True
+Ground Truth,normal_253,0,0,0.07341676950454712,True
+Ground Truth,normal_254,0,0,0.006695806980133057,True
+Ground Truth,normal_255,0,1,0.7478944063186646,False
+Ground Truth,normal_256,0,0,0.024045825004577637,True
+Ground Truth,normal_257,0,0,0.00904238224029541,True
+Ground Truth,normal_258,0,1,0.8042416572570801,False
+Ground Truth,normal_259,0,0,0.08542025089263916,True
+Ground Truth,normal_260,0,0,0.09035658836364746,True
+Ground Truth,normal_261,0,0,0.006965756416320801,True
+Ground Truth,normal_262,0,0,0.017947137355804443,True
+Ground Truth,normal_263,0,0,0.002368450164794922,True
+Ground Truth,normal_264,0,0,0.11947262287139893,True
+Ground Truth,normal_265,0,1,0.5528818964958191,False
+Ground Truth,normal_266,0,0,0.08569365739822388,True
+Ground Truth,normal_267,0,0,0.04669862985610962,True
+Ground Truth,normal_268,0,0,0.034342944622039795,True
+Ground Truth,normal_269,0,0,0.05336970090866089,True
+Ground Truth,normal_270,0,1,0.5088227391242981,False
+Ground Truth,normal_271,0,0,0.06739777326583862,True
+Ground Truth,normal_272,0,0,0.0016060471534729004,True
+Ground Truth,normal_273,0,0,0.027699172496795654,True
+Ground Truth,normal_274,0,0,0.0012241005897521973,True
+Ground Truth,normal_275,0,0,0.04090583324432373,True
+Ground Truth,normal_276,0,0,0.09012895822525024,True
+Ground Truth,normal_277,0,0,0.01866436004638672,True
+Ground Truth,normal_278,0,0,0.008344531059265137,True
+Ground Truth,normal_279,0,0,0.056146860122680664,True
+Ground Truth,normal_280,0,0,0.017497897148132324,True
+Ground Truth,normal_281,0,0,0.47993147373199463,True
+Ground Truth,normal_282,0,0,0.05841487646102905,True
+Ground Truth,normal_283,0,0,0.3552470803260803,True
+Ground Truth,normal_284,0,0,0.03393453359603882,True
+Ground Truth,normal_285,0,0,0.003567814826965332,True
+Ground Truth,normal_286,0,0,0.3187713027000427,True
+Ground Truth,normal_287,0,0,0.03160560131072998,True
+Ground Truth,normal_288,0,0,0.0151023268699646,True
+Ground Truth,normal_289,0,0,0.005746185779571533,True
+Ground Truth,normal_290,0,0,0.03509199619293213,True
+Ground Truth,normal_291,0,1,0.7018265724182129,False
+Ground Truth,normal_292,0,0,0.025897085666656494,True
+Ground Truth,normal_293,0,0,0.27967309951782227,True
+Ground Truth,normal_294,0,0,0.00753861665725708,True
+Ground Truth,normal_295,0,0,0.27880096435546875,True
+Ground Truth,normal_296,0,0,0.0,True
+Ground Truth,normal_297,0,0,0.02896726131439209,True
+Ground Truth,normal_298,0,0,0.006492495536804199,True
+Ground Truth,normal_299,0,0,0.08798354864120483,True
+Ground Truth,normal_300,0,0,0.05913621187210083,True
+Ground Truth,pituitary_001,1,1,0.9932985901832581,True
+Ground Truth,pituitary_002,1,1,0.9198497533798218,True
+Ground Truth,pituitary_003,1,1,0.9228674173355103,True
+Ground Truth,pituitary_004,1,1,0.9396581053733826,True
+Ground Truth,pituitary_005,1,1,0.9007459282875061,True
+Ground Truth,pituitary_006,1,1,0.9923255443572998,True
+Ground Truth,pituitary_007,1,1,0.9982268810272217,True
+Ground Truth,pituitary_008,1,1,0.9845341444015503,True
+Ground Truth,pituitary_009,1,1,0.9019852876663208,True
+Ground Truth,pituitary_010,1,1,0.9648756980895996,True
+Ground Truth,pituitary_011,1,1,0.9670513868331909,True
+Ground Truth,pituitary_012,1,1,0.9962860345840454,True
+Ground Truth,pituitary_013,1,1,0.9888969659805298,True
+Ground Truth,pituitary_014,1,1,0.6602966785430908,True
+Ground Truth,pituitary_015,1,1,0.9944069385528564,True
+Ground Truth,pituitary_016,1,1,0.9893848896026611,True
+Ground Truth,pituitary_017,1,1,0.9937216639518738,True
+Ground Truth,pituitary_018,1,1,0.993608832359314,True
+Ground Truth,pituitary_019,1,1,0.9485718011856079,True
+Ground Truth,pituitary_020,1,1,0.9246801137924194,True
+Ground Truth,pituitary_021,1,1,0.9889028668403625,True
+Ground Truth,pituitary_022,1,1,0.9779894351959229,True
+Ground Truth,pituitary_023,1,1,0.9804839491844177,True
+Ground Truth,pituitary_024,1,1,0.987113356590271,True
+Ground Truth,pituitary_025,1,1,0.9488101601600647,True
+Ground Truth,pituitary_026,1,1,0.9446120858192444,True
+Ground Truth,pituitary_027,1,1,0.9954333901405334,True
+Ground Truth,pituitary_028,1,1,0.9577912092208862,True
+Ground Truth,pituitary_029,1,1,0.9765580296516418,True
+Ground Truth,pituitary_030,1,1,0.9983955025672913,True
+Ground Truth,pituitary_031,1,1,0.9833846688270569,True
+Ground Truth,pituitary_032,1,1,0.8169087767601013,True
+Ground Truth,pituitary_033,1,1,0.9817026853561401,True
+Ground Truth,pituitary_034,1,1,0.9806764125823975,True
+Ground Truth,pituitary_035,1,1,0.9758345484733582,True
+Ground Truth,pituitary_036,1,1,0.9592375755310059,True
+Ground Truth,pituitary_037,1,1,0.9985477924346924,True
+Ground Truth,pituitary_038,1,1,0.9931668043136597,True
+Ground Truth,pituitary_039,1,1,0.9958928227424622,True
+Ground Truth,pituitary_040,1,1,0.9962631464004517,True
+Ground Truth,pituitary_041,1,1,0.9849708676338196,True
+Ground Truth,pituitary_042,1,1,0.9870654344558716,True
+Ground Truth,pituitary_043,1,1,0.947695791721344,True
+Ground Truth,pituitary_044,1,1,0.8103104829788208,True
+Ground Truth,pituitary_045,1,1,0.9534595012664795,True
+Ground Truth,pituitary_046,1,1,0.9426301121711731,True
+Ground Truth,pituitary_047,1,1,0.9810324311256409,True
+Ground Truth,pituitary_048,1,1,0.9144419431686401,True
+Ground Truth,pituitary_049,1,1,0.9962863326072693,True
+Ground Truth,pituitary_050,1,1,0.9967779517173767,True
+Ground Truth,pituitary_051,1,1,0.9568109512329102,True
+Ground Truth,pituitary_052,1,1,0.9685356616973877,True
+Ground Truth,pituitary_053,1,1,0.9717196822166443,True
+Ground Truth,pituitary_054,1,1,0.983548104763031,True
+Ground Truth,pituitary_055,1,1,0.9968754053115845,True
+Ground Truth,pituitary_056,1,1,0.8583645224571228,True
+Ground Truth,pituitary_057,1,1,0.7231005430221558,True
+Ground Truth,pituitary_058,1,1,0.9664933681488037,True
+Ground Truth,pituitary_059,1,1,0.9234011173248291,True
+Ground Truth,pituitary_060,1,1,0.9438225030899048,True
+Ground Truth,pituitary_061,1,1,0.9901210069656372,True
+Ground Truth,pituitary_062,1,1,0.9865192174911499,True
+Ground Truth,pituitary_063,1,1,0.9922888875007629,True
+Ground Truth,pituitary_064,1,1,0.6601420640945435,True
+Ground Truth,pituitary_065,1,1,0.9995217323303223,True
+Ground Truth,pituitary_066,1,1,0.93864905834198,True
+Ground Truth,pituitary_067,1,1,0.69975745677948,True
+Ground Truth,pituitary_068,1,1,0.9875083565711975,True
+Ground Truth,pituitary_069,1,1,0.9613422155380249,True
+Ground Truth,pituitary_070,1,1,0.9976828694343567,True
+Ground Truth,pituitary_071,1,1,0.9983989596366882,True
+Ground Truth,pituitary_072,1,1,0.9991187453269958,True
+Ground Truth,pituitary_073,1,1,0.9975672364234924,True
+Ground Truth,pituitary_074,1,1,0.9667441248893738,True
+Ground Truth,pituitary_075,1,1,0.9891051054000854,True
+Ground Truth,pituitary_076,1,1,0.9783063530921936,True
+Ground Truth,pituitary_077,1,1,0.9818410873413086,True
+Ground Truth,pituitary_078,1,1,0.988615870475769,True
+Ground Truth,pituitary_079,1,1,0.893338680267334,True
+Ground Truth,pituitary_080,1,1,0.9643388390541077,True
+Ground Truth,pituitary_081,1,1,0.9859405159950256,True
+Ground Truth,pituitary_082,1,1,0.976582407951355,True
+Ground Truth,pituitary_083,1,1,0.9809362888336182,True
+Ground Truth,pituitary_084,1,1,0.9606046676635742,True
+Ground Truth,pituitary_085,1,1,0.9964743256568909,True
+Ground Truth,pituitary_086,1,1,0.9808333516120911,True
+Ground Truth,pituitary_087,1,1,0.8966600298881531,True
+Ground Truth,pituitary_088,1,1,0.9669464826583862,True
+Ground Truth,pituitary_089,1,1,0.9367263317108154,True
+Ground Truth,pituitary_090,1,1,0.8631329536437988,True
+Ground Truth,pituitary_091,1,1,0.9948474168777466,True
+Ground Truth,pituitary_092,1,1,0.940848171710968,True
+Ground Truth,pituitary_093,1,1,0.9292346835136414,True
+Ground Truth,pituitary_094,1,1,0.9889557957649231,True
+Ground Truth,pituitary_095,1,1,0.988502025604248,True
+Ground Truth,pituitary_096,1,1,0.9970883727073669,True
+Ground Truth,pituitary_097,1,1,0.9938958883285522,True
+Ground Truth,pituitary_098,1,1,0.9855587482452393,True
+Ground Truth,pituitary_099,1,1,0.999497652053833,True
+Ground Truth,pituitary_100,1,1,0.9946979880332947,True
+Visible Injection,glioma_001,1,1,0.5747954845428467,True
+Visible Injection,glioma_002,1,1,0.8279570937156677,True
+Visible Injection,glioma_003,1,1,0.9677998423576355,True
+Visible Injection,glioma_004,1,0,0.2602382302284241,False
+Visible Injection,glioma_005,1,1,0.8647286891937256,True
+Visible Injection,glioma_006,1,1,0.906880795955658,True
+Visible Injection,glioma_007,1,0,0.42862439155578613,False
+Visible Injection,glioma_008,1,0,0.3626236915588379,False
+Visible Injection,glioma_009,1,1,0.9799461364746094,True
+Visible Injection,glioma_010,1,1,0.8770922422409058,True
+Visible Injection,glioma_011,1,1,0.966308057308197,True
+Visible Injection,glioma_012,1,1,0.7869729995727539,True
+Visible Injection,glioma_013,1,1,0.8543709516525269,True
+Visible Injection,glioma_014,1,1,0.9373394846916199,True
+Visible Injection,glioma_015,1,1,0.8458040952682495,True
+Visible Injection,glioma_016,1,1,0.9850641489028931,True
+Visible Injection,glioma_017,1,0,0.44923585653305054,False
+Visible Injection,glioma_018,1,1,0.8384054899215698,True
+Visible Injection,glioma_019,1,0,0.29018306732177734,False
+Visible Injection,glioma_020,1,1,0.9772555828094482,True
+Visible Injection,glioma_021,1,1,0.8384762406349182,True
+Visible Injection,glioma_022,1,1,0.9415033459663391,True
+Visible Injection,glioma_023,1,0,0.37238049507141113,False
+Visible Injection,glioma_024,1,1,0.8852074146270752,True
+Visible Injection,glioma_025,1,1,0.9202752709388733,True
+Visible Injection,glioma_026,1,1,0.9709568619728088,True
+Visible Injection,glioma_027,1,1,0.9398002028465271,True
+Visible Injection,glioma_028,1,1,0.8632550835609436,True
+Visible Injection,glioma_029,1,1,0.9483872056007385,True
+Visible Injection,glioma_030,1,1,0.523248553276062,True
+Visible Injection,glioma_031,1,1,0.8356893062591553,True
+Visible Injection,glioma_032,1,1,0.9662463068962097,True
+Visible Injection,glioma_033,1,1,0.5816464424133301,True
+Visible Injection,glioma_034,1,0,0.3585633635520935,False
+Visible Injection,glioma_035,1,1,0.969795286655426,True
+Visible Injection,glioma_036,1,1,0.9276061058044434,True
+Visible Injection,glioma_037,1,1,0.9586830735206604,True
+Visible Injection,glioma_038,1,0,0.1921359896659851,False
+Visible Injection,glioma_039,1,1,0.7062690258026123,True
+Visible Injection,glioma_040,1,1,0.905734658241272,True
+Visible Injection,glioma_041,1,1,0.8498994708061218,True
+Visible Injection,glioma_042,1,1,0.6638646721839905,True
+Visible Injection,glioma_043,1,1,0.8179256916046143,True
+Visible Injection,glioma_044,1,1,0.8590494394302368,True
+Visible Injection,glioma_045,1,1,0.8159515857696533,True
+Visible Injection,glioma_046,1,1,0.9576656222343445,True
+Visible Injection,glioma_047,1,0,0.10827016830444336,False
+Visible Injection,glioma_048,1,1,0.893750011920929,True
+Visible Injection,glioma_049,1,0,0.2402896285057068,False
+Visible Injection,glioma_050,1,1,0.9020326137542725,True
+Visible Injection,glioma_051,1,1,0.8937065005302429,True
+Visible Injection,glioma_052,1,1,0.9846210479736328,True
+Visible Injection,glioma_053,1,1,0.9733392596244812,True
+Visible Injection,glioma_054,1,0,0.3833988904953003,False
+Visible Injection,glioma_055,1,1,0.9131965041160583,True
+Visible Injection,glioma_056,1,1,0.9271580576896667,True
+Visible Injection,glioma_057,1,1,0.9027603268623352,True
+Visible Injection,glioma_058,1,1,0.7017905712127686,True
+Visible Injection,glioma_059,1,1,0.9753758907318115,True
+Visible Injection,glioma_060,1,1,0.9892028570175171,True
+Visible Injection,glioma_061,1,1,0.9786307215690613,True
+Visible Injection,glioma_062,1,1,0.8074907064437866,True
+Visible Injection,glioma_063,1,0,0.30206745862960815,False
+Visible Injection,glioma_064,1,0,0.31220102310180664,False
+Visible Injection,glioma_065,1,1,0.796802818775177,True
+Visible Injection,glioma_066,1,1,0.7708467245101929,True
+Visible Injection,glioma_067,1,1,0.8711311221122742,True
+Visible Injection,glioma_068,1,1,0.8591068387031555,True
+Visible Injection,glioma_069,1,1,0.976728081703186,True
+Visible Injection,glioma_070,1,1,0.9416143298149109,True
+Visible Injection,glioma_071,1,0,0.2991296052932739,False
+Visible Injection,glioma_072,1,1,0.990757405757904,True
+Visible Injection,glioma_073,1,1,0.990254282951355,True
+Visible Injection,glioma_074,1,1,0.891357958316803,True
+Visible Injection,glioma_075,1,1,0.9955095052719116,True
+Visible Injection,glioma_076,1,1,0.8264769315719604,True
+Visible Injection,glioma_077,1,1,0.9257335066795349,True
+Visible Injection,glioma_078,1,1,0.9901176691055298,True
+Visible Injection,glioma_079,1,1,0.7971767783164978,True
+Visible Injection,glioma_080,1,0,0.1949712634086609,False
+Visible Injection,glioma_081,1,1,0.7682213187217712,True
+Visible Injection,glioma_082,1,1,0.9333814382553101,True
+Visible Injection,glioma_083,1,1,0.9700684547424316,True
+Visible Injection,glioma_084,1,1,0.7525901794433594,True
+Visible Injection,glioma_085,1,1,0.8835613131523132,True
+Visible Injection,glioma_086,1,1,0.6724880337715149,True
+Visible Injection,glioma_087,1,0,0.37717729806900024,False
+Visible Injection,glioma_088,1,1,0.5963542461395264,True
+Visible Injection,glioma_089,1,1,0.9501821994781494,True
+Visible Injection,glioma_090,1,1,0.9502768516540527,True
+Visible Injection,glioma_091,1,1,0.5257004499435425,True
+Visible Injection,glioma_092,1,1,0.9648581147193909,True
+Visible Injection,glioma_093,1,1,0.76838618516922,True
+Visible Injection,glioma_094,1,1,0.9669168591499329,True
+Visible Injection,glioma_095,1,1,0.8434763550758362,True
+Visible Injection,glioma_096,1,1,0.763131320476532,True
+Visible Injection,glioma_097,1,1,0.9688809514045715,True
+Visible Injection,glioma_098,1,1,0.5427554845809937,True
+Visible Injection,glioma_099,1,1,0.9742080569267273,True
+Visible Injection,glioma_100,1,1,0.7616235017776489,True
+Visible Injection,meningioma_001,1,1,0.7546379566192627,True
+Visible Injection,meningioma_002,1,1,0.7890304923057556,True
+Visible Injection,meningioma_003,1,1,0.8134738802909851,True
+Visible Injection,meningioma_004,1,0,0.4120349884033203,False
+Visible Injection,meningioma_005,1,1,0.5590119361877441,True
+Visible Injection,meningioma_006,1,1,0.7968848943710327,True
+Visible Injection,meningioma_007,1,1,0.9973010420799255,True
+Visible Injection,meningioma_008,1,1,0.7422250509262085,True
+Visible Injection,meningioma_009,1,1,0.9064581990242004,True
+Visible Injection,meningioma_010,1,1,0.8878782987594604,True
+Visible Injection,meningioma_011,1,1,0.9494847059249878,True
+Visible Injection,meningioma_012,1,0,0.2919825315475464,False
+Visible Injection,meningioma_013,1,1,0.814702570438385,True
+Visible Injection,meningioma_014,1,1,0.8547462224960327,True
+Visible Injection,meningioma_015,1,1,0.654488205909729,True
+Visible Injection,meningioma_016,1,1,0.6420392394065857,True
+Visible Injection,meningioma_017,1,0,0.13977038860321045,False
+Visible Injection,meningioma_018,1,1,0.6533604860305786,True
+Visible Injection,meningioma_019,1,0,0.16874873638153076,False
+Visible Injection,meningioma_020,1,0,0.32084882259368896,False
+Visible Injection,meningioma_021,1,1,0.8933770656585693,True
+Visible Injection,meningioma_022,1,1,0.9137553572654724,True
+Visible Injection,meningioma_023,1,0,0.4372553825378418,False
+Visible Injection,meningioma_024,1,0,0.23889464139938354,False
+Visible Injection,meningioma_025,1,0,0.254442036151886,False
+Visible Injection,meningioma_026,1,0,0.1707524061203003,False
+Visible Injection,meningioma_027,1,0,0.4028695225715637,False
+Visible Injection,meningioma_028,1,0,0.07076722383499146,False
+Visible Injection,meningioma_029,1,1,0.9069437384605408,True
+Visible Injection,meningioma_030,1,1,0.7088979482650757,True
+Visible Injection,meningioma_031,1,1,0.7369279861450195,True
+Visible Injection,meningioma_032,1,1,0.8172364234924316,True
+Visible Injection,meningioma_033,1,1,0.8715230226516724,True
+Visible Injection,meningioma_034,1,1,0.7051002979278564,True
+Visible Injection,meningioma_035,1,1,0.96107017993927,True
+Visible Injection,meningioma_036,1,1,0.895769476890564,True
+Visible Injection,meningioma_037,1,0,0.4414726495742798,False
+Visible Injection,meningioma_038,1,1,0.5689762234687805,True
+Visible Injection,meningioma_039,1,1,0.6170123815536499,True
+Visible Injection,meningioma_040,1,1,0.9511938095092773,True
+Visible Injection,meningioma_041,1,1,0.8475100994110107,True
+Visible Injection,meningioma_042,1,1,0.9368075132369995,True
+Visible Injection,meningioma_043,1,1,0.816199779510498,True
+Visible Injection,meningioma_044,1,1,0.7197089195251465,True
+Visible Injection,meningioma_045,1,0,0.2508787512779236,False
+Visible Injection,meningioma_046,1,1,0.9107049107551575,True
+Visible Injection,meningioma_047,1,1,0.6570522785186768,True
+Visible Injection,meningioma_048,1,0,0.4186434745788574,False
+Visible Injection,meningioma_049,1,1,0.6373525857925415,True
+Visible Injection,meningioma_050,1,0,0.36407017707824707,False
+Visible Injection,meningioma_051,1,1,0.75749272108078,True
+Visible Injection,meningioma_052,1,1,0.8654297590255737,True
+Visible Injection,meningioma_053,1,1,0.8524321913719177,True
+Visible Injection,meningioma_054,1,1,0.6745294332504272,True
+Visible Injection,meningioma_055,1,1,0.6389604806900024,True
+Visible Injection,meningioma_056,1,1,0.6630901098251343,True
+Visible Injection,meningioma_057,1,1,0.6451175808906555,True
+Visible Injection,meningioma_058,1,1,0.6231144666671753,True
+Visible Injection,meningioma_059,1,1,0.598734974861145,True
+Visible Injection,meningioma_060,1,1,0.6941748857498169,True
+Visible Injection,meningioma_061,1,1,0.7118129134178162,True
+Visible Injection,meningioma_062,1,1,0.8046219348907471,True
+Visible Injection,meningioma_063,1,0,0.22207826375961304,False
+Visible Injection,meningioma_064,1,1,0.8519008159637451,True
+Visible Injection,meningioma_065,1,1,0.5287315249443054,True
+Visible Injection,meningioma_066,1,0,0.21191221475601196,False
+Visible Injection,meningioma_067,1,0,0.16430813074111938,False
+Visible Injection,meningioma_068,1,1,0.6298178434371948,True
+Visible Injection,meningioma_069,1,0,0.4188748598098755,False
+Visible Injection,meningioma_070,1,0,0.07299172878265381,False
+Visible Injection,meningioma_071,1,1,0.5738296508789062,True
+Visible Injection,meningioma_072,1,0,0.4477313160896301,False
+Visible Injection,meningioma_073,1,1,0.8937537670135498,True
+Visible Injection,meningioma_074,1,1,0.9848551154136658,True
+Visible Injection,meningioma_075,1,1,0.5083231925964355,True
+Visible Injection,meningioma_076,1,1,0.8751949071884155,True
+Visible Injection,meningioma_077,1,1,0.6260311603546143,True
+Visible Injection,meningioma_078,1,1,0.6308436393737793,True
+Visible Injection,meningioma_079,1,1,0.9071863889694214,True
+Visible Injection,meningioma_080,1,0,0.41022640466690063,False
+Visible Injection,meningioma_081,1,1,0.5946908593177795,True
+Visible Injection,meningioma_082,1,1,0.6578429937362671,True
+Visible Injection,meningioma_083,1,0,0.2638881802558899,False
+Visible Injection,meningioma_084,1,1,0.833841860294342,True
+Visible Injection,meningioma_085,1,1,0.646536111831665,True
+Visible Injection,meningioma_086,1,1,0.7511869668960571,True
+Visible Injection,meningioma_087,1,1,0.5434409379959106,True
+Visible Injection,meningioma_088,1,0,0.4886021614074707,False
+Visible Injection,meningioma_089,1,1,0.6065976619720459,True
+Visible Injection,meningioma_090,1,1,0.5292198657989502,True
+Visible Injection,meningioma_091,1,1,0.8549995422363281,True
+Visible Injection,meningioma_092,1,0,0.23770654201507568,False
+Visible Injection,meningioma_093,1,0,0.30917030572891235,False
+Visible Injection,meningioma_094,1,0,0.3284205198287964,False
+Visible Injection,meningioma_095,1,1,0.6844574213027954,True
+Visible Injection,meningioma_096,1,1,0.80356764793396,True
+Visible Injection,meningioma_097,1,1,0.684131383895874,True
+Visible Injection,meningioma_098,1,1,0.6851478815078735,True
+Visible Injection,meningioma_099,1,1,0.7399104833602905,True
+Visible Injection,meningioma_100,1,1,0.8197802901268005,True
+Visible Injection,normal_001,0,0,0.05450236797332764,True
+Visible Injection,normal_002,0,0,0.02889847755432129,True
+Visible Injection,normal_003,0,0,0.008811354637145996,True
+Visible Injection,normal_004,0,0,0.058378636837005615,True
+Visible Injection,normal_005,0,0,0.19926834106445312,True
+Visible Injection,normal_006,0,0,0.012939810752868652,True
+Visible Injection,normal_007,0,0,0.04786306619644165,True
+Visible Injection,normal_008,0,0,0.004515886306762695,True
+Visible Injection,normal_009,0,0,0.08134156465530396,True
+Visible Injection,normal_010,0,0,0.009049415588378906,True
+Visible Injection,normal_011,0,0,0.14464104175567627,True
+Visible Injection,normal_012,0,0,0.012254416942596436,True
+Visible Injection,normal_013,0,0,0.0,True
+Visible Injection,normal_014,0,0,0.023593485355377197,True
+Visible Injection,normal_015,0,0,0.07085108757019043,True
+Visible Injection,normal_016,0,0,0.01655280590057373,True
+Visible Injection,normal_017,0,0,0.002820611000061035,True
+Visible Injection,normal_018,0,0,0.051798880100250244,True
+Visible Injection,normal_019,0,0,0.041479527950286865,True
+Visible Injection,normal_020,0,0,1.609325408935547e-05,True
+Visible Injection,normal_021,0,0,0.06661480665206909,True
+Visible Injection,normal_022,0,0,0.03464019298553467,True
+Visible Injection,normal_023,0,0,0.001148223876953125,True
+Visible Injection,normal_024,0,0,0.015193641185760498,True
+Visible Injection,normal_025,0,1,0.800309419631958,False
+Visible Injection,normal_026,0,0,0.4422071576118469,True
+Visible Injection,normal_027,0,0,0.09207379817962646,True
+Visible Injection,normal_028,0,0,0.0033947229385375977,True
+Visible Injection,normal_029,0,0,0.1314101219177246,True
+Visible Injection,normal_030,0,0,0.05495595932006836,True
+Visible Injection,normal_031,0,0,0.034244000911712646,True
+Visible Injection,normal_032,0,0,0.0367579460144043,True
+Visible Injection,normal_033,0,0,0.02726501226425171,True
+Visible Injection,normal_034,0,0,0.04245120286941528,True
+Visible Injection,normal_035,0,0,0.18617188930511475,True
+Visible Injection,normal_036,0,0,0.08149933815002441,True
+Visible Injection,normal_037,0,1,0.9442228674888611,False
+Visible Injection,normal_038,0,0,0.16616171598434448,True
+Visible Injection,normal_039,0,0,0.119831383228302,True
+Visible Injection,normal_040,0,0,0.04421418905258179,True
+Visible Injection,normal_041,0,0,0.040547966957092285,True
+Visible Injection,normal_042,0,0,0.12729018926620483,True
+Visible Injection,normal_043,0,0,0.0069879889488220215,True
+Visible Injection,normal_044,0,0,0.012704074382781982,True
+Visible Injection,normal_045,0,1,0.7914157509803772,False
+Visible Injection,normal_046,0,0,0.02187401056289673,True
+Visible Injection,normal_047,0,0,0.11916780471801758,True
+Visible Injection,normal_048,0,0,0.03423595428466797,True
+Visible Injection,normal_049,0,0,0.01750326156616211,True
+Visible Injection,normal_050,0,0,0.09673970937728882,True
+Visible Injection,normal_051,0,0,0.104297935962677,True
+Visible Injection,normal_052,0,0,0.020615220069885254,True
+Visible Injection,normal_053,0,0,0.2528826594352722,True
+Visible Injection,normal_054,0,0,0.11735314130783081,True
+Visible Injection,normal_055,0,0,0.012265384197235107,True
+Visible Injection,normal_056,0,0,0.09567171335220337,True
+Visible Injection,normal_057,0,0,0.0036060214042663574,True
+Visible Injection,normal_058,0,0,0.019566714763641357,True
+Visible Injection,normal_059,0,0,0.01674598455429077,True
+Visible Injection,normal_060,0,0,0.0017570257186889648,True
+Visible Injection,normal_061,0,0,0.009720385074615479,True
+Visible Injection,normal_062,0,0,0.04457813501358032,True
+Visible Injection,normal_063,0,0,0.07765913009643555,True
+Visible Injection,normal_064,0,0,0.03190207481384277,True
+Visible Injection,normal_065,0,0,0.009229302406311035,True
+Visible Injection,normal_066,0,0,0.0005985498428344727,True
+Visible Injection,normal_067,0,0,0.04403340816497803,True
+Visible Injection,normal_068,0,0,0.059524476528167725,True
+Visible Injection,normal_069,0,0,0.12723731994628906,True
+Visible Injection,normal_070,0,0,0.004850924015045166,True
+Visible Injection,normal_071,0,0,0.055549025535583496,True
+Visible Injection,normal_072,0,0,0.004847407341003418,True
+Visible Injection,normal_073,0,0,0.28371208906173706,True
+Visible Injection,normal_074,0,0,0.15021097660064697,True
+Visible Injection,normal_075,0,0,0.020572543144226074,True
+Visible Injection,normal_076,0,0,0.022953331470489502,True
+Visible Injection,normal_077,0,0,0.0025003552436828613,True
+Visible Injection,normal_078,0,0,0.015159785747528076,True
+Visible Injection,normal_079,0,0,0.020720183849334717,True
+Visible Injection,normal_080,0,0,0.0823972225189209,True
+Visible Injection,normal_081,0,0,0.30562472343444824,True
+Visible Injection,normal_082,0,0,0.07245832681655884,True
+Visible Injection,normal_083,0,0,0.044568657875061035,True
+Visible Injection,normal_084,0,0,0.018528640270233154,True
+Visible Injection,normal_085,0,0,0.034698307514190674,True
+Visible Injection,normal_086,0,0,0.012900233268737793,True
+Visible Injection,normal_087,0,0,0.07687151432037354,True
+Visible Injection,normal_088,0,0,0.07259678840637207,True
+Visible Injection,normal_089,0,0,0.01847529411315918,True
+Visible Injection,normal_090,0,0,0.023627936840057373,True
+Visible Injection,normal_091,0,0,0.00762021541595459,True
+Visible Injection,normal_092,0,0,0.036273837089538574,True
+Visible Injection,normal_093,0,0,0.08847767114639282,True
+Visible Injection,normal_094,0,0,0.015985429286956787,True
+Visible Injection,normal_095,0,0,0.12781816720962524,True
+Visible Injection,normal_096,0,0,0.17697608470916748,True
+Visible Injection,normal_097,0,0,0.02219998836517334,True
+Visible Injection,normal_098,0,0,0.02224975824356079,True
+Visible Injection,normal_099,0,0,0.12023037672042847,True
+Visible Injection,normal_100,0,0,0.2203465700149536,True
+Visible Injection,normal_101,0,0,0.09197580814361572,True
+Visible Injection,normal_102,0,0,0.15946561098098755,True
+Visible Injection,normal_103,0,0,0.11389470100402832,True
+Visible Injection,normal_104,0,0,0.01350313425064087,True
+Visible Injection,normal_105,0,0,0.03307288885116577,True
+Visible Injection,normal_106,0,0,0.03019005060195923,True
+Visible Injection,normal_107,0,0,0.17645364999771118,True
+Visible Injection,normal_108,0,0,0.06494027376174927,True
+Visible Injection,normal_109,0,0,0.03042924404144287,True
+Visible Injection,normal_110,0,0,0.12544304132461548,True
+Visible Injection,normal_111,0,0,0.009329676628112793,True
+Visible Injection,normal_112,0,0,0.029155313968658447,True
+Visible Injection,normal_113,0,0,0.012265384197235107,True
+Visible Injection,normal_114,0,0,0.05126035213470459,True
+Visible Injection,normal_115,0,0,0.07435905933380127,True
+Visible Injection,normal_116,0,0,0.09034866094589233,True
+Visible Injection,normal_117,0,0,0.14742612838745117,True
+Visible Injection,normal_118,0,0,0.0286407470703125,True
+Visible Injection,normal_119,0,0,0.14394474029541016,True
+Visible Injection,normal_120,0,0,0.07435905933380127,True
+Visible Injection,normal_121,0,0,0.0633997917175293,True
+Visible Injection,normal_122,0,0,0.1898065209388733,True
+Visible Injection,normal_123,0,0,0.20467042922973633,True
+Visible Injection,normal_124,0,0,0.018776655197143555,True
+Visible Injection,normal_125,0,0,0.008428335189819336,True
+Visible Injection,normal_126,0,0,0.05975431203842163,True
+Visible Injection,normal_127,0,0,0.3856656551361084,True
+Visible Injection,normal_128,0,0,0.018882453441619873,True
+Visible Injection,normal_129,0,0,0.0031992197036743164,True
+Visible Injection,normal_130,0,0,0.04616779088973999,True
+Visible Injection,normal_131,0,0,0.0048465728759765625,True
+Visible Injection,normal_132,0,0,0.1766931414604187,True
+Visible Injection,normal_133,0,0,0.18714910745620728,True
+Visible Injection,normal_134,0,0,0.03596329689025879,True
+Visible Injection,normal_135,0,0,0.05529850721359253,True
+Visible Injection,normal_136,0,0,0.07879537343978882,True
+Visible Injection,normal_137,0,0,0.01209646463394165,True
+Visible Injection,normal_138,0,0,0.041119933128356934,True
+Visible Injection,normal_139,0,0,0.0238645076751709,True
+Visible Injection,normal_140,0,0,0.05778437852859497,True
+Visible Injection,normal_141,0,0,0.04155683517456055,True
+Visible Injection,normal_142,0,0,0.03552424907684326,True
+Visible Injection,normal_143,0,0,0.014503300189971924,True
+Visible Injection,normal_144,0,0,0.07388359308242798,True
+Visible Injection,normal_145,0,0,0.08109426498413086,True
+Visible Injection,normal_146,0,0,0.03262811899185181,True
+Visible Injection,normal_147,0,0,0.0008561611175537109,True
+Visible Injection,normal_148,0,0,0.04621410369873047,True
+Visible Injection,normal_149,0,0,0.03405404090881348,True
+Visible Injection,normal_150,0,0,0.054923057556152344,True
+Visible Injection,normal_151,0,0,0.0005713105201721191,True
+Visible Injection,normal_152,0,0,0.04601258039474487,True
+Visible Injection,normal_153,0,0,0.03652840852737427,True
+Visible Injection,normal_154,0,0,0.06009954214096069,True
+Visible Injection,normal_155,0,0,0.10847949981689453,True
+Visible Injection,normal_156,0,0,0.24213236570358276,True
+Visible Injection,normal_157,0,0,0.000799715518951416,True
+Visible Injection,normal_158,0,0,0.07018953561782837,True
+Visible Injection,normal_159,0,0,0.08016151189804077,True
+Visible Injection,normal_160,0,0,0.09661006927490234,True
+Visible Injection,normal_161,0,0,0.08109426498413086,True
+Visible Injection,normal_162,0,0,0.04826545715332031,True
+Visible Injection,normal_163,0,0,0.1272197961807251,True
+Visible Injection,normal_164,0,0,0.03703641891479492,True
+Visible Injection,normal_165,0,0,0.03135401010513306,True
+Visible Injection,normal_166,0,0,0.3284718990325928,True
+Visible Injection,normal_167,0,0,0.08258521556854248,True
+Visible Injection,normal_168,0,0,0.1364041566848755,True
+Visible Injection,normal_169,0,0,0.10893642902374268,True
+Visible Injection,normal_170,0,0,0.104297935962677,True
+Visible Injection,normal_171,0,0,0.036026835441589355,True
+Visible Injection,normal_172,0,0,0.14299064874649048,True
+Visible Injection,normal_173,0,0,0.06772041320800781,True
+Visible Injection,normal_174,0,0,0.03765392303466797,True
+Visible Injection,normal_175,0,0,0.11908531188964844,True
+Visible Injection,normal_176,0,0,0.03758460283279419,True
+Visible Injection,normal_177,0,0,0.03432947397232056,True
+Visible Injection,normal_178,0,0,0.10926902294158936,True
+Visible Injection,normal_179,0,0,0.10766834020614624,True
+Visible Injection,normal_180,0,0,0.020033061504364014,True
+Visible Injection,normal_181,0,0,0.03867989778518677,True
+Visible Injection,normal_182,0,0,0.05618351697921753,True
+Visible Injection,normal_183,0,0,0.12933951616287231,True
+Visible Injection,normal_184,0,0,0.15209859609603882,True
+Visible Injection,normal_185,0,0,0.006752729415893555,True
+Visible Injection,normal_186,0,0,0.12148469686508179,True
+Visible Injection,normal_187,0,0,0.020776867866516113,True
+Visible Injection,normal_188,0,0,0.0439760684967041,True
+Visible Injection,normal_189,0,0,0.012554407119750977,True
+Visible Injection,normal_190,0,0,0.033783793449401855,True
+Visible Injection,normal_191,0,0,0.012211263179779053,True
+Visible Injection,normal_192,0,0,0.02887105941772461,True
+Visible Injection,normal_193,0,0,0.013966023921966553,True
+Visible Injection,normal_194,0,0,0.08170533180236816,True
+Visible Injection,normal_195,0,0,0.026775062084197998,True
+Visible Injection,normal_196,0,0,0.04342174530029297,True
+Visible Injection,normal_197,0,0,0.1341986060142517,True
+Visible Injection,normal_198,0,1,0.695514440536499,False
+Visible Injection,normal_199,0,0,0.0154152512550354,True
+Visible Injection,normal_200,0,0,0.05201888084411621,True
+Visible Injection,normal_201,0,0,0.09989392757415771,True
+Visible Injection,normal_202,0,0,0.04109591245651245,True
+Visible Injection,normal_203,0,0,0.08353304862976074,True
+Visible Injection,normal_204,0,0,0.0664023756980896,True
+Visible Injection,normal_205,0,0,0.012386918067932129,True
+Visible Injection,normal_206,0,0,0.15051382780075073,True
+Visible Injection,normal_207,0,0,0.02692466974258423,True
+Visible Injection,normal_208,0,0,0.08830219507217407,True
+Visible Injection,normal_209,0,0,0.046644747257232666,True
+Visible Injection,normal_210,0,0,0.03486543893814087,True
+Visible Injection,normal_211,0,0,0.27847176790237427,True
+Visible Injection,normal_212,0,0,0.05216062068939209,True
+Visible Injection,normal_213,0,0,0.09288281202316284,True
+Visible Injection,normal_214,0,0,0.04415309429168701,True
+Visible Injection,normal_215,0,0,0.024010300636291504,True
+Visible Injection,normal_216,0,0,0.4519507884979248,True
+Visible Injection,normal_217,0,0,0.2151222825050354,True
+Visible Injection,normal_218,0,0,0.05661135911941528,True
+Visible Injection,normal_219,0,0,0.04345136880874634,True
+Visible Injection,normal_220,0,0,0.18561559915542603,True
+Visible Injection,normal_221,0,0,0.01015019416809082,True
+Visible Injection,normal_222,0,0,0.010863304138183594,True
+Visible Injection,normal_223,0,0,0.0827174186706543,True
+Visible Injection,normal_224,0,0,0.13483667373657227,True
+Visible Injection,normal_225,0,0,0.09112727642059326,True
+Visible Injection,normal_226,0,0,0.017740070819854736,True
+Visible Injection,normal_227,0,0,0.03722649812698364,True
+Visible Injection,normal_228,0,0,0.018451809883117676,True
+Visible Injection,normal_229,0,0,0.0564427375793457,True
+Visible Injection,normal_230,0,0,0.05591708421707153,True
+Visible Injection,normal_231,0,0,0.11873501539230347,True
+Visible Injection,normal_232,0,0,0.019101321697235107,True
+Visible Injection,normal_233,0,0,0.06230628490447998,True
+Visible Injection,normal_234,0,0,0.17074859142303467,True
+Visible Injection,normal_235,0,0,0.15270882844924927,True
+Visible Injection,normal_236,0,0,0.07645338773727417,True
+Visible Injection,normal_237,0,0,0.13649094104766846,True
+Visible Injection,normal_238,0,0,0.044120073318481445,True
+Visible Injection,normal_239,0,0,0.24618548154830933,True
+Visible Injection,normal_240,0,0,0.03552168607711792,True
+Visible Injection,normal_241,0,0,0.15878689289093018,True
+Visible Injection,normal_242,0,0,0.1619861125946045,True
+Visible Injection,normal_243,0,0,0.023446083068847656,True
+Visible Injection,normal_244,0,0,0.08535569906234741,True
+Visible Injection,normal_245,0,0,0.09134012460708618,True
+Visible Injection,normal_246,0,0,0.05112427473068237,True
+Visible Injection,normal_247,0,0,0.0043520331382751465,True
+Visible Injection,normal_248,0,0,0.0015709996223449707,True
+Visible Injection,normal_249,0,0,0.03195905685424805,True
+Visible Injection,normal_250,0,0,0.22359299659729004,True
+Visible Injection,normal_251,0,0,0.09311985969543457,True
+Visible Injection,normal_252,0,0,0.04735976457595825,True
+Visible Injection,normal_253,0,0,0.06786894798278809,True
+Visible Injection,normal_254,0,0,0.056342244148254395,True
+Visible Injection,normal_255,0,1,0.5798933506011963,False
+Visible Injection,normal_256,0,0,0.02650243043899536,True
+Visible Injection,normal_257,0,0,0.0747101902961731,True
+Visible Injection,normal_258,0,1,0.7385264039039612,False
+Visible Injection,normal_259,0,0,0.07385635375976562,True
+Visible Injection,normal_260,0,0,0.09109419584274292,True
+Visible Injection,normal_261,0,0,0.020286381244659424,True
+Visible Injection,normal_262,0,0,0.014698922634124756,True
+Visible Injection,normal_263,0,0,0.0013095736503601074,True
+Visible Injection,normal_264,0,0,0.10994905233383179,True
+Visible Injection,normal_265,0,0,0.02547520399093628,True
+Visible Injection,normal_266,0,0,0.09887456893920898,True
+Visible Injection,normal_267,0,0,0.08906769752502441,True
+Visible Injection,normal_268,0,0,0.08181047439575195,True
+Visible Injection,normal_269,0,0,0.09349799156188965,True
+Visible Injection,normal_270,0,0,0.06325799226760864,True
+Visible Injection,normal_271,0,0,0.031966209411621094,True
+Visible Injection,normal_272,0,0,0.004298746585845947,True
+Visible Injection,normal_273,0,0,0.02471834421157837,True
+Visible Injection,normal_274,0,0,0.0030561089515686035,True
+Visible Injection,normal_275,0,0,0.031920671463012695,True
+Visible Injection,normal_276,0,0,0.1680002212524414,True
+Visible Injection,normal_277,0,0,0.02732408046722412,True
+Visible Injection,normal_278,0,0,0.03830111026763916,True
+Visible Injection,normal_279,0,0,0.07970654964447021,True
+Visible Injection,normal_280,0,0,0.03419697284698486,True
+Visible Injection,normal_281,0,0,0.354133665561676,True
+Visible Injection,normal_282,0,0,0.16180354356765747,True
+Visible Injection,normal_283,0,0,0.14504849910736084,True
+Visible Injection,normal_284,0,0,0.02547597885131836,True
+Visible Injection,normal_285,0,0,0.009358823299407959,True
+Visible Injection,normal_286,0,0,0.0543285608291626,True
+Visible Injection,normal_287,0,0,0.025613903999328613,True
+Visible Injection,normal_288,0,0,0.013587713241577148,True
+Visible Injection,normal_289,0,0,0.033463358879089355,True
+Visible Injection,normal_290,0,0,0.020998656749725342,True
+Visible Injection,normal_291,0,0,0.387403666973114,True
+Visible Injection,normal_292,0,0,0.004353344440460205,True
+Visible Injection,normal_293,0,0,0.03305619955062866,True
+Visible Injection,normal_294,0,0,0.0013183951377868652,True
+Visible Injection,normal_295,0,0,0.18488669395446777,True
+Visible Injection,normal_296,0,0,0.0,True
+Visible Injection,normal_297,0,0,0.042404234409332275,True
+Visible Injection,normal_298,0,0,0.03783077001571655,True
+Visible Injection,normal_299,0,0,0.06460660696029663,True
+Visible Injection,normal_300,0,0,0.019381701946258545,True
+Visible Injection,pituitary_001,1,1,0.909248948097229,True
+Visible Injection,pituitary_002,1,1,0.6441407203674316,True
+Visible Injection,pituitary_003,1,1,0.5773036479949951,True
+Visible Injection,pituitary_004,1,1,0.9280526638031006,True
+Visible Injection,pituitary_005,1,1,0.6633249521255493,True
+Visible Injection,pituitary_006,1,1,0.9758774042129517,True
+Visible Injection,pituitary_007,1,1,0.993780255317688,True
+Visible Injection,pituitary_008,1,1,0.7188194394111633,True
+Visible Injection,pituitary_009,1,1,0.8864277005195618,True
+Visible Injection,pituitary_010,1,1,0.9308196306228638,True
+Visible Injection,pituitary_011,1,1,0.9698415398597717,True
+Visible Injection,pituitary_012,1,1,0.9745298624038696,True
+Visible Injection,pituitary_013,1,1,0.924066960811615,True
+Visible Injection,pituitary_014,1,0,0.3073994517326355,False
+Visible Injection,pituitary_015,1,1,0.9139707088470459,True
+Visible Injection,pituitary_016,1,1,0.9128031134605408,True
+Visible Injection,pituitary_017,1,1,0.8549121022224426,True
+Visible Injection,pituitary_018,1,1,0.9633335471153259,True
+Visible Injection,pituitary_019,1,0,0.4751940369606018,False
+Visible Injection,pituitary_020,1,0,0.4380074143409729,False
+Visible Injection,pituitary_021,1,1,0.9350583553314209,True
+Visible Injection,pituitary_022,1,1,0.9584794640541077,True
+Visible Injection,pituitary_023,1,1,0.913117527961731,True
+Visible Injection,pituitary_024,1,1,0.645248293876648,True
+Visible Injection,pituitary_025,1,1,0.8200863003730774,True
+Visible Injection,pituitary_026,1,1,0.6917544007301331,True
+Visible Injection,pituitary_027,1,1,0.7946224212646484,True
+Visible Injection,pituitary_028,1,1,0.6693919897079468,True
+Visible Injection,pituitary_029,1,1,0.5753710865974426,True
+Visible Injection,pituitary_030,1,1,0.9710808396339417,True
+Visible Injection,pituitary_031,1,1,0.8061726093292236,True
+Visible Injection,pituitary_032,1,1,0.5567225217819214,True
+Visible Injection,pituitary_033,1,1,0.9249628186225891,True
+Visible Injection,pituitary_034,1,1,0.9496895670890808,True
+Visible Injection,pituitary_035,1,1,0.7062556743621826,True
+Visible Injection,pituitary_036,1,1,0.7298779487609863,True
+Visible Injection,pituitary_037,1,1,0.9866857528686523,True
+Visible Injection,pituitary_038,1,1,0.9530986547470093,True
+Visible Injection,pituitary_039,1,1,0.8191943168640137,True
+Visible Injection,pituitary_040,1,1,0.9167654514312744,True
+Visible Injection,pituitary_041,1,1,0.597928524017334,True
+Visible Injection,pituitary_042,1,1,0.849784791469574,True
+Visible Injection,pituitary_043,1,1,0.9266692399978638,True
+Visible Injection,pituitary_044,1,1,0.7190889716148376,True
+Visible Injection,pituitary_045,1,1,0.7342106699943542,True
+Visible Injection,pituitary_046,1,1,0.7998602390289307,True
+Visible Injection,pituitary_047,1,1,0.845359206199646,True
+Visible Injection,pituitary_048,1,1,0.8622865676879883,True
+Visible Injection,pituitary_049,1,1,0.969825804233551,True
+Visible Injection,pituitary_050,1,1,0.893658459186554,True
+Visible Injection,pituitary_051,1,1,0.832862913608551,True
+Visible Injection,pituitary_052,1,1,0.7471809387207031,True
+Visible Injection,pituitary_053,1,1,0.9715196490287781,True
+Visible Injection,pituitary_054,1,1,0.6284614205360413,True
+Visible Injection,pituitary_055,1,1,0.8958781361579895,True
+Visible Injection,pituitary_056,1,1,0.7934399247169495,True
+Visible Injection,pituitary_057,1,0,0.20177406072616577,False
+Visible Injection,pituitary_058,1,1,0.7917765974998474,True
+Visible Injection,pituitary_059,1,0,0.4433927536010742,False
+Visible Injection,pituitary_060,1,1,0.8477275967597961,True
+Visible Injection,pituitary_061,1,1,0.9493540525436401,True
+Visible Injection,pituitary_062,1,1,0.9833837747573853,True
+Visible Injection,pituitary_063,1,1,0.7714456915855408,True
+Visible Injection,pituitary_064,1,1,0.7642176151275635,True
+Visible Injection,pituitary_065,1,1,0.9178689122200012,True
+Visible Injection,pituitary_066,1,1,0.7264800071716309,True
+Visible Injection,pituitary_067,1,0,0.45948535203933716,False
+Visible Injection,pituitary_068,1,1,0.7436702251434326,True
+Visible Injection,pituitary_069,1,1,0.916204571723938,True
+Visible Injection,pituitary_070,1,1,0.9707210063934326,True
+Visible Injection,pituitary_071,1,1,0.953054666519165,True
+Visible Injection,pituitary_072,1,1,0.9659488201141357,True
+Visible Injection,pituitary_073,1,1,0.8917921781539917,True
+Visible Injection,pituitary_074,1,1,0.8770759701728821,True
+Visible Injection,pituitary_075,1,1,0.677428126335144,True
+Visible Injection,pituitary_076,1,1,0.9880538582801819,True
+Visible Injection,pituitary_077,1,1,0.5661225318908691,True
+Visible Injection,pituitary_078,1,1,0.9364522099494934,True
+Visible Injection,pituitary_079,1,1,0.7227940559387207,True
+Visible Injection,pituitary_080,1,1,0.9876511096954346,True
+Visible Injection,pituitary_081,1,1,0.791969895362854,True
+Visible Injection,pituitary_082,1,0,0.4484485387802124,False
+Visible Injection,pituitary_083,1,1,0.9824776649475098,True
+Visible Injection,pituitary_084,1,1,0.7353122234344482,True
+Visible Injection,pituitary_085,1,1,0.9524720311164856,True
+Visible Injection,pituitary_086,1,1,0.9397566914558411,True
+Visible Injection,pituitary_087,1,1,0.6397724151611328,True
+Visible Injection,pituitary_088,1,1,0.7286649346351624,True
+Visible Injection,pituitary_089,1,1,0.9522998332977295,True
+Visible Injection,pituitary_090,1,1,0.8182839155197144,True
+Visible Injection,pituitary_091,1,1,0.9825827479362488,True
+Visible Injection,pituitary_092,1,1,0.8803855180740356,True
+Visible Injection,pituitary_093,1,1,0.9666185975074768,True
+Visible Injection,pituitary_094,1,1,0.6142405271530151,True
+Visible Injection,pituitary_095,1,1,0.9338786602020264,True
+Visible Injection,pituitary_096,1,1,0.6726915836334229,True
+Visible Injection,pituitary_097,1,1,0.9850298166275024,True
+Visible Injection,pituitary_098,1,1,0.7356491088867188,True
+Visible Injection,pituitary_099,1,1,0.950279951095581,True
+Visible Injection,pituitary_100,1,1,0.8745764493942261,True
+Stealth Injection,glioma_001,1,1,0.9620278477668762,True
+Stealth Injection,glioma_002,1,1,0.9591977596282959,True
+Stealth Injection,glioma_003,1,1,0.9559277892112732,True
+Stealth Injection,glioma_004,1,1,0.7812058925628662,True
+Stealth Injection,glioma_005,1,1,0.9425651431083679,True
+Stealth Injection,glioma_006,1,1,0.6973147392272949,True
+Stealth Injection,glioma_007,1,1,0.5045954585075378,True
+Stealth Injection,glioma_008,1,1,0.9210100173950195,True
+Stealth Injection,glioma_009,1,1,0.8733883500099182,True
+Stealth Injection,glioma_010,1,1,0.9469777345657349,True
+Stealth Injection,glioma_011,1,1,0.8342210650444031,True
+Stealth Injection,glioma_012,1,1,0.991058349609375,True
+Stealth Injection,glioma_013,1,1,0.8621708750724792,True
+Stealth Injection,glioma_014,1,1,0.9773036241531372,True
+Stealth Injection,glioma_015,1,1,0.9478250741958618,True
+Stealth Injection,glioma_016,1,1,0.9697279334068298,True
+Stealth Injection,glioma_017,1,0,0.34196358919143677,False
+Stealth Injection,glioma_018,1,1,0.997172474861145,True
+Stealth Injection,glioma_019,1,1,0.642741322517395,True
+Stealth Injection,glioma_020,1,1,0.978600025177002,True
+Stealth Injection,glioma_021,1,1,0.9719867706298828,True
+Stealth Injection,glioma_022,1,1,0.9855583906173706,True
+Stealth Injection,glioma_023,1,1,0.6567865014076233,True
+Stealth Injection,glioma_024,1,1,0.980190634727478,True
+Stealth Injection,glioma_025,1,1,0.9406940937042236,True
+Stealth Injection,glioma_026,1,1,0.9833324551582336,True
+Stealth Injection,glioma_027,1,1,0.9068674445152283,True
+Stealth Injection,glioma_028,1,1,0.9202391505241394,True
+Stealth Injection,glioma_029,1,1,0.9936934113502502,True
+Stealth Injection,glioma_030,1,1,0.5352640748023987,True
+Stealth Injection,glioma_031,1,1,0.9393196105957031,True
+Stealth Injection,glioma_032,1,1,0.9358522891998291,True
+Stealth Injection,glioma_033,1,1,0.8329288959503174,True
+Stealth Injection,glioma_034,1,1,0.6858806610107422,True
+Stealth Injection,glioma_035,1,1,0.991133451461792,True
+Stealth Injection,glioma_036,1,1,0.9948205947875977,True
+Stealth Injection,glioma_037,1,1,0.9915392994880676,True
+Stealth Injection,glioma_038,1,1,0.6069075465202332,True
+Stealth Injection,glioma_039,1,1,0.6593043804168701,True
+Stealth Injection,glioma_040,1,1,0.955695390701294,True
+Stealth Injection,glioma_041,1,1,0.9892993569374084,True
+Stealth Injection,glioma_042,1,1,0.9462077021598816,True
+Stealth Injection,glioma_043,1,1,0.9716417193412781,True
+Stealth Injection,glioma_044,1,1,0.9250714182853699,True
+Stealth Injection,glioma_045,1,1,0.883539617061615,True
+Stealth Injection,glioma_046,1,1,0.9988539218902588,True
+Stealth Injection,glioma_047,1,0,0.3721488118171692,False
+Stealth Injection,glioma_048,1,1,0.8978107571601868,True
+Stealth Injection,glioma_049,1,0,0.4843217134475708,False
+Stealth Injection,glioma_050,1,1,0.9750573635101318,True
+Stealth Injection,glioma_051,1,1,0.9927248954772949,True
+Stealth Injection,glioma_052,1,1,0.9680554866790771,True
+Stealth Injection,glioma_053,1,1,0.9621896743774414,True
+Stealth Injection,glioma_054,1,1,0.5257198810577393,True
+Stealth Injection,glioma_055,1,1,0.8473106622695923,True
+Stealth Injection,glioma_056,1,1,0.922834038734436,True
+Stealth Injection,glioma_057,1,1,0.9640563130378723,True
+Stealth Injection,glioma_058,1,1,0.8643789291381836,True
+Stealth Injection,glioma_059,1,1,0.9964507818222046,True
+Stealth Injection,glioma_060,1,1,0.988358736038208,True
+Stealth Injection,glioma_061,1,1,0.9998326897621155,True
+Stealth Injection,glioma_062,1,1,0.7938573360443115,True
+Stealth Injection,glioma_063,1,1,0.7515626549720764,True
+Stealth Injection,glioma_064,1,1,0.7388505339622498,True
+Stealth Injection,glioma_065,1,1,0.9445278644561768,True
+Stealth Injection,glioma_066,1,1,0.8951371312141418,True
+Stealth Injection,glioma_067,1,1,0.954588770866394,True
+Stealth Injection,glioma_068,1,1,0.921850860118866,True
+Stealth Injection,glioma_069,1,1,0.9901647567749023,True
+Stealth Injection,glioma_070,1,1,0.8561834692955017,True
+Stealth Injection,glioma_071,1,1,0.9193019866943359,True
+Stealth Injection,glioma_072,1,1,0.9913035035133362,True
+Stealth Injection,glioma_073,1,1,0.9989935159683228,True
+Stealth Injection,glioma_074,1,1,0.9685832858085632,True
+Stealth Injection,glioma_075,1,1,0.9971551299095154,True
+Stealth Injection,glioma_076,1,1,0.9865559935569763,True
+Stealth Injection,glioma_077,1,1,0.9436787962913513,True
+Stealth Injection,glioma_078,1,1,0.9940544366836548,True
+Stealth Injection,glioma_079,1,1,0.9117121696472168,True
+Stealth Injection,glioma_080,1,1,0.7622884511947632,True
+Stealth Injection,glioma_081,1,1,0.9437265396118164,True
+Stealth Injection,glioma_082,1,1,0.9828891158103943,True
+Stealth Injection,glioma_083,1,1,0.9955217242240906,True
+Stealth Injection,glioma_084,1,1,0.8642438054084778,True
+Stealth Injection,glioma_085,1,1,0.9709444046020508,True
+Stealth Injection,glioma_086,1,1,0.953058123588562,True
+Stealth Injection,glioma_087,1,1,0.6912868618965149,True
+Stealth Injection,glioma_088,1,1,0.9383516907691956,True
+Stealth Injection,glioma_089,1,1,0.9676370620727539,True
+Stealth Injection,glioma_090,1,1,0.9524577856063843,True
+Stealth Injection,glioma_091,1,1,0.5938960313796997,True
+Stealth Injection,glioma_092,1,1,0.9948939681053162,True
+Stealth Injection,glioma_093,1,1,0.9487420320510864,True
+Stealth Injection,glioma_094,1,1,0.9890691637992859,True
+Stealth Injection,glioma_095,1,1,0.9494856595993042,True
+Stealth Injection,glioma_096,1,1,0.8567028641700745,True
+Stealth Injection,glioma_097,1,1,0.9954826235771179,True
+Stealth Injection,glioma_098,1,1,0.7833907008171082,True
+Stealth Injection,glioma_099,1,1,0.9521732926368713,True
+Stealth Injection,glioma_100,1,0,0.4946746230125427,False
+Stealth Injection,meningioma_001,1,1,0.9460929036140442,True
+Stealth Injection,meningioma_002,1,1,0.9654635190963745,True
+Stealth Injection,meningioma_003,1,0,0.4457029104232788,False
+Stealth Injection,meningioma_004,1,1,0.9284563660621643,True
+Stealth Injection,meningioma_005,1,1,0.8152503967285156,True
+Stealth Injection,meningioma_006,1,1,0.9397186040878296,True
+Stealth Injection,meningioma_007,1,1,0.9993472099304199,True
+Stealth Injection,meningioma_008,1,1,0.9849562048912048,True
+Stealth Injection,meningioma_009,1,1,0.9304575324058533,True
+Stealth Injection,meningioma_010,1,1,0.8899048566818237,True
+Stealth Injection,meningioma_011,1,1,0.8480393886566162,True
+Stealth Injection,meningioma_012,1,1,0.8456196784973145,True
+Stealth Injection,meningioma_013,1,1,0.8264870643615723,True
+Stealth Injection,meningioma_014,1,1,0.9376341104507446,True
+Stealth Injection,meningioma_015,1,1,0.9728031754493713,True
+Stealth Injection,meningioma_016,1,1,0.9278649091720581,True
+Stealth Injection,meningioma_017,1,1,0.8699007630348206,True
+Stealth Injection,meningioma_018,1,1,0.761252760887146,True
+Stealth Injection,meningioma_019,1,0,0.11665326356887817,False
+Stealth Injection,meningioma_020,1,1,0.7985944151878357,True
+Stealth Injection,meningioma_021,1,1,0.9693549871444702,True
+Stealth Injection,meningioma_022,1,1,0.9024015069007874,True
+Stealth Injection,meningioma_023,1,1,0.5975221395492554,True
+Stealth Injection,meningioma_024,1,0,0.19235849380493164,False
+Stealth Injection,meningioma_025,1,0,0.19700288772583008,False
+Stealth Injection,meningioma_026,1,0,0.4189338684082031,False
+Stealth Injection,meningioma_027,1,1,0.6261941194534302,True
+Stealth Injection,meningioma_028,1,0,0.24780714511871338,False
+Stealth Injection,meningioma_029,1,1,0.7650091052055359,True
+Stealth Injection,meningioma_030,1,1,0.8380212187767029,True
+Stealth Injection,meningioma_031,1,1,0.8103353977203369,True
+Stealth Injection,meningioma_032,1,1,0.8642920255661011,True
+Stealth Injection,meningioma_033,1,1,0.9339461922645569,True
+Stealth Injection,meningioma_034,1,1,0.6029035449028015,True
+Stealth Injection,meningioma_035,1,1,0.9857482314109802,True
+Stealth Injection,meningioma_036,1,1,0.9684922695159912,True
+Stealth Injection,meningioma_037,1,0,0.41879504919052124,False
+Stealth Injection,meningioma_038,1,1,0.5076584815979004,True
+Stealth Injection,meningioma_039,1,1,0.520645022392273,True
+Stealth Injection,meningioma_040,1,1,0.978500485420227,True
+Stealth Injection,meningioma_041,1,1,0.9571622014045715,True
+Stealth Injection,meningioma_042,1,1,0.9021973013877869,True
+Stealth Injection,meningioma_043,1,1,0.9187330007553101,True
+Stealth Injection,meningioma_044,1,1,0.9813817739486694,True
+Stealth Injection,meningioma_045,1,1,0.7095340490341187,True
+Stealth Injection,meningioma_046,1,1,0.9956391453742981,True
+Stealth Injection,meningioma_047,1,1,0.8958206176757812,True
+Stealth Injection,meningioma_048,1,1,0.8356826305389404,True
+Stealth Injection,meningioma_049,1,1,0.9006286859512329,True
+Stealth Injection,meningioma_050,1,1,0.9345062971115112,True
+Stealth Injection,meningioma_051,1,1,0.9497527480125427,True
+Stealth Injection,meningioma_052,1,1,0.7694302797317505,True
+Stealth Injection,meningioma_053,1,1,0.8593433499336243,True
+Stealth Injection,meningioma_054,1,1,0.9129632711410522,True
+Stealth Injection,meningioma_055,1,1,0.6163560152053833,True
+Stealth Injection,meningioma_056,1,1,0.7032132148742676,True
+Stealth Injection,meningioma_057,1,1,0.5190744400024414,True
+Stealth Injection,meningioma_058,1,0,0.2802354693412781,False
+Stealth Injection,meningioma_059,1,1,0.8591408133506775,True
+Stealth Injection,meningioma_060,1,1,0.5858907699584961,True
+Stealth Injection,meningioma_061,1,1,0.9876943230628967,True
+Stealth Injection,meningioma_062,1,1,0.9681280851364136,True
+Stealth Injection,meningioma_063,1,1,0.6569676399230957,True
+Stealth Injection,meningioma_064,1,1,0.948380708694458,True
+Stealth Injection,meningioma_065,1,1,0.8824011087417603,True
+Stealth Injection,meningioma_066,1,1,0.7316844463348389,True
+Stealth Injection,meningioma_067,1,0,0.07517564296722412,False
+Stealth Injection,meningioma_068,1,1,0.7727043628692627,True
+Stealth Injection,meningioma_069,1,1,0.9777553677558899,True
+Stealth Injection,meningioma_070,1,1,0.9444376230239868,True
+Stealth Injection,meningioma_071,1,1,0.8871800899505615,True
+Stealth Injection,meningioma_072,1,1,0.8739485740661621,True
+Stealth Injection,meningioma_073,1,1,0.9609375596046448,True
+Stealth Injection,meningioma_074,1,1,0.9902854561805725,True
+Stealth Injection,meningioma_075,1,1,0.9795994162559509,True
+Stealth Injection,meningioma_076,1,1,0.9707244634628296,True
+Stealth Injection,meningioma_077,1,1,0.9791296720504761,True
+Stealth Injection,meningioma_078,1,1,0.8049913644790649,True
+Stealth Injection,meningioma_079,1,1,0.7767834663391113,True
+Stealth Injection,meningioma_080,1,0,0.47173601388931274,False
+Stealth Injection,meningioma_081,1,1,0.5807003974914551,True
+Stealth Injection,meningioma_082,1,1,0.7908968925476074,True
+Stealth Injection,meningioma_083,1,1,0.8575337529182434,True
+Stealth Injection,meningioma_084,1,1,0.8419958353042603,True
+Stealth Injection,meningioma_085,1,1,0.5518836975097656,True
+Stealth Injection,meningioma_086,1,1,0.9795717597007751,True
+Stealth Injection,meningioma_087,1,1,0.8867982029914856,True
+Stealth Injection,meningioma_088,1,1,0.5958023071289062,True
+Stealth Injection,meningioma_089,1,1,0.9551584124565125,True
+Stealth Injection,meningioma_090,1,1,0.9055542945861816,True
+Stealth Injection,meningioma_091,1,1,0.844721794128418,True
+Stealth Injection,meningioma_092,1,1,0.8134862780570984,True
+Stealth Injection,meningioma_093,1,1,0.8226335048675537,True
+Stealth Injection,meningioma_094,1,1,0.90660560131073,True
+Stealth Injection,meningioma_095,1,1,0.825846791267395,True
+Stealth Injection,meningioma_096,1,1,0.9946256875991821,True
+Stealth Injection,meningioma_097,1,1,0.975614607334137,True
+Stealth Injection,meningioma_098,1,1,0.8428913950920105,True
+Stealth Injection,meningioma_099,1,1,0.8723688125610352,True
+Stealth Injection,meningioma_100,1,1,0.9857184290885925,True
+Stealth Injection,normal_001,0,0,0.05229330062866211,True
+Stealth Injection,normal_002,0,0,0.010383009910583496,True
+Stealth Injection,normal_003,0,0,0.007343709468841553,True
+Stealth Injection,normal_004,0,0,0.13359791040420532,True
+Stealth Injection,normal_005,0,0,0.23452413082122803,True
+Stealth Injection,normal_006,0,0,0.02778536081314087,True
+Stealth Injection,normal_007,0,0,0.050819337368011475,True
+Stealth Injection,normal_008,0,0,0.003896355628967285,True
+Stealth Injection,normal_009,0,0,0.030927419662475586,True
+Stealth Injection,normal_010,0,0,0.012138605117797852,True
+Stealth Injection,normal_011,0,0,0.02102506160736084,True
+Stealth Injection,normal_012,0,0,0.0006819963455200195,True
+Stealth Injection,normal_013,0,0,0.0,True
+Stealth Injection,normal_014,0,0,0.0044026970863342285,True
+Stealth Injection,normal_015,0,0,0.37213677167892456,True
+Stealth Injection,normal_016,0,0,0.031619906425476074,True
+Stealth Injection,normal_017,0,0,0.0008475780487060547,True
+Stealth Injection,normal_018,0,0,0.010675609111785889,True
+Stealth Injection,normal_019,0,0,0.007070958614349365,True
+Stealth Injection,normal_020,0,0,1.1920928955078125e-07,True
+Stealth Injection,normal_021,0,0,0.210737943649292,True
+Stealth Injection,normal_022,0,0,0.027423977851867676,True
+Stealth Injection,normal_023,0,0,0.0049896240234375,True
+Stealth Injection,normal_024,0,0,0.0007717609405517578,True
+Stealth Injection,normal_025,0,0,0.30627644062042236,True
+Stealth Injection,normal_026,0,0,0.44476038217544556,True
+Stealth Injection,normal_027,0,0,0.006990790367126465,True
+Stealth Injection,normal_028,0,0,0.0005329251289367676,True
+Stealth Injection,normal_029,0,0,0.018411636352539062,True
+Stealth Injection,normal_030,0,0,0.02310001850128174,True
+Stealth Injection,normal_031,0,0,0.03729355335235596,True
+Stealth Injection,normal_032,0,0,0.02665841579437256,True
+Stealth Injection,normal_033,0,0,0.004021167755126953,True
+Stealth Injection,normal_034,0,0,0.014699995517730713,True
+Stealth Injection,normal_035,0,0,0.04818516969680786,True
+Stealth Injection,normal_036,0,0,0.142225444316864,True
+Stealth Injection,normal_037,0,1,0.9131408929824829,False
+Stealth Injection,normal_038,0,0,0.2186700701713562,True
+Stealth Injection,normal_039,0,0,0.036219775676727295,True
+Stealth Injection,normal_040,0,0,0.004908919334411621,True
+Stealth Injection,normal_041,0,0,0.015892386436462402,True
+Stealth Injection,normal_042,0,0,0.09709078073501587,True
+Stealth Injection,normal_043,0,0,0.0006796121597290039,True
+Stealth Injection,normal_044,0,0,0.03192400932312012,True
+Stealth Injection,normal_045,0,1,0.8584017157554626,False
+Stealth Injection,normal_046,0,0,0.0073586106300354,True
+Stealth Injection,normal_047,0,0,0.011864781379699707,True
+Stealth Injection,normal_048,0,0,0.010590553283691406,True
+Stealth Injection,normal_049,0,0,0.04995161294937134,True
+Stealth Injection,normal_050,0,0,0.01963484287261963,True
+Stealth Injection,normal_051,0,0,0.0584140419960022,True
+Stealth Injection,normal_052,0,0,0.007673501968383789,True
+Stealth Injection,normal_053,0,0,0.16692960262298584,True
+Stealth Injection,normal_054,0,0,0.019252479076385498,True
+Stealth Injection,normal_055,0,0,0.05763661861419678,True
+Stealth Injection,normal_056,0,0,0.26640063524246216,True
+Stealth Injection,normal_057,0,0,0.00010883808135986328,True
+Stealth Injection,normal_058,0,0,0.0013252496719360352,True
+Stealth Injection,normal_059,0,0,0.004987955093383789,True
+Stealth Injection,normal_060,0,0,0.0032192468643188477,True
+Stealth Injection,normal_061,0,0,0.0005967617034912109,True
+Stealth Injection,normal_062,0,0,0.24466073513031006,True
+Stealth Injection,normal_063,0,0,0.01620805263519287,True
+Stealth Injection,normal_064,0,0,0.010235428810119629,True
+Stealth Injection,normal_065,0,0,0.00032150745391845703,True
+Stealth Injection,normal_066,0,0,0.0009642839431762695,True
+Stealth Injection,normal_067,0,0,0.10869812965393066,True
+Stealth Injection,normal_068,0,0,0.014795184135437012,True
+Stealth Injection,normal_069,0,0,0.0041512250900268555,True
+Stealth Injection,normal_070,0,0,0.004839718341827393,True
+Stealth Injection,normal_071,0,0,0.07540035247802734,True
+Stealth Injection,normal_072,0,0,0.005572915077209473,True
+Stealth Injection,normal_073,0,0,0.06244826316833496,True
+Stealth Injection,normal_074,0,0,0.015514969825744629,True
+Stealth Injection,normal_075,0,0,0.036709606647491455,True
+Stealth Injection,normal_076,0,0,0.006487667560577393,True
+Stealth Injection,normal_077,0,0,0.006930947303771973,True
+Stealth Injection,normal_078,0,0,0.009028434753417969,True
+Stealth Injection,normal_079,0,0,0.0030099153518676758,True
+Stealth Injection,normal_080,0,0,0.33040153980255127,True
+Stealth Injection,normal_081,0,0,0.17098301649093628,True
+Stealth Injection,normal_082,0,0,0.013152539730072021,True
+Stealth Injection,normal_083,0,0,0.014699995517730713,True
+Stealth Injection,normal_084,0,0,0.06667202711105347,True
+Stealth Injection,normal_085,0,0,0.05229330062866211,True
+Stealth Injection,normal_086,0,0,0.04578167200088501,True
+Stealth Injection,normal_087,0,0,0.02333533763885498,True
+Stealth Injection,normal_088,0,0,0.01963484287261963,True
+Stealth Injection,normal_089,0,0,0.0020748376846313477,True
+Stealth Injection,normal_090,0,0,0.010383009910583496,True
+Stealth Injection,normal_091,0,0,0.012138605117797852,True
+Stealth Injection,normal_092,0,0,0.007070958614349365,True
+Stealth Injection,normal_093,0,0,0.05762684345245361,True
+Stealth Injection,normal_094,0,0,0.08439451456069946,True
+Stealth Injection,normal_095,0,0,0.03412741422653198,True
+Stealth Injection,normal_096,0,0,0.12218701839447021,True
+Stealth Injection,normal_097,0,0,0.004027068614959717,True
+Stealth Injection,normal_098,0,0,0.006800353527069092,True
+Stealth Injection,normal_099,0,0,0.025539398193359375,True
+Stealth Injection,normal_100,0,0,0.19166529178619385,True
+Stealth Injection,normal_101,0,0,0.006990790367126465,True
+Stealth Injection,normal_102,0,0,0.26918184757232666,True
+Stealth Injection,normal_103,0,0,0.02895289659500122,True
+Stealth Injection,normal_104,0,0,0.001231849193572998,True
+Stealth Injection,normal_105,0,0,0.015441715717315674,True
+Stealth Injection,normal_106,0,0,0.0350918173789978,True
+Stealth Injection,normal_107,0,0,0.20385384559631348,True
+Stealth Injection,normal_108,0,0,0.05787503719329834,True
+Stealth Injection,normal_109,0,0,0.02428603172302246,True
+Stealth Injection,normal_110,0,0,0.015190184116363525,True
+Stealth Injection,normal_111,0,0,0.014398753643035889,True
+Stealth Injection,normal_112,0,0,0.006405651569366455,True
+Stealth Injection,normal_113,0,0,0.05763661861419678,True
+Stealth Injection,normal_114,0,0,0.07540035247802734,True
+Stealth Injection,normal_115,0,0,0.1477973461151123,True
+Stealth Injection,normal_116,0,0,0.0640784502029419,True
+Stealth Injection,normal_117,0,0,0.06359875202178955,True
+Stealth Injection,normal_118,0,0,0.02587991952896118,True
+Stealth Injection,normal_119,0,0,0.04278600215911865,True
+Stealth Injection,normal_120,0,0,0.1477973461151123,True
+Stealth Injection,normal_121,0,0,0.01269388198852539,True
+Stealth Injection,normal_122,0,0,0.17071741819381714,True
+Stealth Injection,normal_123,0,1,0.6586141586303711,False
+Stealth Injection,normal_124,0,0,0.005679965019226074,True
+Stealth Injection,normal_125,0,0,0.0007466673851013184,True
+Stealth Injection,normal_126,0,0,0.039708495140075684,True
+Stealth Injection,normal_127,0,0,0.17098301649093628,True
+Stealth Injection,normal_128,0,0,0.0020748376846313477,True
+Stealth Injection,normal_129,0,0,6.318092346191406e-05,True
+Stealth Injection,normal_130,0,0,0.004206657409667969,True
+Stealth Injection,normal_131,0,0,0.013813614845275879,True
+Stealth Injection,normal_132,0,0,0.40276163816452026,True
+Stealth Injection,normal_133,0,0,0.01660442352294922,True
+Stealth Injection,normal_134,0,0,0.0026331543922424316,True
+Stealth Injection,normal_135,0,0,0.04605823755264282,True
+Stealth Injection,normal_136,0,0,0.0688934326171875,True
+Stealth Injection,normal_137,0,0,0.041513264179229736,True
+Stealth Injection,normal_138,0,0,0.011935889720916748,True
+Stealth Injection,normal_139,0,0,0.021514594554901123,True
+Stealth Injection,normal_140,0,0,0.33862221240997314,True
+Stealth Injection,normal_141,0,0,0.13086795806884766,True
+Stealth Injection,normal_142,0,0,0.008665740489959717,True
+Stealth Injection,normal_143,0,0,0.19655472040176392,True
+Stealth Injection,normal_144,0,0,0.03994566202163696,True
+Stealth Injection,normal_145,0,0,0.031955718994140625,True
+Stealth Injection,normal_146,0,0,0.08996659517288208,True
+Stealth Injection,normal_147,0,0,0.006249368190765381,True
+Stealth Injection,normal_148,0,0,0.005074262619018555,True
+Stealth Injection,normal_149,0,0,0.08273804187774658,True
+Stealth Injection,normal_150,0,0,0.05936789512634277,True
+Stealth Injection,normal_151,0,0,0.006249368190765381,True
+Stealth Injection,normal_152,0,0,0.08996659517288208,True
+Stealth Injection,normal_153,0,0,0.005074262619018555,True
+Stealth Injection,normal_154,0,0,0.3836822509765625,True
+Stealth Injection,normal_155,0,0,0.06765162944793701,True
+Stealth Injection,normal_156,0,0,0.08260565996170044,True
+Stealth Injection,normal_157,0,0,0.001959502696990967,True
+Stealth Injection,normal_158,0,0,0.031955718994140625,True
+Stealth Injection,normal_159,0,0,0.11623930931091309,True
+Stealth Injection,normal_160,0,0,0.01695352792739868,True
+Stealth Injection,normal_161,0,0,0.031955718994140625,True
+Stealth Injection,normal_162,0,0,0.20389103889465332,True
+Stealth Injection,normal_163,0,0,0.27307605743408203,True
+Stealth Injection,normal_164,0,0,0.1634819507598877,True
+Stealth Injection,normal_165,0,0,0.08996659517288208,True
+Stealth Injection,normal_166,0,0,0.08260565996170044,True
+Stealth Injection,normal_167,0,0,0.02132636308670044,True
+Stealth Injection,normal_168,0,0,0.06669819355010986,True
+Stealth Injection,normal_169,0,0,0.01605689525604248,True
+Stealth Injection,normal_170,0,0,0.0584140419960022,True
+Stealth Injection,normal_171,0,0,0.04624241590499878,True
+Stealth Injection,normal_172,0,0,0.0631367564201355,True
+Stealth Injection,normal_173,0,0,0.0631367564201355,True
+Stealth Injection,normal_174,0,0,0.22446727752685547,True
+Stealth Injection,normal_175,0,0,0.00919252634048462,True
+Stealth Injection,normal_176,0,0,0.03334718942642212,True
+Stealth Injection,normal_177,0,0,0.04792952537536621,True
+Stealth Injection,normal_178,0,0,0.008911848068237305,True
+Stealth Injection,normal_179,0,0,0.0631367564201355,True
+Stealth Injection,normal_180,0,0,0.005355954170227051,True
+Stealth Injection,normal_181,0,0,0.00173872709274292,True
+Stealth Injection,normal_182,0,0,0.17094147205352783,True
+Stealth Injection,normal_183,0,0,0.19572311639785767,True
+Stealth Injection,normal_184,0,0,0.05979794263839722,True
+Stealth Injection,normal_185,0,0,0.022884845733642578,True
+Stealth Injection,normal_186,0,0,0.05374234914779663,True
+Stealth Injection,normal_187,0,0,0.0012308955192565918,True
+Stealth Injection,normal_188,0,0,0.07354706525802612,True
+Stealth Injection,normal_189,0,0,0.0029631853103637695,True
+Stealth Injection,normal_190,0,0,0.06784898042678833,True
+Stealth Injection,normal_191,0,0,0.005355954170227051,True
+Stealth Injection,normal_192,0,0,0.07353663444519043,True
+Stealth Injection,normal_193,0,0,0.09859597682952881,True
+Stealth Injection,normal_194,0,0,0.022983133792877197,True
+Stealth Injection,normal_195,0,0,0.0047255754470825195,True
+Stealth Injection,normal_196,0,0,0.02197366952896118,True
+Stealth Injection,normal_197,0,0,0.3117374777793884,True
+Stealth Injection,normal_198,0,0,0.3384056091308594,True
+Stealth Injection,normal_199,0,0,0.03028273582458496,True
+Stealth Injection,normal_200,0,0,0.03683805465698242,True
+Stealth Injection,normal_201,0,0,0.2316080927848816,True
+Stealth Injection,normal_202,0,0,0.03404968976974487,True
+Stealth Injection,normal_203,0,0,0.00919252634048462,True
+Stealth Injection,normal_204,0,0,0.02132350206375122,True
+Stealth Injection,normal_205,0,0,0.04504328966140747,True
+Stealth Injection,normal_206,0,0,0.06677776575088501,True
+Stealth Injection,normal_207,0,0,0.0024937987327575684,True
+Stealth Injection,normal_208,0,0,0.06677776575088501,True
+Stealth Injection,normal_209,0,0,0.17816585302352905,True
+Stealth Injection,normal_210,0,1,0.5810278654098511,False
+Stealth Injection,normal_211,0,1,0.584587812423706,False
+Stealth Injection,normal_212,0,0,0.1773814558982849,True
+Stealth Injection,normal_213,0,0,0.01544886827468872,True
+Stealth Injection,normal_214,0,0,0.27766716480255127,True
+Stealth Injection,normal_215,0,0,0.02060025930404663,True
+Stealth Injection,normal_216,0,0,0.24155402183532715,True
+Stealth Injection,normal_217,0,0,0.026251256465911865,True
+Stealth Injection,normal_218,0,0,0.012360155582427979,True
+Stealth Injection,normal_219,0,0,0.027221083641052246,True
+Stealth Injection,normal_220,0,0,0.14850223064422607,True
+Stealth Injection,normal_221,0,0,0.0023337602615356445,True
+Stealth Injection,normal_222,0,0,0.05742347240447998,True
+Stealth Injection,normal_223,0,1,0.7122552394866943,False
+Stealth Injection,normal_224,0,0,0.019746899604797363,True
+Stealth Injection,normal_225,0,0,0.4722437262535095,True
+Stealth Injection,normal_226,0,0,0.023571133613586426,True
+Stealth Injection,normal_227,0,0,0.11376768350601196,True
+Stealth Injection,normal_228,0,0,0.0029199719429016113,True
+Stealth Injection,normal_229,0,0,0.011473536491394043,True
+Stealth Injection,normal_230,0,0,0.025567471981048584,True
+Stealth Injection,normal_231,0,0,0.017290592193603516,True
+Stealth Injection,normal_232,0,0,0.23656266927719116,True
+Stealth Injection,normal_233,0,0,0.0184248685836792,True
+Stealth Injection,normal_234,0,0,0.11784189939498901,True
+Stealth Injection,normal_235,0,0,0.11329329013824463,True
+Stealth Injection,normal_236,0,0,0.0044037699699401855,True
+Stealth Injection,normal_237,0,0,0.04104042053222656,True
+Stealth Injection,normal_238,0,0,0.07293885946273804,True
+Stealth Injection,normal_239,0,1,0.5157968401908875,False
+Stealth Injection,normal_240,0,0,0.03776675462722778,True
+Stealth Injection,normal_241,0,0,0.10356515645980835,True
+Stealth Injection,normal_242,0,0,0.10806810855865479,True
+Stealth Injection,normal_243,0,0,0.017394542694091797,True
+Stealth Injection,normal_244,0,0,0.02956390380859375,True
+Stealth Injection,normal_245,0,0,0.033660888671875,True
+Stealth Injection,normal_246,0,0,0.010868668556213379,True
+Stealth Injection,normal_247,0,0,0.00603562593460083,True
+Stealth Injection,normal_248,0,0,0.0032192468643188477,True
+Stealth Injection,normal_249,0,0,0.011519432067871094,True
+Stealth Injection,normal_250,0,0,0.15463358163833618,True
+Stealth Injection,normal_251,0,0,0.004920363426208496,True
+Stealth Injection,normal_252,0,0,0.06655013561248779,True
+Stealth Injection,normal_253,0,0,0.02290874719619751,True
+Stealth Injection,normal_254,0,0,0.002569854259490967,True
+Stealth Injection,normal_255,0,0,0.48929208517074585,True
+Stealth Injection,normal_256,0,0,0.011890828609466553,True
+Stealth Injection,normal_257,0,0,0.004575669765472412,True
+Stealth Injection,normal_258,0,1,0.7306451201438904,False
+Stealth Injection,normal_259,0,0,0.044738054275512695,True
+Stealth Injection,normal_260,0,0,0.04246401786804199,True
+Stealth Injection,normal_261,0,0,0.0013371706008911133,True
+Stealth Injection,normal_262,0,0,0.006635308265686035,True
+Stealth Injection,normal_263,0,0,0.0015177130699157715,True
+Stealth Injection,normal_264,0,0,0.033416032791137695,True
+Stealth Injection,normal_265,0,0,0.24466073513031006,True
+Stealth Injection,normal_266,0,0,0.0382838249206543,True
+Stealth Injection,normal_267,0,0,0.02732408046722412,True
+Stealth Injection,normal_268,0,0,0.017051279544830322,True
+Stealth Injection,normal_269,0,0,0.034519851207733154,True
+Stealth Injection,normal_270,0,0,0.33040153980255127,True
+Stealth Injection,normal_271,0,0,0.033252179622650146,True
+Stealth Injection,normal_272,0,0,0.0002989768981933594,True
+Stealth Injection,normal_273,0,0,0.010235428810119629,True
+Stealth Injection,normal_274,0,0,0.0007379651069641113,True
+Stealth Injection,normal_275,0,0,0.036709606647491455,True
+Stealth Injection,normal_276,0,0,0.023595571517944336,True
+Stealth Injection,normal_277,0,0,0.016403913497924805,True
+Stealth Injection,normal_278,0,0,0.016217410564422607,True
+Stealth Injection,normal_279,0,0,0.033660888671875,True
+Stealth Injection,normal_280,0,0,0.010868668556213379,True
+Stealth Injection,normal_281,0,0,0.235711932182312,True
+Stealth Injection,normal_282,0,0,0.01695352792739868,True
+Stealth Injection,normal_283,0,0,0.23452413082122803,True
+Stealth Injection,normal_284,0,0,0.006487667560577393,True
+Stealth Injection,normal_285,0,0,0.0012538433074951172,True
+Stealth Injection,normal_286,0,0,0.22667324542999268,True
+Stealth Injection,normal_287,0,0,0.009419500827789307,True
+Stealth Injection,normal_288,0,0,0.00536113977432251,True
+Stealth Injection,normal_289,0,0,0.006663680076599121,True
+Stealth Injection,normal_290,0,0,0.005597174167633057,True
+Stealth Injection,normal_291,0,1,0.6031777858734131,False
+Stealth Injection,normal_292,0,0,0.00603562593460083,True
+Stealth Injection,normal_293,0,0,0.08330929279327393,True
+Stealth Injection,normal_294,0,0,0.006930947303771973,True
+Stealth Injection,normal_295,0,0,0.23810064792633057,True
+Stealth Injection,normal_296,0,0,0.0,True
+Stealth Injection,normal_297,0,0,0.008526802062988281,True
+Stealth Injection,normal_298,0,0,0.006274402141571045,True
+Stealth Injection,normal_299,0,0,0.0702933669090271,True
+Stealth Injection,normal_300,0,0,0.045301079750061035,True
+Stealth Injection,pituitary_001,1,1,0.9941293597221375,True
+Stealth Injection,pituitary_002,1,1,0.9584590196609497,True
+Stealth Injection,pituitary_003,1,1,0.9067627787590027,True
+Stealth Injection,pituitary_004,1,1,0.9075873494148254,True
+Stealth Injection,pituitary_005,1,1,0.8696092367172241,True
+Stealth Injection,pituitary_006,1,1,0.9874653816223145,True
+Stealth Injection,pituitary_007,1,1,0.9966872930526733,True
+Stealth Injection,pituitary_008,1,1,0.9806032180786133,True
+Stealth Injection,pituitary_009,1,1,0.8956133127212524,True
+Stealth Injection,pituitary_010,1,1,0.9577739238739014,True
+Stealth Injection,pituitary_011,1,1,0.9579885005950928,True
+Stealth Injection,pituitary_012,1,1,0.9955387711524963,True
+Stealth Injection,pituitary_013,1,1,0.989762544631958,True
+Stealth Injection,pituitary_014,1,1,0.6183960437774658,True
+Stealth Injection,pituitary_015,1,1,0.9915012717247009,True
+Stealth Injection,pituitary_016,1,1,0.9862877130508423,True
+Stealth Injection,pituitary_017,1,1,0.9895419478416443,True
+Stealth Injection,pituitary_018,1,1,0.9944941997528076,True
+Stealth Injection,pituitary_019,1,1,0.915135383605957,True
+Stealth Injection,pituitary_020,1,1,0.9320399761199951,True
+Stealth Injection,pituitary_021,1,1,0.9813829660415649,True
+Stealth Injection,pituitary_022,1,1,0.9792006611824036,True
+Stealth Injection,pituitary_023,1,1,0.976055920124054,True
+Stealth Injection,pituitary_024,1,1,0.9916831254959106,True
+Stealth Injection,pituitary_025,1,1,0.9302046298980713,True
+Stealth Injection,pituitary_026,1,1,0.8523105382919312,True
+Stealth Injection,pituitary_027,1,1,0.9918721914291382,True
+Stealth Injection,pituitary_028,1,1,0.9633498787879944,True
+Stealth Injection,pituitary_029,1,1,0.9669872522354126,True
+Stealth Injection,pituitary_030,1,1,0.9974857568740845,True
+Stealth Injection,pituitary_031,1,1,0.9796354174613953,True
+Stealth Injection,pituitary_032,1,1,0.7881197333335876,True
+Stealth Injection,pituitary_033,1,1,0.9822550415992737,True
+Stealth Injection,pituitary_034,1,1,0.9696599245071411,True
+Stealth Injection,pituitary_035,1,1,0.9610097408294678,True
+Stealth Injection,pituitary_036,1,1,0.9589976668357849,True
+Stealth Injection,pituitary_037,1,1,0.9986384510993958,True
+Stealth Injection,pituitary_038,1,1,0.9902796149253845,True
+Stealth Injection,pituitary_039,1,1,0.9930998682975769,True
+Stealth Injection,pituitary_040,1,1,0.9971156716346741,True
+Stealth Injection,pituitary_041,1,1,0.978710949420929,True
+Stealth Injection,pituitary_042,1,1,0.9909810423851013,True
+Stealth Injection,pituitary_043,1,1,0.9218838214874268,True
+Stealth Injection,pituitary_044,1,1,0.7525109648704529,True
+Stealth Injection,pituitary_045,1,1,0.944939911365509,True
+Stealth Injection,pituitary_046,1,1,0.9448314905166626,True
+Stealth Injection,pituitary_047,1,1,0.9841161370277405,True
+Stealth Injection,pituitary_048,1,1,0.9007672071456909,True
+Stealth Injection,pituitary_049,1,1,0.9937317967414856,True
+Stealth Injection,pituitary_050,1,1,0.9976317286491394,True
+Stealth Injection,pituitary_051,1,1,0.9511182904243469,True
+Stealth Injection,pituitary_052,1,1,0.9811298251152039,True
+Stealth Injection,pituitary_053,1,1,0.97609943151474,True
+Stealth Injection,pituitary_054,1,1,0.9812695980072021,True
+Stealth Injection,pituitary_055,1,1,0.9973574876785278,True
+Stealth Injection,pituitary_056,1,1,0.8687434196472168,True
+Stealth Injection,pituitary_057,1,1,0.6676164269447327,True
+Stealth Injection,pituitary_058,1,1,0.9639093279838562,True
+Stealth Injection,pituitary_059,1,1,0.8969023823738098,True
+Stealth Injection,pituitary_060,1,1,0.9356868267059326,True
+Stealth Injection,pituitary_061,1,1,0.9909533262252808,True
+Stealth Injection,pituitary_062,1,1,0.98609459400177,True
+Stealth Injection,pituitary_063,1,1,0.9907102584838867,True
+Stealth Injection,pituitary_064,1,1,0.6502211093902588,True
+Stealth Injection,pituitary_065,1,1,0.9996635913848877,True
+Stealth Injection,pituitary_066,1,1,0.8821511268615723,True
+Stealth Injection,pituitary_067,1,1,0.7506386041641235,True
+Stealth Injection,pituitary_068,1,1,0.9664817452430725,True
+Stealth Injection,pituitary_069,1,1,0.9379215836524963,True
+Stealth Injection,pituitary_070,1,1,0.9977880120277405,True
+Stealth Injection,pituitary_071,1,1,0.9975875020027161,True
+Stealth Injection,pituitary_072,1,1,0.9985427856445312,True
+Stealth Injection,pituitary_073,1,1,0.9977396130561829,True
+Stealth Injection,pituitary_074,1,1,0.9733426570892334,True
+Stealth Injection,pituitary_075,1,1,0.9849057197570801,True
+Stealth Injection,pituitary_076,1,1,0.9693005681037903,True
+Stealth Injection,pituitary_077,1,1,0.9537968039512634,True
+Stealth Injection,pituitary_078,1,1,0.990110456943512,True
+Stealth Injection,pituitary_079,1,1,0.8905882835388184,True
+Stealth Injection,pituitary_080,1,1,0.957116961479187,True
+Stealth Injection,pituitary_081,1,1,0.9840522408485413,True
+Stealth Injection,pituitary_082,1,1,0.9746140241622925,True
+Stealth Injection,pituitary_083,1,1,0.984166145324707,True
+Stealth Injection,pituitary_084,1,1,0.9725844860076904,True
+Stealth Injection,pituitary_085,1,1,0.9954988956451416,True
+Stealth Injection,pituitary_086,1,1,0.983625590801239,True
+Stealth Injection,pituitary_087,1,1,0.891984760761261,True
+Stealth Injection,pituitary_088,1,1,0.9561534523963928,True
+Stealth Injection,pituitary_089,1,1,0.9317117929458618,True
+Stealth Injection,pituitary_090,1,1,0.8405327796936035,True
+Stealth Injection,pituitary_091,1,1,0.993668258190155,True
+Stealth Injection,pituitary_092,1,1,0.8986515998840332,True
+Stealth Injection,pituitary_093,1,1,0.9068033695220947,True
+Stealth Injection,pituitary_094,1,1,0.9816210269927979,True
+Stealth Injection,pituitary_095,1,1,0.9870705604553223,True
+Stealth Injection,pituitary_096,1,1,0.9969691634178162,True
+Stealth Injection,pituitary_097,1,1,0.9929137229919434,True
+Stealth Injection,pituitary_098,1,1,0.9841883182525635,True
+Stealth Injection,pituitary_099,1,1,0.999512255191803,True
+Stealth Injection,pituitary_100,1,1,0.987870454788208,True
+Injection Immune,glioma_001,1,1,0.6446927785873413,True
+Injection Immune,glioma_002,1,1,0.8843024373054504,True
+Injection Immune,glioma_003,1,1,0.9636630415916443,True
+Injection Immune,glioma_004,1,0,0.2502192258834839,False
+Injection Immune,glioma_005,1,1,0.8888002634048462,True
+Injection Immune,glioma_006,1,1,0.9433786273002625,True
+Injection Immune,glioma_007,1,0,0.14993131160736084,False
+Injection Immune,glioma_008,1,1,0.5504791736602783,True
+Injection Immune,glioma_009,1,1,0.9847401976585388,True
+Injection Immune,glioma_010,1,1,0.90700763463974,True
+Injection Immune,glioma_011,1,1,0.9863337278366089,True
+Injection Immune,glioma_012,1,1,0.8594673871994019,True
+Injection Immune,glioma_013,1,1,0.864634096622467,True
+Injection Immune,glioma_014,1,1,0.9876751899719238,True
+Injection Immune,glioma_015,1,1,0.9411698579788208,True
+Injection Immune,glioma_016,1,1,0.9768077731132507,True
+Injection Immune,glioma_017,1,1,0.5918148756027222,True
+Injection Immune,glioma_018,1,1,0.8196590542793274,True
+Injection Immune,glioma_019,1,0,0.456004798412323,False
+Injection Immune,glioma_020,1,1,0.7911573648452759,True
+Injection Immune,glioma_021,1,1,0.8896099328994751,True
+Injection Immune,glioma_022,1,1,0.959650456905365,True
+Injection Immune,glioma_023,1,1,0.544439435005188,True
+Injection Immune,glioma_024,1,1,0.9667693376541138,True
+Injection Immune,glioma_025,1,1,0.9283681511878967,True
+Injection Immune,glioma_026,1,1,0.8822609782218933,True
+Injection Immune,glioma_027,1,1,0.798552393913269,True
+Injection Immune,glioma_028,1,1,0.9333396553993225,True
+Injection Immune,glioma_029,1,1,0.9876807928085327,True
+Injection Immune,glioma_030,1,1,0.93221116065979,True
+Injection Immune,glioma_031,1,1,0.9578132629394531,True
+Injection Immune,glioma_032,1,1,0.9796060919761658,True
+Injection Immune,glioma_033,1,1,0.9028431177139282,True
+Injection Immune,glioma_034,1,0,0.4287201166152954,False
+Injection Immune,glioma_035,1,1,0.9671556353569031,True
+Injection Immune,glioma_036,1,1,0.9820518493652344,True
+Injection Immune,glioma_037,1,1,0.9830384254455566,True
+Injection Immune,glioma_038,1,1,0.51799476146698,True
+Injection Immune,glioma_039,1,1,0.8446838855743408,True
+Injection Immune,glioma_040,1,1,0.8068203330039978,True
+Injection Immune,glioma_041,1,1,0.8759284019470215,True
+Injection Immune,glioma_042,1,1,0.865721583366394,True
+Injection Immune,glioma_043,1,1,0.8488368988037109,True
+Injection Immune,glioma_044,1,1,0.9348090887069702,True
+Injection Immune,glioma_045,1,1,0.8322322368621826,True
+Injection Immune,glioma_046,1,1,0.9755270481109619,True
+Injection Immune,glioma_047,1,1,0.5990018844604492,True
+Injection Immune,glioma_048,1,1,0.9855437278747559,True
+Injection Immune,glioma_049,1,0,0.2969074845314026,False
+Injection Immune,glioma_050,1,1,0.9452348351478577,True
+Injection Immune,glioma_051,1,1,0.9731941819190979,True
+Injection Immune,glioma_052,1,1,0.9575935006141663,True
+Injection Immune,glioma_053,1,1,0.9861465096473694,True
+Injection Immune,glioma_054,1,1,0.7990705370903015,True
+Injection Immune,glioma_055,1,1,0.9252538084983826,True
+Injection Immune,glioma_056,1,1,0.9559441208839417,True
+Injection Immune,glioma_057,1,1,0.9116500616073608,True
+Injection Immune,glioma_058,1,1,0.979886531829834,True
+Injection Immune,glioma_059,1,1,0.9544830918312073,True
+Injection Immune,glioma_060,1,1,0.982925295829773,True
+Injection Immune,glioma_061,1,1,0.9418932199478149,True
+Injection Immune,glioma_062,1,1,0.974807858467102,True
+Injection Immune,glioma_063,1,1,0.5088997483253479,True
+Injection Immune,glioma_064,1,1,0.7783073782920837,True
+Injection Immune,glioma_065,1,1,0.9746008515357971,True
+Injection Immune,glioma_066,1,1,0.9443848729133606,True
+Injection Immune,glioma_067,1,1,0.9291287660598755,True
+Injection Immune,glioma_068,1,1,0.8770956993103027,True
+Injection Immune,glioma_069,1,1,0.853380560874939,True
+Injection Immune,glioma_070,1,1,0.868049144744873,True
+Injection Immune,glioma_071,1,1,0.8281086087226868,True
+Injection Immune,glioma_072,1,1,0.9649778008460999,True
+Injection Immune,glioma_073,1,1,0.9894000887870789,True
+Injection Immune,glioma_074,1,1,0.9707974195480347,True
+Injection Immune,glioma_075,1,1,0.985653817653656,True
+Injection Immune,glioma_076,1,1,0.8815656900405884,True
+Injection Immune,glioma_077,1,1,0.9503328204154968,True
+Injection Immune,glioma_078,1,1,0.9702109098434448,True
+Injection Immune,glioma_079,1,1,0.9796673059463501,True
+Injection Immune,glioma_080,1,1,0.9293203353881836,True
+Injection Immune,glioma_081,1,1,0.859402060508728,True
+Injection Immune,glioma_082,1,1,0.9845971465110779,True
+Injection Immune,glioma_083,1,1,0.9679109454154968,True
+Injection Immune,glioma_084,1,1,0.9498308897018433,True
+Injection Immune,glioma_085,1,1,0.9734782576560974,True
+Injection Immune,glioma_086,1,1,0.6361197233200073,True
+Injection Immune,glioma_087,1,1,0.824230968952179,True
+Injection Immune,glioma_088,1,1,0.708027720451355,True
+Injection Immune,glioma_089,1,1,0.9624549150466919,True
+Injection Immune,glioma_090,1,1,0.8869649767875671,True
+Injection Immune,glioma_091,1,0,0.3260866403579712,False
+Injection Immune,glioma_092,1,1,0.9281956553459167,True
+Injection Immune,glioma_093,1,1,0.8661496043205261,True
+Injection Immune,glioma_094,1,1,0.974572479724884,True
+Injection Immune,glioma_095,1,1,0.9340121150016785,True
+Injection Immune,glioma_096,1,1,0.8696143627166748,True
+Injection Immune,glioma_097,1,1,0.988894522190094,True
+Injection Immune,glioma_098,1,1,0.7177857160568237,True
+Injection Immune,glioma_099,1,1,0.9543769955635071,True
+Injection Immune,glioma_100,1,1,0.9118888974189758,True
+Injection Immune,meningioma_001,1,1,0.8076906204223633,True
+Injection Immune,meningioma_002,1,1,0.6172183752059937,True
+Injection Immune,meningioma_003,1,1,0.504896879196167,True
+Injection Immune,meningioma_004,1,0,0.13294482231140137,False
+Injection Immune,meningioma_005,1,1,0.6980405449867249,True
+Injection Immune,meningioma_006,1,0,0.47851353883743286,False
+Injection Immune,meningioma_007,1,1,0.9925907850265503,True
+Injection Immune,meningioma_008,1,1,0.6821297407150269,True
+Injection Immune,meningioma_009,1,1,0.9202919006347656,True
+Injection Immune,meningioma_010,1,1,0.9615871906280518,True
+Injection Immune,meningioma_011,1,0,0.47135764360427856,False
+Injection Immune,meningioma_012,1,1,0.7302725315093994,True
+Injection Immune,meningioma_013,1,1,0.8624656200408936,True
+Injection Immune,meningioma_014,1,1,0.9363400936126709,True
+Injection Immune,meningioma_015,1,1,0.8098710775375366,True
+Injection Immune,meningioma_016,1,0,0.4992198944091797,False
+Injection Immune,meningioma_017,1,0,0.37893712520599365,False
+Injection Immune,meningioma_018,1,1,0.7674685120582581,True
+Injection Immune,meningioma_019,1,0,0.21158367395401,False
+Injection Immune,meningioma_020,1,0,0.16994690895080566,False
+Injection Immune,meningioma_021,1,1,0.9692800045013428,True
+Injection Immune,meningioma_022,1,1,0.8507274985313416,True
+Injection Immune,meningioma_023,1,1,0.5893979072570801,True
+Injection Immune,meningioma_024,1,0,0.3226279616355896,False
+Injection Immune,meningioma_025,1,0,0.41759949922561646,False
+Injection Immune,meningioma_026,1,0,0.449687659740448,False
+Injection Immune,meningioma_027,1,0,0.46580439805984497,False
+Injection Immune,meningioma_028,1,0,0.023922204971313477,False
+Injection Immune,meningioma_029,1,1,0.8286649584770203,True
+Injection Immune,meningioma_030,1,1,0.9044119119644165,True
+Injection Immune,meningioma_031,1,1,0.7790886759757996,True
+Injection Immune,meningioma_032,1,1,0.7522205710411072,True
+Injection Immune,meningioma_033,1,1,0.6814243197441101,True
+Injection Immune,meningioma_034,1,1,0.5404109954833984,True
+Injection Immune,meningioma_035,1,1,0.9822714924812317,True
+Injection Immune,meningioma_036,1,1,0.793298602104187,True
+Injection Immune,meningioma_037,1,1,0.7062525749206543,True
+Injection Immune,meningioma_038,1,1,0.6783541440963745,True
+Injection Immune,meningioma_039,1,1,0.5305866599082947,True
+Injection Immune,meningioma_040,1,1,0.952711284160614,True
+Injection Immune,meningioma_041,1,1,0.7284377217292786,True
+Injection Immune,meningioma_042,1,1,0.8446910977363586,True
+Injection Immune,meningioma_043,1,1,0.8417096138000488,True
+Injection Immune,meningioma_044,1,1,0.8882322311401367,True
+Injection Immune,meningioma_045,1,0,0.16914600133895874,False
+Injection Immune,meningioma_046,1,1,0.894770085811615,True
+Injection Immune,meningioma_047,1,1,0.5637720823287964,True
+Injection Immune,meningioma_048,1,0,0.4485653042793274,False
+Injection Immune,meningioma_049,1,1,0.7809523940086365,True
+Injection Immune,meningioma_050,1,1,0.7839466333389282,True
+Injection Immune,meningioma_051,1,1,0.9202893972396851,True
+Injection Immune,meningioma_052,1,1,0.9745030403137207,True
+Injection Immune,meningioma_053,1,1,0.8776310086250305,True
+Injection Immune,meningioma_054,1,1,0.9400345683097839,True
+Injection Immune,meningioma_055,1,1,0.8489104509353638,True
+Injection Immune,meningioma_056,1,0,0.4119158387184143,False
+Injection Immune,meningioma_057,1,1,0.8475828170776367,True
+Injection Immune,meningioma_058,1,0,0.4519936442375183,False
+Injection Immune,meningioma_059,1,0,0.37335848808288574,False
+Injection Immune,meningioma_060,1,1,0.7189530730247498,True
+Injection Immune,meningioma_061,1,0,0.4786674976348877,False
+Injection Immune,meningioma_062,1,1,0.9010670185089111,True
+Injection Immune,meningioma_063,1,0,0.4315696358680725,False
+Injection Immune,meningioma_064,1,1,0.914425790309906,True
+Injection Immune,meningioma_065,1,1,0.663400411605835,True
+Injection Immune,meningioma_066,1,1,0.792244017124176,True
+Injection Immune,meningioma_067,1,0,0.14810717105865479,False
+Injection Immune,meningioma_068,1,1,0.7016051411628723,True
+Injection Immune,meningioma_069,1,0,0.2957131862640381,False
+Injection Immune,meningioma_070,1,0,0.19888722896575928,False
+Injection Immune,meningioma_071,1,1,0.7519931793212891,True
+Injection Immune,meningioma_072,1,1,0.5901854038238525,True
+Injection Immune,meningioma_073,1,1,0.7018872499465942,True
+Injection Immune,meningioma_074,1,1,0.7636405229568481,True
+Injection Immune,meningioma_075,1,0,0.47824281454086304,False
+Injection Immune,meningioma_076,1,1,0.8007569909095764,True
+Injection Immune,meningioma_077,1,1,0.6838061809539795,True
+Injection Immune,meningioma_078,1,0,0.43326693773269653,False
+Injection Immune,meningioma_079,1,1,0.7660918235778809,True
+Injection Immune,meningioma_080,1,0,0.3434802293777466,False
+Injection Immune,meningioma_081,1,1,0.8341894149780273,True
+Injection Immune,meningioma_082,1,1,0.7858967781066895,True
+Injection Immune,meningioma_083,1,0,0.06556695699691772,False
+Injection Immune,meningioma_084,1,1,0.6316601037979126,True
+Injection Immune,meningioma_085,1,0,0.3748927712440491,False
+Injection Immune,meningioma_086,1,1,0.9043736457824707,True
+Injection Immune,meningioma_087,1,1,0.8739302754402161,True
+Injection Immune,meningioma_088,1,1,0.7495474815368652,True
+Injection Immune,meningioma_089,1,1,0.6969782114028931,True
+Injection Immune,meningioma_090,1,0,0.2923177480697632,False
+Injection Immune,meningioma_091,1,0,0.3037344217300415,False
+Injection Immune,meningioma_092,1,0,0.2971418499946594,False
+Injection Immune,meningioma_093,1,0,0.45696431398391724,False
+Injection Immune,meningioma_094,1,0,0.29883015155792236,False
+Injection Immune,meningioma_095,1,0,0.20208418369293213,False
+Injection Immune,meningioma_096,1,1,0.8177881240844727,True
+Injection Immune,meningioma_097,1,1,0.8229001760482788,True
+Injection Immune,meningioma_098,1,1,0.8021206259727478,True
+Injection Immune,meningioma_099,1,1,0.7718521952629089,True
+Injection Immune,meningioma_100,1,1,0.9773989915847778,True
+Injection Immune,normal_001,0,0,0.18848127126693726,True
+Injection Immune,normal_002,0,0,0.009156584739685059,True
+Injection Immune,normal_003,0,0,0.04369008541107178,True
+Injection Immune,normal_004,0,0,0.009707987308502197,True
+Injection Immune,normal_005,0,0,0.13286155462265015,True
+Injection Immune,normal_006,0,0,0.00598675012588501,True
+Injection Immune,normal_007,0,0,0.10396665334701538,True
+Injection Immune,normal_008,0,0,0.005224108695983887,True
+Injection Immune,normal_009,0,0,0.46793878078460693,True
+Injection Immune,normal_010,0,0,0.01867997646331787,True
+Injection Immune,normal_011,0,0,0.21581631898880005,True
+Injection Immune,normal_012,0,0,0.0579647421836853,True
+Injection Immune,normal_013,0,0,0.0,True
+Injection Immune,normal_014,0,0,0.07051867246627808,True
+Injection Immune,normal_015,0,1,0.7037477493286133,False
+Injection Immune,normal_016,0,0,0.05469202995300293,True
+Injection Immune,normal_017,0,0,0.07332026958465576,True
+Injection Immune,normal_018,0,0,0.045547544956207275,True
+Injection Immune,normal_019,0,0,0.05603522062301636,True
+Injection Immune,normal_020,0,0,0.00042933225631713867,True
+Injection Immune,normal_021,0,0,0.278889000415802,True
+Injection Immune,normal_022,0,0,0.026221871376037598,True
+Injection Immune,normal_023,0,0,0.0023120641708374023,True
+Injection Immune,normal_024,0,0,0.12667542695999146,True
+Injection Immune,normal_025,0,1,0.692949652671814,False
+Injection Immune,normal_026,0,1,0.6592410802841187,False
+Injection Immune,normal_027,0,0,0.11213093996047974,True
+Injection Immune,normal_028,0,0,0.016583800315856934,True
+Injection Immune,normal_029,0,1,0.6703318357467651,False
+Injection Immune,normal_030,0,0,0.13292330503463745,True
+Injection Immune,normal_031,0,1,0.522338330745697,False
+Injection Immune,normal_032,0,0,0.11777889728546143,True
+Injection Immune,normal_033,0,0,0.017790794372558594,True
+Injection Immune,normal_034,0,0,0.08994889259338379,True
+Injection Immune,normal_035,0,0,0.30968594551086426,True
+Injection Immune,normal_036,0,0,0.2571389675140381,True
+Injection Immune,normal_037,0,1,0.9877300262451172,False
+Injection Immune,normal_038,0,0,0.23471522331237793,True
+Injection Immune,normal_039,0,0,0.10491621494293213,True
+Injection Immune,normal_040,0,0,0.032055020332336426,True
+Injection Immune,normal_041,0,0,0.11615455150604248,True
+Injection Immune,normal_042,0,0,0.009151220321655273,True
+Injection Immune,normal_043,0,0,0.006637454032897949,True
+Injection Immune,normal_044,0,0,0.018136024475097656,True
+Injection Immune,normal_045,0,1,0.8857961893081665,False
+Injection Immune,normal_046,0,0,0.010249316692352295,True
+Injection Immune,normal_047,0,0,0.05459189414978027,True
+Injection Immune,normal_048,0,0,0.010345220565795898,True
+Injection Immune,normal_049,0,0,0.07005220651626587,True
+Injection Immune,normal_050,0,0,0.08129000663757324,True
+Injection Immune,normal_051,0,0,0.12997537851333618,True
+Injection Immune,normal_052,0,0,0.006318926811218262,True
+Injection Immune,normal_053,0,1,0.5563225746154785,False
+Injection Immune,normal_054,0,0,0.40429890155792236,True
+Injection Immune,normal_055,0,0,0.010875821113586426,True
+Injection Immune,normal_056,0,0,0.1175539493560791,True
+Injection Immune,normal_057,0,0,0.01277381181716919,True
+Injection Immune,normal_058,0,0,0.0085679292678833,True
+Injection Immune,normal_059,0,0,0.024685680866241455,True
+Injection Immune,normal_060,0,0,0.006246984004974365,True
+Injection Immune,normal_061,0,0,0.03544729948043823,True
+Injection Immune,normal_062,0,1,0.642478346824646,False
+Injection Immune,normal_063,0,0,0.22284400463104248,True
+Injection Immune,normal_064,0,0,0.09574931859970093,True
+Injection Immune,normal_065,0,0,0.02276510000228882,True
+Injection Immune,normal_066,0,0,0.0025517940521240234,True
+Injection Immune,normal_067,0,0,0.01671314239501953,True
+Injection Immune,normal_068,0,0,0.48369622230529785,True
+Injection Immune,normal_069,0,0,0.4737744927406311,True
+Injection Immune,normal_070,0,0,0.02763909101486206,True
+Injection Immune,normal_071,0,0,0.15365004539489746,True
+Injection Immune,normal_072,0,0,0.041278958320617676,True
+Injection Immune,normal_073,0,1,0.7197723388671875,False
+Injection Immune,normal_074,0,0,0.05987274646759033,True
+Injection Immune,normal_075,0,0,0.036203861236572266,True
+Injection Immune,normal_076,0,0,0.014205217361450195,True
+Injection Immune,normal_077,0,0,0.01029735803604126,True
+Injection Immune,normal_078,0,0,0.04388934373855591,True
+Injection Immune,normal_079,0,0,0.011188149452209473,True
+Injection Immune,normal_080,0,0,0.15273797512054443,True
+Injection Immune,normal_081,0,1,0.7485154867172241,False
+Injection Immune,normal_082,0,0,0.0695076584815979,True
+Injection Immune,normal_083,0,0,0.04072827100753784,True
+Injection Immune,normal_084,0,0,0.10808545351028442,True
+Injection Immune,normal_085,0,0,0.19122570753097534,True
+Injection Immune,normal_086,0,0,0.041145145893096924,True
+Injection Immune,normal_087,0,0,0.10485184192657471,True
+Injection Immune,normal_088,0,0,0.09159940481185913,True
+Injection Immune,normal_089,0,0,0.07201904058456421,True
+Injection Immune,normal_090,0,0,0.013019740581512451,True
+Injection Immune,normal_091,0,0,0.02424699068069458,True
+Injection Immune,normal_092,0,0,0.04092872142791748,True
+Injection Immune,normal_093,0,0,0.015019536018371582,True
+Injection Immune,normal_094,0,0,0.02631080150604248,True
+Injection Immune,normal_095,0,0,0.20520108938217163,True
+Injection Immune,normal_096,0,0,0.19729375839233398,True
+Injection Immune,normal_097,0,0,0.02126598358154297,True
+Injection Immune,normal_098,0,0,0.03005319833755493,True
+Injection Immune,normal_099,0,1,0.6891069412231445,False
+Injection Immune,normal_100,0,1,0.5640320181846619,False
+Injection Immune,normal_101,0,0,0.08915573358535767,True
+Injection Immune,normal_102,0,0,0.17988616228103638,True
+Injection Immune,normal_103,0,0,0.04539167881011963,True
+Injection Immune,normal_104,0,0,0.02486521005630493,True
+Injection Immune,normal_105,0,0,0.0795665979385376,True
+Injection Immune,normal_106,0,0,0.10943752527236938,True
+Injection Immune,normal_107,0,0,0.2869569659233093,True
+Injection Immune,normal_108,0,0,0.08585643768310547,True
+Injection Immune,normal_109,0,0,0.0061299800872802734,True
+Injection Immune,normal_110,0,0,0.3396233320236206,True
+Injection Immune,normal_111,0,0,0.0066558122634887695,True
+Injection Immune,normal_112,0,0,0.05542564392089844,True
+Injection Immune,normal_113,0,0,0.010875821113586426,True
+Injection Immune,normal_114,0,0,0.10232585668563843,True
+Injection Immune,normal_115,0,0,0.0508691668510437,True
+Injection Immune,normal_116,0,0,0.1586672067642212,True
+Injection Immune,normal_117,0,1,0.5436232686042786,False
+Injection Immune,normal_118,0,0,0.06411194801330566,True
+Injection Immune,normal_119,0,1,0.5992629528045654,False
+Injection Immune,normal_120,0,0,0.0508691668510437,True
+Injection Immune,normal_121,0,1,0.6440645456314087,False
+Injection Immune,normal_122,0,1,0.5707477331161499,False
+Injection Immune,normal_123,0,1,0.6807032227516174,False
+Injection Immune,normal_124,0,0,0.04221487045288086,True
+Injection Immune,normal_125,0,0,0.02272772789001465,True
+Injection Immune,normal_126,0,0,0.4882778525352478,True
+Injection Immune,normal_127,0,1,0.7720460891723633,False
+Injection Immune,normal_128,0,0,0.0598597526550293,True
+Injection Immune,normal_129,0,0,0.008475661277770996,True
+Injection Immune,normal_130,0,0,0.032232463359832764,True
+Injection Immune,normal_131,0,0,0.005858957767486572,True
+Injection Immune,normal_132,0,0,0.1331244707107544,True
+Injection Immune,normal_133,0,0,0.17881375551223755,True
+Injection Immune,normal_134,0,0,0.013843059539794922,True
+Injection Immune,normal_135,0,0,0.21849125623703003,True
+Injection Immune,normal_136,0,0,0.015583813190460205,True
+Injection Immune,normal_137,0,0,0.020666182041168213,True
+Injection Immune,normal_138,0,0,0.09472310543060303,True
+Injection Immune,normal_139,0,0,0.01648789644241333,True
+Injection Immune,normal_140,0,0,0.04022526741027832,True
+Injection Immune,normal_141,0,0,0.04743385314941406,True
+Injection Immune,normal_142,0,0,0.039526522159576416,True
+Injection Immune,normal_143,0,0,0.019968509674072266,True
+Injection Immune,normal_144,0,0,0.2148362398147583,True
+Injection Immune,normal_145,0,0,0.1820020079612732,True
+Injection Immune,normal_146,0,0,0.31396639347076416,True
+Injection Immune,normal_147,0,0,0.0015308260917663574,True
+Injection Immune,normal_148,0,0,0.14267808198928833,True
+Injection Immune,normal_149,0,0,0.05339682102203369,True
+Injection Immune,normal_150,0,1,0.6582843661308289,False
+Injection Immune,normal_151,0,0,0.0024646520614624023,True
+Injection Immune,normal_152,0,0,0.24614834785461426,True
+Injection Immune,normal_153,0,0,0.03822857141494751,True
+Injection Immune,normal_154,0,0,0.11389923095703125,True
+Injection Immune,normal_155,0,0,0.23781555891036987,True
+Injection Immune,normal_156,0,0,0.24975329637527466,True
+Injection Immune,normal_157,0,0,0.0019870996475219727,True
+Injection Immune,normal_158,0,0,0.16498804092407227,True
+Injection Immune,normal_159,0,0,0.04230254888534546,True
+Injection Immune,normal_160,0,0,0.3030938506126404,True
+Injection Immune,normal_161,0,0,0.1820020079612732,True
+Injection Immune,normal_162,0,0,0.06669831275939941,True
+Injection Immune,normal_163,0,0,0.29416513442993164,True
+Injection Immune,normal_164,0,0,0.047793686389923096,True
+Injection Immune,normal_165,0,0,0.39910978078842163,True
+Injection Immune,normal_166,0,0,0.2416432499885559,True
+Injection Immune,normal_167,0,0,0.04062700271606445,True
+Injection Immune,normal_168,0,0,0.17649495601654053,True
+Injection Immune,normal_169,0,0,0.12862706184387207,True
+Injection Immune,normal_170,0,0,0.12997537851333618,True
+Injection Immune,normal_171,0,0,0.41608357429504395,True
+Injection Immune,normal_172,0,0,0.20204758644104004,True
+Injection Immune,normal_173,0,0,0.12113559246063232,True
+Injection Immune,normal_174,0,0,0.3939165472984314,True
+Injection Immune,normal_175,0,0,0.2772986888885498,True
+Injection Immune,normal_176,0,0,0.23734450340270996,True
+Injection Immune,normal_177,0,0,0.0448223352432251,True
+Injection Immune,normal_178,0,0,0.12209737300872803,True
+Injection Immune,normal_179,0,0,0.08584779500961304,True
+Injection Immune,normal_180,0,0,0.05859494209289551,True
+Injection Immune,normal_181,0,0,0.005889475345611572,True
+Injection Immune,normal_182,0,0,0.3175443410873413,True
+Injection Immune,normal_183,0,0,0.05002415180206299,True
+Injection Immune,normal_184,0,0,0.22722578048706055,True
+Injection Immune,normal_185,0,0,0.029958784580230713,True
+Injection Immune,normal_186,0,0,0.05966520309448242,True
+Injection Immune,normal_187,0,0,0.003669559955596924,True
+Injection Immune,normal_188,0,0,0.07596266269683838,True
+Injection Immune,normal_189,0,0,0.05222058296203613,True
+Injection Immune,normal_190,0,0,0.012209773063659668,True
+Injection Immune,normal_191,0,0,0.1028217077255249,True
+Injection Immune,normal_192,0,0,0.023813366889953613,True
+Injection Immune,normal_193,0,0,0.02305084466934204,True
+Injection Immune,normal_194,0,0,0.03765636682510376,True
+Injection Immune,normal_195,0,0,0.027468204498291016,True
+Injection Immune,normal_196,0,0,0.0226554274559021,True
+Injection Immune,normal_197,0,1,0.5128903985023499,False
+Injection Immune,normal_198,0,1,0.5904558300971985,False
+Injection Immune,normal_199,0,0,0.10562258958816528,True
+Injection Immune,normal_200,0,0,0.31614094972610474,True
+Injection Immune,normal_201,0,0,0.05518299341201782,True
+Injection Immune,normal_202,0,0,0.07738262414932251,True
+Injection Immune,normal_203,0,0,0.21104395389556885,True
+Injection Immune,normal_204,0,0,0.013283491134643555,True
+Injection Immune,normal_205,0,0,0.07193434238433838,True
+Injection Immune,normal_206,0,0,0.11522352695465088,True
+Injection Immune,normal_207,0,0,0.12300097942352295,True
+Injection Immune,normal_208,0,0,0.0612945556640625,True
+Injection Immune,normal_209,0,0,0.19124948978424072,True
+Injection Immune,normal_210,0,0,0.15838009119033813,True
+Injection Immune,normal_211,0,1,0.6928484439849854,False
+Injection Immune,normal_212,0,0,0.05997079610824585,True
+Injection Immune,normal_213,0,0,0.3378975987434387,True
+Injection Immune,normal_214,0,0,0.0648389458656311,True
+Injection Immune,normal_215,0,0,0.22877728939056396,True
+Injection Immune,normal_216,0,1,0.597585141658783,False
+Injection Immune,normal_217,0,0,0.34413236379623413,True
+Injection Immune,normal_218,0,0,0.04641437530517578,True
+Injection Immune,normal_219,0,0,0.062483370304107666,True
+Injection Immune,normal_220,0,0,0.048758506774902344,True
+Injection Immune,normal_221,0,0,0.0018513202667236328,True
+Injection Immune,normal_222,0,0,0.07293182611465454,True
+Injection Immune,normal_223,0,0,0.03051227331161499,True
+Injection Immune,normal_224,0,0,0.3536089062690735,True
+Injection Immune,normal_225,0,0,0.09028977155685425,True
+Injection Immune,normal_226,0,0,0.015114247798919678,True
+Injection Immune,normal_227,0,0,0.08591336011886597,True
+Injection Immune,normal_228,0,0,0.004964232444763184,True
+Injection Immune,normal_229,0,0,0.20002591609954834,True
+Injection Immune,normal_230,0,0,0.05433225631713867,True
+Injection Immune,normal_231,0,0,0.05020129680633545,True
+Injection Immune,normal_232,0,0,0.008734405040740967,True
+Injection Immune,normal_233,0,0,0.12729883193969727,True
+Injection Immune,normal_234,0,0,0.2986428141593933,True
+Injection Immune,normal_235,0,0,0.48342788219451904,True
+Injection Immune,normal_236,0,1,0.501622200012207,False
+Injection Immune,normal_237,0,0,0.14470595121383667,True
+Injection Immune,normal_238,0,0,0.025238633155822754,True
+Injection Immune,normal_239,0,1,0.6480157375335693,False
+Injection Immune,normal_240,0,0,0.09015905857086182,True
+Injection Immune,normal_241,0,0,0.08921682834625244,True
+Injection Immune,normal_242,0,0,0.42706090211868286,True
+Injection Immune,normal_243,0,0,0.0896654725074768,True
+Injection Immune,normal_244,0,0,0.31434398889541626,True
+Injection Immune,normal_245,0,0,0.08084803819656372,True
+Injection Immune,normal_246,0,0,0.12863218784332275,True
+Injection Immune,normal_247,0,0,0.051789164543151855,True
+Injection Immune,normal_248,0,0,0.013004839420318604,True
+Injection Immune,normal_249,0,0,0.17752259969711304,True
+Injection Immune,normal_250,0,1,0.5353062152862549,False
+Injection Immune,normal_251,0,0,0.2429349422454834,True
+Injection Immune,normal_252,0,0,0.1507743000984192,True
+Injection Immune,normal_253,0,0,0.06069153547286987,True
+Injection Immune,normal_254,0,0,0.06973755359649658,True
+Injection Immune,normal_255,0,1,0.8606597781181335,False
+Injection Immune,normal_256,0,0,0.28449952602386475,True
+Injection Immune,normal_257,0,0,0.07640224695205688,True
+Injection Immune,normal_258,0,1,0.9571321606636047,False
+Injection Immune,normal_259,0,0,0.08009099960327148,True
+Injection Immune,normal_260,0,0,0.28473377227783203,True
+Injection Immune,normal_261,0,0,0.12382227182388306,True
+Injection Immune,normal_262,0,0,0.057608842849731445,True
+Injection Immune,normal_263,0,0,0.0028666257858276367,True
+Injection Immune,normal_264,0,0,0.4360749125480652,True
+Injection Immune,normal_265,0,1,0.5946866273880005,False
+Injection Immune,normal_266,0,1,0.5292104482650757,False
+Injection Immune,normal_267,0,0,0.14354538917541504,True
+Injection Immune,normal_268,0,0,0.3343183994293213,True
+Injection Immune,normal_269,0,0,0.13139969110488892,True
+Injection Immune,normal_270,0,0,0.19144779443740845,True
+Injection Immune,normal_271,0,0,0.4948720335960388,True
+Injection Immune,normal_272,0,0,0.02483898401260376,True
+Injection Immune,normal_273,0,0,0.06129211187362671,True
+Injection Immune,normal_274,0,0,0.008803606033325195,True
+Injection Immune,normal_275,0,0,0.05358690023422241,True
+Injection Immune,normal_276,0,0,0.1805468201637268,True
+Injection Immune,normal_277,0,0,0.14924860000610352,True
+Injection Immune,normal_278,0,0,0.08226227760314941,True
+Injection Immune,normal_279,0,0,0.11625933647155762,True
+Injection Immune,normal_280,0,0,0.29164379835128784,True
+Injection Immune,normal_281,0,1,0.5959898233413696,False
+Injection Immune,normal_282,0,0,0.3582598567008972,True
+Injection Immune,normal_283,0,0,0.12523043155670166,True
+Injection Immune,normal_284,0,0,0.017164945602416992,True
+Injection Immune,normal_285,0,0,0.00538259744644165,True
+Injection Immune,normal_286,0,0,0.40794819593429565,True
+Injection Immune,normal_287,0,0,0.026730716228485107,True
+Injection Immune,normal_288,0,0,0.012698888778686523,True
+Injection Immune,normal_289,0,0,0.2170061469078064,True
+Injection Immune,normal_290,0,0,0.01851135492324829,True
+Injection Immune,normal_291,0,0,0.30517542362213135,True
+Injection Immune,normal_292,0,0,0.03756141662597656,True
+Injection Immune,normal_293,0,0,0.07462120056152344,True
+Injection Immune,normal_294,0,0,0.007590055465698242,True
+Injection Immune,normal_295,0,0,0.42770856618881226,True
+Injection Immune,normal_296,0,1,0.9999921321868896,False
+Injection Immune,normal_297,0,0,0.03765106201171875,True
+Injection Immune,normal_298,0,0,0.23617297410964966,True
+Injection Immune,normal_299,0,0,0.13287580013275146,True
+Injection Immune,normal_300,0,0,0.43025892972946167,True
+Injection Immune,pituitary_001,1,1,0.9505804181098938,True
+Injection Immune,pituitary_002,1,0,0.2582804560661316,False
+Injection Immune,pituitary_003,1,1,0.6533105373382568,True
+Injection Immune,pituitary_004,1,1,0.8258082270622253,True
+Injection Immune,pituitary_005,1,1,0.5557935237884521,True
+Injection Immune,pituitary_006,1,1,0.9879346489906311,True
+Injection Immune,pituitary_007,1,1,0.9568014144897461,True
+Injection Immune,pituitary_008,1,1,0.9002818465232849,True
+Injection Immune,pituitary_009,1,1,0.9631504416465759,True
+Injection Immune,pituitary_010,1,1,0.7958423495292664,True
+Injection Immune,pituitary_011,1,1,0.7650091648101807,True
+Injection Immune,pituitary_012,1,1,0.9903244972229004,True
+Injection Immune,pituitary_013,1,1,0.9806364178657532,True
+Injection Immune,pituitary_014,1,1,0.7906576991081238,True
+Injection Immune,pituitary_015,1,1,0.9922464489936829,True
+Injection Immune,pituitary_016,1,1,0.9232969284057617,True
+Injection Immune,pituitary_017,1,1,0.852407693862915,True
+Injection Immune,pituitary_018,1,1,0.972440779209137,True
+Injection Immune,pituitary_019,1,1,0.8667614459991455,True
+Injection Immune,pituitary_020,1,1,0.7521511912345886,True
+Injection Immune,pituitary_021,1,1,0.9851971864700317,True
+Injection Immune,pituitary_022,1,1,0.9957705140113831,True
+Injection Immune,pituitary_023,1,1,0.8753087520599365,True
+Injection Immune,pituitary_024,1,0,0.3239176273345947,False
+Injection Immune,pituitary_025,1,0,0.4361344575881958,False
+Injection Immune,pituitary_026,1,1,0.8596276640892029,True
+Injection Immune,pituitary_027,1,1,0.9954298734664917,True
+Injection Immune,pituitary_028,1,1,0.9789596796035767,True
+Injection Immune,pituitary_029,1,1,0.9524150490760803,True
+Injection Immune,pituitary_030,1,1,0.9911612272262573,True
+Injection Immune,pituitary_031,1,1,0.8915309309959412,True
+Injection Immune,pituitary_032,1,1,0.9676492214202881,True
+Injection Immune,pituitary_033,1,1,0.9724124073982239,True
+Injection Immune,pituitary_034,1,1,0.9157171249389648,True
+Injection Immune,pituitary_035,1,1,0.9969961047172546,True
+Injection Immune,pituitary_036,1,1,0.8550824522972107,True
+Injection Immune,pituitary_037,1,1,0.9752646684646606,True
+Injection Immune,pituitary_038,1,1,0.9979913830757141,True
+Injection Immune,pituitary_039,1,1,0.8436142802238464,True
+Injection Immune,pituitary_040,1,1,0.7235813736915588,True
+Injection Immune,pituitary_041,1,1,0.9429587721824646,True
+Injection Immune,pituitary_042,1,1,0.9738444685935974,True
+Injection Immune,pituitary_043,1,1,0.9870511293411255,True
+Injection Immune,pituitary_044,1,1,0.8393430113792419,True
+Injection Immune,pituitary_045,1,0,0.23815369606018066,False
+Injection Immune,pituitary_046,1,1,0.780689001083374,True
+Injection Immune,pituitary_047,1,1,0.9745177030563354,True
+Injection Immune,pituitary_048,1,1,0.8930290341377258,True
+Injection Immune,pituitary_049,1,1,0.9620450735092163,True
+Injection Immune,pituitary_050,1,1,0.9917870163917542,True
+Injection Immune,pituitary_051,1,1,0.8009403944015503,True
+Injection Immune,pituitary_052,1,1,0.7361522316932678,True
+Injection Immune,pituitary_053,1,1,0.9897782206535339,True
+Injection Immune,pituitary_054,1,1,0.8147576451301575,True
+Injection Immune,pituitary_055,1,1,0.9272286295890808,True
+Injection Immune,pituitary_056,1,1,0.917521059513092,True
+Injection Immune,pituitary_057,1,0,0.1930270791053772,False
+Injection Immune,pituitary_058,1,1,0.8211877942085266,True
+Injection Immune,pituitary_059,1,1,0.7271021604537964,True
+Injection Immune,pituitary_060,1,1,0.976836621761322,True
+Injection Immune,pituitary_061,1,1,0.9718724489212036,True
+Injection Immune,pituitary_062,1,1,0.8675247430801392,True
+Injection Immune,pituitary_063,1,1,0.9691622853279114,True
+Injection Immune,pituitary_064,1,1,0.9234630465507507,True
+Injection Immune,pituitary_065,1,1,0.9413081407546997,True
+Injection Immune,pituitary_066,1,1,0.9058625102043152,True
+Injection Immune,pituitary_067,1,1,0.5499536991119385,True
+Injection Immune,pituitary_068,1,1,0.8686833381652832,True
+Injection Immune,pituitary_069,1,1,0.9457261562347412,True
+Injection Immune,pituitary_070,1,1,0.9769161939620972,True
+Injection Immune,pituitary_071,1,1,0.9866533279418945,True
+Injection Immune,pituitary_072,1,1,0.95546555519104,True
+Injection Immune,pituitary_073,1,1,0.9809932112693787,True
+Injection Immune,pituitary_074,1,1,0.990136981010437,True
+Injection Immune,pituitary_075,1,1,0.9608492851257324,True
+Injection Immune,pituitary_076,1,1,0.9925000667572021,True
+Injection Immune,pituitary_077,1,1,0.9187147617340088,True
+Injection Immune,pituitary_078,1,1,0.9812166690826416,True
+Injection Immune,pituitary_079,1,0,0.45716971158981323,False
+Injection Immune,pituitary_080,1,1,0.9725437164306641,True
+Injection Immune,pituitary_081,1,1,0.526428759098053,True
+Injection Immune,pituitary_082,1,1,0.9708549380302429,True
+Injection Immune,pituitary_083,1,1,0.9970486164093018,True
+Injection Immune,pituitary_084,1,1,0.7823482751846313,True
+Injection Immune,pituitary_085,1,1,0.9808049201965332,True
+Injection Immune,pituitary_086,1,1,0.9796035289764404,True
+Injection Immune,pituitary_087,1,1,0.6626533269882202,True
+Injection Immune,pituitary_088,1,1,0.9259717464447021,True
+Injection Immune,pituitary_089,1,1,0.9708342552185059,True
+Injection Immune,pituitary_090,1,1,0.969232439994812,True
+Injection Immune,pituitary_091,1,1,0.9968463182449341,True
+Injection Immune,pituitary_092,1,1,0.9645450711250305,True
+Injection Immune,pituitary_093,1,1,0.9258469939231873,True
+Injection Immune,pituitary_094,1,1,0.5811282396316528,True
+Injection Immune,pituitary_095,1,1,0.9338358640670776,True
+Injection Immune,pituitary_096,1,1,0.8839501142501831,True
+Injection Immune,pituitary_097,1,1,0.8797999024391174,True
+Injection Immune,pituitary_098,1,1,0.9895537495613098,True
+Injection Immune,pituitary_099,1,1,0.9268404245376587,True
+Injection Immune,pituitary_100,1,1,0.9523898363113403,True
+Stealth Injection Immune,glioma_001,1,1,0.9823737144470215,True
+Stealth Injection Immune,glioma_002,1,1,0.9905627369880676,True
+Stealth Injection Immune,glioma_003,1,1,0.995215892791748,True
+Stealth Injection Immune,glioma_004,1,1,0.8849692344665527,True
+Stealth Injection Immune,glioma_005,1,1,0.9756744503974915,True
+Stealth Injection Immune,glioma_006,1,1,0.8849347829818726,True
+Stealth Injection Immune,glioma_007,1,1,0.7664197683334351,True
+Stealth Injection Immune,glioma_008,1,1,0.9936032891273499,True
+Stealth Injection Immune,glioma_009,1,1,0.9829685688018799,True
+Stealth Injection Immune,glioma_010,1,1,0.9898375272750854,True
+Stealth Injection Immune,glioma_011,1,1,0.9380598068237305,True
+Stealth Injection Immune,glioma_012,1,1,0.9929929971694946,True
+Stealth Injection Immune,glioma_013,1,1,0.9801667332649231,True
+Stealth Injection Immune,glioma_014,1,1,0.9957504868507385,True
+Stealth Injection Immune,glioma_015,1,1,0.9585205912590027,True
+Stealth Injection Immune,glioma_016,1,1,0.960041880607605,True
+Stealth Injection Immune,glioma_017,1,1,0.6918075084686279,True
+Stealth Injection Immune,glioma_018,1,1,0.9994643926620483,True
+Stealth Injection Immune,glioma_019,1,1,0.9384381175041199,True
+Stealth Injection Immune,glioma_020,1,1,0.9887565970420837,True
+Stealth Injection Immune,glioma_021,1,1,0.9596374034881592,True
+Stealth Injection Immune,glioma_022,1,1,0.99462890625,True
+Stealth Injection Immune,glioma_023,1,1,0.9182808995246887,True
+Stealth Injection Immune,glioma_024,1,1,0.9924933314323425,True
+Stealth Injection Immune,glioma_025,1,1,0.9751676917076111,True
+Stealth Injection Immune,glioma_026,1,1,0.9917005300521851,True
+Stealth Injection Immune,glioma_027,1,1,0.9395968317985535,True
+Stealth Injection Immune,glioma_028,1,1,0.9947561621665955,True
+Stealth Injection Immune,glioma_029,1,1,0.9979163408279419,True
+Stealth Injection Immune,glioma_030,1,1,0.720211386680603,True
+Stealth Injection Immune,glioma_031,1,1,0.994362473487854,True
+Stealth Injection Immune,glioma_032,1,1,0.9627296924591064,True
+Stealth Injection Immune,glioma_033,1,1,0.9676873683929443,True
+Stealth Injection Immune,glioma_034,1,1,0.943930983543396,True
+Stealth Injection Immune,glioma_035,1,1,0.9906579256057739,True
+Stealth Injection Immune,glioma_036,1,1,0.9957501292228699,True
+Stealth Injection Immune,glioma_037,1,1,0.9825877547264099,True
+Stealth Injection Immune,glioma_038,1,1,0.871967613697052,True
+Stealth Injection Immune,glioma_039,1,1,0.8689679503440857,True
+Stealth Injection Immune,glioma_040,1,1,0.9716899991035461,True
+Stealth Injection Immune,glioma_041,1,1,0.9972642660140991,True
+Stealth Injection Immune,glioma_042,1,1,0.9513552784919739,True
+Stealth Injection Immune,glioma_043,1,1,0.9909681081771851,True
+Stealth Injection Immune,glioma_044,1,1,0.9691572785377502,True
+Stealth Injection Immune,glioma_045,1,1,0.9699070453643799,True
+Stealth Injection Immune,glioma_046,1,1,0.9912838935852051,True
+Stealth Injection Immune,glioma_047,1,1,0.7643297910690308,True
+Stealth Injection Immune,glioma_048,1,1,0.9759112000465393,True
+Stealth Injection Immune,glioma_049,1,1,0.6517680883407593,True
+Stealth Injection Immune,glioma_050,1,1,0.9880239963531494,True
+Stealth Injection Immune,glioma_051,1,1,0.982650876045227,True
+Stealth Injection Immune,glioma_052,1,1,0.9612542390823364,True
+Stealth Injection Immune,glioma_053,1,1,0.9863936305046082,True
+Stealth Injection Immune,glioma_054,1,1,0.9102025628089905,True
+Stealth Injection Immune,glioma_055,1,1,0.9441701769828796,True
+Stealth Injection Immune,glioma_056,1,1,0.9899886846542358,True
+Stealth Injection Immune,glioma_057,1,1,0.9917949438095093,True
+Stealth Injection Immune,glioma_058,1,1,0.9731688499450684,True
+Stealth Injection Immune,glioma_059,1,1,0.990837812423706,True
+Stealth Injection Immune,glioma_060,1,1,0.997917890548706,True
+Stealth Injection Immune,glioma_061,1,1,0.999289333820343,True
+Stealth Injection Immune,glioma_062,1,1,0.9687889814376831,True
+Stealth Injection Immune,glioma_063,1,1,0.8349604606628418,True
+Stealth Injection Immune,glioma_064,1,1,0.8936440348625183,True
+Stealth Injection Immune,glioma_065,1,1,0.9802001118659973,True
+Stealth Injection Immune,glioma_066,1,1,0.8829910755157471,True
+Stealth Injection Immune,glioma_067,1,1,0.9869376420974731,True
+Stealth Injection Immune,glioma_068,1,1,0.9684944748878479,True
+Stealth Injection Immune,glioma_069,1,1,0.9539402723312378,True
+Stealth Injection Immune,glioma_070,1,1,0.8916959762573242,True
+Stealth Injection Immune,glioma_071,1,1,0.8524806499481201,True
+Stealth Injection Immune,glioma_072,1,1,0.997789740562439,True
+Stealth Injection Immune,glioma_073,1,1,0.9959094524383545,True
+Stealth Injection Immune,glioma_074,1,1,0.982404887676239,True
+Stealth Injection Immune,glioma_075,1,1,0.9992431402206421,True
+Stealth Injection Immune,glioma_076,1,1,0.9139520525932312,True
+Stealth Injection Immune,glioma_077,1,1,0.8831644654273987,True
+Stealth Injection Immune,glioma_078,1,1,0.9722022414207458,True
+Stealth Injection Immune,glioma_079,1,1,0.9905453324317932,True
+Stealth Injection Immune,glioma_080,1,1,0.9670373201370239,True
+Stealth Injection Immune,glioma_081,1,1,0.9518837332725525,True
+Stealth Injection Immune,glioma_082,1,1,0.9851847290992737,True
+Stealth Injection Immune,glioma_083,1,1,0.9982444643974304,True
+Stealth Injection Immune,glioma_084,1,1,0.8878977298736572,True
+Stealth Injection Immune,glioma_085,1,1,0.9787038564682007,True
+Stealth Injection Immune,glioma_086,1,1,0.9334710836410522,True
+Stealth Injection Immune,glioma_087,1,1,0.9341535568237305,True
+Stealth Injection Immune,glioma_088,1,1,0.8920657634735107,True
+Stealth Injection Immune,glioma_089,1,1,0.9821409583091736,True
+Stealth Injection Immune,glioma_090,1,1,0.846783459186554,True
+Stealth Injection Immune,glioma_091,1,1,0.8910773992538452,True
+Stealth Injection Immune,glioma_092,1,1,0.9977255463600159,True
+Stealth Injection Immune,glioma_093,1,1,0.9660366177558899,True
+Stealth Injection Immune,glioma_094,1,1,0.9980046153068542,True
+Stealth Injection Immune,glioma_095,1,1,0.9788368940353394,True
+Stealth Injection Immune,glioma_096,1,1,0.9766653776168823,True
+Stealth Injection Immune,glioma_097,1,1,0.9996163845062256,True
+Stealth Injection Immune,glioma_098,1,1,0.6465816497802734,True
+Stealth Injection Immune,glioma_099,1,1,0.9730963706970215,True
+Stealth Injection Immune,glioma_100,1,1,0.8340650200843811,True
+Stealth Injection Immune,meningioma_001,1,1,0.9533734917640686,True
+Stealth Injection Immune,meningioma_002,1,1,0.8419587016105652,True
+Stealth Injection Immune,meningioma_003,1,1,0.6350739598274231,True
+Stealth Injection Immune,meningioma_004,1,1,0.9682058095932007,True
+Stealth Injection Immune,meningioma_005,1,1,0.9211500883102417,True
+Stealth Injection Immune,meningioma_006,1,1,0.9673295021057129,True
+Stealth Injection Immune,meningioma_007,1,1,0.999232828617096,True
+Stealth Injection Immune,meningioma_008,1,1,0.990851640701294,True
+Stealth Injection Immune,meningioma_009,1,1,0.9868507981300354,True
+Stealth Injection Immune,meningioma_010,1,1,0.9938161969184875,True
+Stealth Injection Immune,meningioma_011,1,1,0.9539439678192139,True
+Stealth Injection Immune,meningioma_012,1,1,0.8412485718727112,True
+Stealth Injection Immune,meningioma_013,1,1,0.9727509617805481,True
+Stealth Injection Immune,meningioma_014,1,1,0.9748647809028625,True
+Stealth Injection Immune,meningioma_015,1,1,0.9777340888977051,True
+Stealth Injection Immune,meningioma_016,1,1,0.9142825603485107,True
+Stealth Injection Immune,meningioma_017,1,1,0.9241390824317932,True
+Stealth Injection Immune,meningioma_018,1,1,0.8566123843193054,True
+Stealth Injection Immune,meningioma_019,1,0,0.299299418926239,False
+Stealth Injection Immune,meningioma_020,1,1,0.9116201996803284,True
+Stealth Injection Immune,meningioma_021,1,1,0.9770286083221436,True
+Stealth Injection Immune,meningioma_022,1,1,0.9867129921913147,True
+Stealth Injection Immune,meningioma_023,1,1,0.9209057092666626,True
+Stealth Injection Immune,meningioma_024,1,1,0.6576071977615356,True
+Stealth Injection Immune,meningioma_025,1,1,0.6733556985855103,True
+Stealth Injection Immune,meningioma_026,1,1,0.6031738519668579,True
+Stealth Injection Immune,meningioma_027,1,1,0.5252480506896973,True
+Stealth Injection Immune,meningioma_028,1,0,0.4096207618713379,False
+Stealth Injection Immune,meningioma_029,1,1,0.9273631572723389,True
+Stealth Injection Immune,meningioma_030,1,1,0.9425734281539917,True
+Stealth Injection Immune,meningioma_031,1,1,0.840721070766449,True
+Stealth Injection Immune,meningioma_032,1,1,0.8699917793273926,True
+Stealth Injection Immune,meningioma_033,1,1,0.8872358798980713,True
+Stealth Injection Immune,meningioma_034,1,1,0.6732767820358276,True
+Stealth Injection Immune,meningioma_035,1,1,0.9963250160217285,True
+Stealth Injection Immune,meningioma_036,1,1,0.9182471036911011,True
+Stealth Injection Immune,meningioma_037,1,1,0.7156378030776978,True
+Stealth Injection Immune,meningioma_038,1,1,0.7651464939117432,True
+Stealth Injection Immune,meningioma_039,1,1,0.7235204577445984,True
+Stealth Injection Immune,meningioma_040,1,1,0.9953826069831848,True
+Stealth Injection Immune,meningioma_041,1,1,0.8052051663398743,True
+Stealth Injection Immune,meningioma_042,1,1,0.8999161720275879,True
+Stealth Injection Immune,meningioma_043,1,1,0.9625077843666077,True
+Stealth Injection Immune,meningioma_044,1,1,0.9627636075019836,True
+Stealth Injection Immune,meningioma_045,1,1,0.924267053604126,True
+Stealth Injection Immune,meningioma_046,1,1,0.9971336722373962,True
+Stealth Injection Immune,meningioma_047,1,1,0.914524495601654,True
+Stealth Injection Immune,meningioma_048,1,1,0.8698601722717285,True
+Stealth Injection Immune,meningioma_049,1,1,0.9574910402297974,True
+Stealth Injection Immune,meningioma_050,1,1,0.9603907465934753,True
+Stealth Injection Immune,meningioma_051,1,1,0.9892434477806091,True
+Stealth Injection Immune,meningioma_052,1,1,0.8945239186286926,True
+Stealth Injection Immune,meningioma_053,1,1,0.987564206123352,True
+Stealth Injection Immune,meningioma_054,1,1,0.9650933146476746,True
+Stealth Injection Immune,meningioma_055,1,1,0.6290065050125122,True
+Stealth Injection Immune,meningioma_056,1,1,0.8555370569229126,True
+Stealth Injection Immune,meningioma_057,1,1,0.900026798248291,True
+Stealth Injection Immune,meningioma_058,1,1,0.7382577657699585,True
+Stealth Injection Immune,meningioma_059,1,1,0.8326191902160645,True
+Stealth Injection Immune,meningioma_060,1,0,0.40845954418182373,False
+Stealth Injection Immune,meningioma_061,1,1,0.9935338497161865,True
+Stealth Injection Immune,meningioma_062,1,1,0.9924533367156982,True
+Stealth Injection Immune,meningioma_063,1,1,0.8983012437820435,True
+Stealth Injection Immune,meningioma_064,1,1,0.9811423420906067,True
+Stealth Injection Immune,meningioma_065,1,1,0.9411860704421997,True
+Stealth Injection Immune,meningioma_066,1,1,0.875404953956604,True
+Stealth Injection Immune,meningioma_067,1,0,0.09424179792404175,False
+Stealth Injection Immune,meningioma_068,1,1,0.8245423436164856,True
+Stealth Injection Immune,meningioma_069,1,1,0.9951325058937073,True
+Stealth Injection Immune,meningioma_070,1,1,0.9735907912254333,True
+Stealth Injection Immune,meningioma_071,1,1,0.9285333156585693,True
+Stealth Injection Immune,meningioma_072,1,1,0.916678786277771,True
+Stealth Injection Immune,meningioma_073,1,1,0.9884342551231384,True
+Stealth Injection Immune,meningioma_074,1,1,0.9959378838539124,True
+Stealth Injection Immune,meningioma_075,1,1,0.9979535341262817,True
+Stealth Injection Immune,meningioma_076,1,1,0.990412175655365,True
+Stealth Injection Immune,meningioma_077,1,1,0.9928565621376038,True
+Stealth Injection Immune,meningioma_078,1,1,0.9836539626121521,True
+Stealth Injection Immune,meningioma_079,1,1,0.932844340801239,True
+Stealth Injection Immune,meningioma_080,1,0,0.4411512613296509,False
+Stealth Injection Immune,meningioma_081,1,1,0.7174471616744995,True
+Stealth Injection Immune,meningioma_082,1,1,0.9377047419548035,True
+Stealth Injection Immune,meningioma_083,1,1,0.8456891179084778,True
+Stealth Injection Immune,meningioma_084,1,1,0.8768728375434875,True
+Stealth Injection Immune,meningioma_085,1,1,0.6648590564727783,True
+Stealth Injection Immune,meningioma_086,1,1,0.9946437478065491,True
+Stealth Injection Immune,meningioma_087,1,1,0.947342038154602,True
+Stealth Injection Immune,meningioma_088,1,1,0.9307413697242737,True
+Stealth Injection Immune,meningioma_089,1,1,0.9725600481033325,True
+Stealth Injection Immune,meningioma_090,1,1,0.9352062344551086,True
+Stealth Injection Immune,meningioma_091,1,1,0.8967974185943604,True
+Stealth Injection Immune,meningioma_092,1,1,0.7449958920478821,True
+Stealth Injection Immune,meningioma_093,1,1,0.9009780287742615,True
+Stealth Injection Immune,meningioma_094,1,1,0.8865051865577698,True
+Stealth Injection Immune,meningioma_095,1,1,0.8511552810668945,True
+Stealth Injection Immune,meningioma_096,1,1,0.9923301339149475,True
+Stealth Injection Immune,meningioma_097,1,1,0.978364109992981,True
+Stealth Injection Immune,meningioma_098,1,1,0.8829724788665771,True
+Stealth Injection Immune,meningioma_099,1,1,0.9417722225189209,True
+Stealth Injection Immune,meningioma_100,1,1,0.9943259358406067,True
+Stealth Injection Immune,normal_001,0,0,0.2051255702972412,True
+Stealth Injection Immune,normal_002,0,0,0.029619574546813965,True
+Stealth Injection Immune,normal_003,0,0,0.010432898998260498,True
+Stealth Injection Immune,normal_004,0,0,0.12082213163375854,True
+Stealth Injection Immune,normal_005,0,0,0.32332462072372437,True
+Stealth Injection Immune,normal_006,0,0,0.03632962703704834,True
+Stealth Injection Immune,normal_007,0,0,0.264285683631897,True
+Stealth Injection Immune,normal_008,0,0,0.012618005275726318,True
+Stealth Injection Immune,normal_009,0,0,0.22733092308044434,True
+Stealth Injection Immune,normal_010,0,0,0.018958210945129395,True
+Stealth Injection Immune,normal_011,0,0,0.01844543218612671,True
+Stealth Injection Immune,normal_012,0,0,0.004704535007476807,True
+Stealth Injection Immune,normal_013,0,0,0.0,True
+Stealth Injection Immune,normal_014,0,0,0.01150822639465332,True
+Stealth Injection Immune,normal_015,0,1,0.8920604586601257,False
+Stealth Injection Immune,normal_016,0,0,0.07133138179779053,True
+Stealth Injection Immune,normal_017,0,0,0.00340878963470459,True
+Stealth Injection Immune,normal_018,0,0,0.11357194185256958,True
+Stealth Injection Immune,normal_019,0,0,0.030791521072387695,True
+Stealth Injection Immune,normal_020,0,0,0.014658212661743164,True
+Stealth Injection Immune,normal_021,0,0,0.4050564169883728,True
+Stealth Injection Immune,normal_022,0,0,0.14601773023605347,True
+Stealth Injection Immune,normal_023,0,0,0.0064882636070251465,True
+Stealth Injection Immune,normal_024,0,0,0.013855934143066406,True
+Stealth Injection Immune,normal_025,0,0,0.37260985374450684,True
+Stealth Injection Immune,normal_026,0,1,0.7295306921005249,False
+Stealth Injection Immune,normal_027,0,0,0.044116199016571045,True
+Stealth Injection Immune,normal_028,0,0,0.0017224550247192383,True
+Stealth Injection Immune,normal_029,0,0,0.11365926265716553,True
+Stealth Injection Immune,normal_030,0,0,0.03892791271209717,True
+Stealth Injection Immune,normal_031,0,0,0.20072758197784424,True
+Stealth Injection Immune,normal_032,0,0,0.15262186527252197,True
+Stealth Injection Immune,normal_033,0,0,0.024101734161376953,True
+Stealth Injection Immune,normal_034,0,0,0.0275229811668396,True
+Stealth Injection Immune,normal_035,0,0,0.11676305532455444,True
+Stealth Injection Immune,normal_036,0,0,0.15440309047698975,True
+Stealth Injection Immune,normal_037,0,1,0.973463773727417,False
+Stealth Injection Immune,normal_038,0,0,0.3746073246002197,True
+Stealth Injection Immune,normal_039,0,0,0.20167160034179688,True
+Stealth Injection Immune,normal_040,0,0,0.0035532116889953613,True
+Stealth Injection Immune,normal_041,0,0,0.009726345539093018,True
+Stealth Injection Immune,normal_042,0,0,0.1292358636856079,True
+Stealth Injection Immune,normal_043,0,0,0.002479374408721924,True
+Stealth Injection Immune,normal_044,0,0,0.07242655754089355,True
+Stealth Injection Immune,normal_045,0,1,0.9718297719955444,False
+Stealth Injection Immune,normal_046,0,0,0.008875668048858643,True
+Stealth Injection Immune,normal_047,0,0,0.0723310112953186,True
+Stealth Injection Immune,normal_048,0,0,0.009462893009185791,True
+Stealth Injection Immune,normal_049,0,0,0.1258675456047058,True
+Stealth Injection Immune,normal_050,0,0,0.1389535665512085,True
+Stealth Injection Immune,normal_051,0,0,0.1328202486038208,True
+Stealth Injection Immune,normal_052,0,0,0.011974513530731201,True
+Stealth Injection Immune,normal_053,0,0,0.36322110891342163,True
+Stealth Injection Immune,normal_054,0,0,0.09910672903060913,True
+Stealth Injection Immune,normal_055,0,0,0.18516629934310913,True
+Stealth Injection Immune,normal_056,0,1,0.7333390712738037,False
+Stealth Injection Immune,normal_057,0,0,0.0013133883476257324,True
+Stealth Injection Immune,normal_058,0,0,0.00442129373550415,True
+Stealth Injection Immune,normal_059,0,0,0.012853741645812988,True
+Stealth Injection Immune,normal_060,0,0,0.0017732977867126465,True
+Stealth Injection Immune,normal_061,0,0,0.0034582018852233887,True
+Stealth Injection Immune,normal_062,0,0,0.4163990616798401,True
+Stealth Injection Immune,normal_063,0,0,0.025206267833709717,True
+Stealth Injection Immune,normal_064,0,0,0.06841230392456055,True
+Stealth Injection Immune,normal_065,0,0,0.001965463161468506,True
+Stealth Injection Immune,normal_066,0,0,0.0006472468376159668,True
+Stealth Injection Immune,normal_067,0,0,0.15931612253189087,True
+Stealth Injection Immune,normal_068,0,0,0.06963622570037842,True
+Stealth Injection Immune,normal_069,0,0,0.04263472557067871,True
+Stealth Injection Immune,normal_070,0,0,0.008758962154388428,True
+Stealth Injection Immune,normal_071,0,0,0.1377314329147339,True
+Stealth Injection Immune,normal_072,0,0,0.03758072853088379,True
+Stealth Injection Immune,normal_073,0,0,0.31438809633255005,True
+Stealth Injection Immune,normal_074,0,0,0.015994787216186523,True
+Stealth Injection Immune,normal_075,0,0,0.06521284580230713,True
+Stealth Injection Immune,normal_076,0,0,0.04177665710449219,True
+Stealth Injection Immune,normal_077,0,0,0.005890488624572754,True
+Stealth Injection Immune,normal_078,0,0,0.027473747730255127,True
+Stealth Injection Immune,normal_079,0,0,0.0032638907432556152,True
+Stealth Injection Immune,normal_080,0,0,0.3717973828315735,True
+Stealth Injection Immune,normal_081,0,1,0.6590063571929932,False
+Stealth Injection Immune,normal_082,0,0,0.041570305824279785,True
+Stealth Injection Immune,normal_083,0,0,0.0275229811668396,True
+Stealth Injection Immune,normal_084,0,0,0.38706302642822266,True
+Stealth Injection Immune,normal_085,0,0,0.2051255702972412,True
+Stealth Injection Immune,normal_086,0,0,0.03315567970275879,True
+Stealth Injection Immune,normal_087,0,0,0.13632726669311523,True
+Stealth Injection Immune,normal_088,0,0,0.1389535665512085,True
+Stealth Injection Immune,normal_089,0,0,0.009141862392425537,True
+Stealth Injection Immune,normal_090,0,0,0.029619574546813965,True
+Stealth Injection Immune,normal_091,0,0,0.018958210945129395,True
+Stealth Injection Immune,normal_092,0,0,0.030791521072387695,True
+Stealth Injection Immune,normal_093,0,0,0.08595186471939087,True
+Stealth Injection Immune,normal_094,0,0,0.37685829401016235,True
+Stealth Injection Immune,normal_095,0,0,0.0771719217300415,True
+Stealth Injection Immune,normal_096,0,0,0.47425389289855957,True
+Stealth Injection Immune,normal_097,0,0,0.003925025463104248,True
+Stealth Injection Immune,normal_098,0,0,0.05532139539718628,True
+Stealth Injection Immune,normal_099,0,0,0.08667963743209839,True
+Stealth Injection Immune,normal_100,0,1,0.6791826486587524,False
+Stealth Injection Immune,normal_101,0,0,0.044116199016571045,True
+Stealth Injection Immune,normal_102,0,0,0.24583971500396729,True
+Stealth Injection Immune,normal_103,0,0,0.057409703731536865,True
+Stealth Injection Immune,normal_104,0,0,0.006789028644561768,True
+Stealth Injection Immune,normal_105,0,0,0.01151186227798462,True
+Stealth Injection Immune,normal_106,0,0,0.14914363622665405,True
+Stealth Injection Immune,normal_107,0,1,0.6768323183059692,False
+Stealth Injection Immune,normal_108,0,0,0.1233144998550415,True
+Stealth Injection Immune,normal_109,0,0,0.21983927488327026,True
+Stealth Injection Immune,normal_110,0,0,0.12089794874191284,True
+Stealth Injection Immune,normal_111,0,0,0.031095683574676514,True
+Stealth Injection Immune,normal_112,0,0,0.013202667236328125,True
+Stealth Injection Immune,normal_113,0,0,0.18516629934310913,True
+Stealth Injection Immune,normal_114,0,0,0.1377314329147339,True
+Stealth Injection Immune,normal_115,0,0,0.19788825511932373,True
+Stealth Injection Immune,normal_116,0,0,0.11164242029190063,True
+Stealth Injection Immune,normal_117,0,0,0.13024795055389404,True
+Stealth Injection Immune,normal_118,0,0,0.15367180109024048,True
+Stealth Injection Immune,normal_119,0,0,0.21829110383987427,True
+Stealth Injection Immune,normal_120,0,0,0.19788825511932373,True
+Stealth Injection Immune,normal_121,0,0,0.020425796508789062,True
+Stealth Injection Immune,normal_122,0,0,0.28531813621520996,True
+Stealth Injection Immune,normal_123,0,1,0.6371394395828247,False
+Stealth Injection Immune,normal_124,0,0,0.018898844718933105,True
+Stealth Injection Immune,normal_125,0,0,0.001602470874786377,True
+Stealth Injection Immune,normal_126,0,0,0.149428129196167,True
+Stealth Injection Immune,normal_127,0,1,0.6590063571929932,False
+Stealth Injection Immune,normal_128,0,0,0.009141862392425537,True
+Stealth Injection Immune,normal_129,0,0,0.00030922889709472656,True
+Stealth Injection Immune,normal_130,0,0,0.006818711757659912,True
+Stealth Injection Immune,normal_131,0,0,0.06587517261505127,True
+Stealth Injection Immune,normal_132,0,1,0.7007830142974854,False
+Stealth Injection Immune,normal_133,0,0,0.039160311222076416,True
+Stealth Injection Immune,normal_134,0,0,0.001175224781036377,True
+Stealth Injection Immune,normal_135,0,0,0.04364299774169922,True
+Stealth Injection Immune,normal_136,0,0,0.044832468032836914,True
+Stealth Injection Immune,normal_137,0,0,0.12836819887161255,True
+Stealth Injection Immune,normal_138,0,0,0.030109167098999023,True
+Stealth Injection Immune,normal_139,0,0,0.02765035629272461,True
+Stealth Injection Immune,normal_140,0,0,0.48069822788238525,True
+Stealth Injection Immune,normal_141,0,0,0.11721938848495483,True
+Stealth Injection Immune,normal_142,0,0,0.0511249303817749,True
+Stealth Injection Immune,normal_143,0,0,0.13084757328033447,True
+Stealth Injection Immune,normal_144,0,0,0.14472901821136475,True
+Stealth Injection Immune,normal_145,0,0,0.15628528594970703,True
+Stealth Injection Immune,normal_146,0,0,0.14893460273742676,True
+Stealth Injection Immune,normal_147,0,0,0.025754094123840332,True
+Stealth Injection Immune,normal_148,0,0,0.0474698543548584,True
+Stealth Injection Immune,normal_149,0,0,0.10636907815933228,True
+Stealth Injection Immune,normal_150,0,0,0.13891929388046265,True
+Stealth Injection Immune,normal_151,0,0,0.025754094123840332,True
+Stealth Injection Immune,normal_152,0,0,0.14893460273742676,True
+Stealth Injection Immune,normal_153,0,0,0.0474698543548584,True
+Stealth Injection Immune,normal_154,0,0,0.2634798288345337,True
+Stealth Injection Immune,normal_155,0,0,0.20950937271118164,True
+Stealth Injection Immune,normal_156,0,0,0.22835516929626465,True
+Stealth Injection Immune,normal_157,0,0,0.012434422969818115,True
+Stealth Injection Immune,normal_158,0,0,0.15628528594970703,True
+Stealth Injection Immune,normal_159,0,0,0.07634592056274414,True
+Stealth Injection Immune,normal_160,0,0,0.1957082748413086,True
+Stealth Injection Immune,normal_161,0,0,0.15628528594970703,True
+Stealth Injection Immune,normal_162,0,0,0.284534215927124,True
+Stealth Injection Immune,normal_163,0,0,0.4912014603614807,True
+Stealth Injection Immune,normal_164,0,0,0.4033145308494568,True
+Stealth Injection Immune,normal_165,0,0,0.14893460273742676,True
+Stealth Injection Immune,normal_166,0,0,0.22835516929626465,True
+Stealth Injection Immune,normal_167,0,0,0.20506680011749268,True
+Stealth Injection Immune,normal_168,0,0,0.09589147567749023,True
+Stealth Injection Immune,normal_169,0,0,0.04848116636276245,True
+Stealth Injection Immune,normal_170,0,0,0.1328202486038208,True
+Stealth Injection Immune,normal_171,0,0,0.1720392107963562,True
+Stealth Injection Immune,normal_172,0,0,0.14997977018356323,True
+Stealth Injection Immune,normal_173,0,0,0.14997977018356323,True
+Stealth Injection Immune,normal_174,0,0,0.2127513885498047,True
+Stealth Injection Immune,normal_175,0,0,0.014267265796661377,True
+Stealth Injection Immune,normal_176,0,0,0.07464385032653809,True
+Stealth Injection Immune,normal_177,0,0,0.07155269384384155,True
+Stealth Injection Immune,normal_178,0,0,0.03195458650588989,True
+Stealth Injection Immune,normal_179,0,0,0.14997977018356323,True
+Stealth Injection Immune,normal_180,0,0,0.11934971809387207,True
+Stealth Injection Immune,normal_181,0,0,0.006062865257263184,True
+Stealth Injection Immune,normal_182,0,0,0.19296789169311523,True
+Stealth Injection Immune,normal_183,0,0,0.09463846683502197,True
+Stealth Injection Immune,normal_184,0,0,0.029896199703216553,True
+Stealth Injection Immune,normal_185,0,0,0.015295982360839844,True
+Stealth Injection Immune,normal_186,0,0,0.017332613468170166,True
+Stealth Injection Immune,normal_187,0,0,0.01252371072769165,True
+Stealth Injection Immune,normal_188,0,0,0.19577699899673462,True
+Stealth Injection Immune,normal_189,0,0,0.034801483154296875,True
+Stealth Injection Immune,normal_190,0,0,0.07486093044281006,True
+Stealth Injection Immune,normal_191,0,0,0.11934971809387207,True
+Stealth Injection Immune,normal_192,0,0,0.06517887115478516,True
+Stealth Injection Immune,normal_193,0,0,0.07421255111694336,True
+Stealth Injection Immune,normal_194,0,0,0.06419193744659424,True
+Stealth Injection Immune,normal_195,0,0,0.024716198444366455,True
+Stealth Injection Immune,normal_196,0,0,0.03861576318740845,True
+Stealth Injection Immune,normal_197,0,1,0.5086403489112854,False
+Stealth Injection Immune,normal_198,0,1,0.5550548434257507,False
+Stealth Injection Immune,normal_199,0,0,0.01684856414794922,True
+Stealth Injection Immune,normal_200,0,0,0.06451159715652466,True
+Stealth Injection Immune,normal_201,0,1,0.523430585861206,False
+Stealth Injection Immune,normal_202,0,0,0.10676705837249756,True
+Stealth Injection Immune,normal_203,0,0,0.014267265796661377,True
+Stealth Injection Immune,normal_204,0,0,0.035701632499694824,True
+Stealth Injection Immune,normal_205,0,0,0.21034133434295654,True
+Stealth Injection Immune,normal_206,0,0,0.17248976230621338,True
+Stealth Injection Immune,normal_207,0,0,0.006109476089477539,True
+Stealth Injection Immune,normal_208,0,0,0.17248976230621338,True
+Stealth Injection Immune,normal_209,0,0,0.2157006859779358,True
+Stealth Injection Immune,normal_210,0,1,0.6866477727890015,False
+Stealth Injection Immune,normal_211,0,1,0.9215861558914185,False
+Stealth Injection Immune,normal_212,0,0,0.06401097774505615,True
+Stealth Injection Immune,normal_213,0,0,0.1284102201461792,True
+Stealth Injection Immune,normal_214,0,0,0.14288175106048584,True
+Stealth Injection Immune,normal_215,0,0,0.08139568567276001,True
+Stealth Injection Immune,normal_216,0,0,0.38734400272369385,True
+Stealth Injection Immune,normal_217,0,0,0.06996965408325195,True
+Stealth Injection Immune,normal_218,0,0,0.038419485092163086,True
+Stealth Injection Immune,normal_219,0,0,0.062375009059906006,True
+Stealth Injection Immune,normal_220,0,0,0.04250836372375488,True
+Stealth Injection Immune,normal_221,0,0,0.0016126632690429688,True
+Stealth Injection Immune,normal_222,0,0,0.012275934219360352,True
+Stealth Injection Immune,normal_223,0,1,0.5528987646102905,False
+Stealth Injection Immune,normal_224,0,0,0.05396360158920288,True
+Stealth Injection Immune,normal_225,0,1,0.6817670464515686,False
+Stealth Injection Immune,normal_226,0,0,0.03071051836013794,True
+Stealth Injection Immune,normal_227,0,0,0.3738331198692322,True
+Stealth Injection Immune,normal_228,0,0,0.015238285064697266,True
+Stealth Injection Immune,normal_229,0,0,0.10108119249343872,True
+Stealth Injection Immune,normal_230,0,0,0.06348025798797607,True
+Stealth Injection Immune,normal_231,0,0,0.027878761291503906,True
+Stealth Injection Immune,normal_232,0,0,0.20074963569641113,True
+Stealth Injection Immune,normal_233,0,0,0.09172254800796509,True
+Stealth Injection Immune,normal_234,0,0,0.0752483606338501,True
+Stealth Injection Immune,normal_235,0,0,0.3282226324081421,True
+Stealth Injection Immune,normal_236,0,0,0.11771637201309204,True
+Stealth Injection Immune,normal_237,0,1,0.6385172605514526,False
+Stealth Injection Immune,normal_238,0,0,0.16190671920776367,True
+Stealth Injection Immune,normal_239,0,1,0.6505087614059448,False
+Stealth Injection Immune,normal_240,0,0,0.05614793300628662,True
+Stealth Injection Immune,normal_241,0,0,0.09328961372375488,True
+Stealth Injection Immune,normal_242,0,0,0.2246856689453125,True
+Stealth Injection Immune,normal_243,0,0,0.009823858737945557,True
+Stealth Injection Immune,normal_244,0,0,0.42152196168899536,True
+Stealth Injection Immune,normal_245,0,0,0.06314533948898315,True
+Stealth Injection Immune,normal_246,0,0,0.020842790603637695,True
+Stealth Injection Immune,normal_247,0,0,0.01043623685836792,True
+Stealth Injection Immune,normal_248,0,0,0.0017732977867126465,True
+Stealth Injection Immune,normal_249,0,0,0.05511879920959473,True
+Stealth Injection Immune,normal_250,0,0,0.2627750635147095,True
+Stealth Injection Immune,normal_251,0,0,0.019576191902160645,True
+Stealth Injection Immune,normal_252,0,0,0.2594621777534485,True
+Stealth Injection Immune,normal_253,0,0,0.07636553049087524,True
+Stealth Injection Immune,normal_254,0,0,0.002346813678741455,True
+Stealth Injection Immune,normal_255,0,1,0.8994017839431763,False
+Stealth Injection Immune,normal_256,0,0,0.06223195791244507,True
+Stealth Injection Immune,normal_257,0,0,0.06275385618209839,True
+Stealth Injection Immune,normal_258,0,1,0.9261298179626465,False
+Stealth Injection Immune,normal_259,0,0,0.04710882902145386,True
+Stealth Injection Immune,normal_260,0,0,0.05983501672744751,True
+Stealth Injection Immune,normal_261,0,0,0.014613509178161621,True
+Stealth Injection Immune,normal_262,0,0,0.03486067056655884,True
+Stealth Injection Immune,normal_263,0,0,0.014074385166168213,True
+Stealth Injection Immune,normal_264,0,0,0.2773916721343994,True
+Stealth Injection Immune,normal_265,0,0,0.4163990616798401,True
+Stealth Injection Immune,normal_266,0,0,0.22623270750045776,True
+Stealth Injection Immune,normal_267,0,0,0.026764333248138428,True
+Stealth Injection Immune,normal_268,0,0,0.01919376850128174,True
+Stealth Injection Immune,normal_269,0,0,0.274743914604187,True
+Stealth Injection Immune,normal_270,0,0,0.3717973828315735,True
+Stealth Injection Immune,normal_271,0,0,0.06051838397979736,True
+Stealth Injection Immune,normal_272,0,0,0.0008481740951538086,True
+Stealth Injection Immune,normal_273,0,0,0.06841230392456055,True
+Stealth Injection Immune,normal_274,0,0,0.0011992454528808594,True
+Stealth Injection Immune,normal_275,0,0,0.06521284580230713,True
+Stealth Injection Immune,normal_276,0,0,0.1267673373222351,True
+Stealth Injection Immune,normal_277,0,0,0.08108323812484741,True
+Stealth Injection Immune,normal_278,0,0,0.016670048236846924,True
+Stealth Injection Immune,normal_279,0,0,0.06314533948898315,True
+Stealth Injection Immune,normal_280,0,0,0.020842790603637695,True
+Stealth Injection Immune,normal_281,0,0,0.4264754056930542,True
+Stealth Injection Immune,normal_282,0,0,0.1957082748413086,True
+Stealth Injection Immune,normal_283,0,0,0.32332462072372437,True
+Stealth Injection Immune,normal_284,0,0,0.04177665710449219,True
+Stealth Injection Immune,normal_285,0,0,0.005890965461730957,True
+Stealth Injection Immune,normal_286,0,0,0.3118465542793274,True
+Stealth Injection Immune,normal_287,0,0,0.012568354606628418,True
+Stealth Injection Immune,normal_288,0,0,0.017184674739837646,True
+Stealth Injection Immune,normal_289,0,0,0.015584409236907959,True
+Stealth Injection Immune,normal_290,0,0,0.025798916816711426,True
+Stealth Injection Immune,normal_291,0,1,0.5028008222579956,False
+Stealth Injection Immune,normal_292,0,0,0.01043623685836792,True
+Stealth Injection Immune,normal_293,0,0,0.197892963886261,True
+Stealth Injection Immune,normal_294,0,0,0.005890488624572754,True
+Stealth Injection Immune,normal_295,0,1,0.5488728284835815,False
+Stealth Injection Immune,normal_296,0,0,0.0,True
+Stealth Injection Immune,normal_297,0,0,0.024988174438476562,True
+Stealth Injection Immune,normal_298,0,0,0.002839207649230957,True
+Stealth Injection Immune,normal_299,0,0,0.13763946294784546,True
+Stealth Injection Immune,normal_300,0,0,0.10352450609207153,True
+Stealth Injection Immune,pituitary_001,1,1,0.9792619347572327,True
+Stealth Injection Immune,pituitary_002,1,1,0.9958581328392029,True
+Stealth Injection Immune,pituitary_003,1,1,0.85060715675354,True
+Stealth Injection Immune,pituitary_004,1,1,0.9494801163673401,True
+Stealth Injection Immune,pituitary_005,1,1,0.9159603118896484,True
+Stealth Injection Immune,pituitary_006,1,1,0.9979315400123596,True
+Stealth Injection Immune,pituitary_007,1,1,0.9918610453605652,True
+Stealth Injection Immune,pituitary_008,1,1,0.997832715511322,True
+Stealth Injection Immune,pituitary_009,1,1,0.9908685684204102,True
+Stealth Injection Immune,pituitary_010,1,1,0.9855231046676636,True
+Stealth Injection Immune,pituitary_011,1,1,0.9947999119758606,True
+Stealth Injection Immune,pituitary_012,1,1,0.9995672702789307,True
+Stealth Injection Immune,pituitary_013,1,1,0.9993261694908142,True
+Stealth Injection Immune,pituitary_014,1,1,0.9029192924499512,True
+Stealth Injection Immune,pituitary_015,1,1,0.995353102684021,True
+Stealth Injection Immune,pituitary_016,1,1,0.9940332770347595,True
+Stealth Injection Immune,pituitary_017,1,1,0.9937974810600281,True
+Stealth Injection Immune,pituitary_018,1,1,0.9965999126434326,True
+Stealth Injection Immune,pituitary_019,1,1,0.9850591421127319,True
+Stealth Injection Immune,pituitary_020,1,1,0.9512442350387573,True
+Stealth Injection Immune,pituitary_021,1,1,0.9985089898109436,True
+Stealth Injection Immune,pituitary_022,1,1,0.9712865352630615,True
+Stealth Injection Immune,pituitary_023,1,1,0.9627828001976013,True
+Stealth Injection Immune,pituitary_024,1,1,0.9921227693557739,True
+Stealth Injection Immune,pituitary_025,1,1,0.9917417168617249,True
+Stealth Injection Immune,pituitary_026,1,1,0.9065607786178589,True
+Stealth Injection Immune,pituitary_027,1,1,0.9994601011276245,True
+Stealth Injection Immune,pituitary_028,1,1,0.990990400314331,True
+Stealth Injection Immune,pituitary_029,1,1,0.9867781400680542,True
+Stealth Injection Immune,pituitary_030,1,1,0.9991351366043091,True
+Stealth Injection Immune,pituitary_031,1,1,0.992817759513855,True
+Stealth Injection Immune,pituitary_032,1,1,0.9696410894393921,True
+Stealth Injection Immune,pituitary_033,1,1,0.9990105628967285,True
+Stealth Injection Immune,pituitary_034,1,1,0.9916760921478271,True
+Stealth Injection Immune,pituitary_035,1,1,0.9949967265129089,True
+Stealth Injection Immune,pituitary_036,1,1,0.9941784143447876,True
+Stealth Injection Immune,pituitary_037,1,1,0.9998414516448975,True
+Stealth Injection Immune,pituitary_038,1,1,0.9989548325538635,True
+Stealth Injection Immune,pituitary_039,1,1,0.9993246793746948,True
+Stealth Injection Immune,pituitary_040,1,1,0.9986333250999451,True
+Stealth Injection Immune,pituitary_041,1,1,0.9923014044761658,True
+Stealth Injection Immune,pituitary_042,1,1,0.9996031522750854,True
+Stealth Injection Immune,pituitary_043,1,1,0.9908223152160645,True
+Stealth Injection Immune,pituitary_044,1,1,0.9792286157608032,True
+Stealth Injection Immune,pituitary_045,1,1,0.9945668578147888,True
+Stealth Injection Immune,pituitary_046,1,1,0.9872439503669739,True
+Stealth Injection Immune,pituitary_047,1,1,0.9961259365081787,True
+Stealth Injection Immune,pituitary_048,1,1,0.9697156548500061,True
+Stealth Injection Immune,pituitary_049,1,1,0.9991517663002014,True
+Stealth Injection Immune,pituitary_050,1,1,0.9995846152305603,True
+Stealth Injection Immune,pituitary_051,1,1,0.9658281803131104,True
+Stealth Injection Immune,pituitary_052,1,1,0.9961096048355103,True
+Stealth Injection Immune,pituitary_053,1,1,0.9876293540000916,True
+Stealth Injection Immune,pituitary_054,1,1,0.962795615196228,True
+Stealth Injection Immune,pituitary_055,1,1,0.9936749339103699,True
+Stealth Injection Immune,pituitary_056,1,1,0.9840823411941528,True
+Stealth Injection Immune,pituitary_057,1,1,0.6530656814575195,True
+Stealth Injection Immune,pituitary_058,1,1,0.9997606873512268,True
+Stealth Injection Immune,pituitary_059,1,1,0.9522941708564758,True
+Stealth Injection Immune,pituitary_060,1,1,0.990350067615509,True
+Stealth Injection Immune,pituitary_061,1,1,0.9994069933891296,True
+Stealth Injection Immune,pituitary_062,1,1,0.9992919564247131,True
+Stealth Injection Immune,pituitary_063,1,1,0.9974730014801025,True
+Stealth Injection Immune,pituitary_064,1,1,0.9442474246025085,True
+Stealth Injection Immune,pituitary_065,1,1,0.9997568130493164,True
+Stealth Injection Immune,pituitary_066,1,1,0.9376539587974548,True
+Stealth Injection Immune,pituitary_067,1,1,0.888959527015686,True
+Stealth Injection Immune,pituitary_068,1,1,0.9841504693031311,True
+Stealth Injection Immune,pituitary_069,1,1,0.974428117275238,True
+Stealth Injection Immune,pituitary_070,1,1,0.9988495707511902,True
+Stealth Injection Immune,pituitary_071,1,1,0.9914580583572388,True
+Stealth Injection Immune,pituitary_072,1,1,0.9997856616973877,True
+Stealth Injection Immune,pituitary_073,1,1,0.9995814561843872,True
+Stealth Injection Immune,pituitary_074,1,1,0.9961930513381958,True
+Stealth Injection Immune,pituitary_075,1,1,0.9970817565917969,True
+Stealth Injection Immune,pituitary_076,1,1,0.995018720626831,True
+Stealth Injection Immune,pituitary_077,1,1,0.9257214665412903,True
+Stealth Injection Immune,pituitary_078,1,1,0.9813352227210999,True
+Stealth Injection Immune,pituitary_079,1,1,0.9838420748710632,True
+Stealth Injection Immune,pituitary_080,1,1,0.9936155676841736,True
+Stealth Injection Immune,pituitary_081,1,1,0.9930028319358826,True
+Stealth Injection Immune,pituitary_082,1,1,0.9961934089660645,True
+Stealth Injection Immune,pituitary_083,1,1,0.9996655583381653,True
+Stealth Injection Immune,pituitary_084,1,1,0.9964821338653564,True
+Stealth Injection Immune,pituitary_085,1,1,0.9989452362060547,True
+Stealth Injection Immune,pituitary_086,1,1,0.9848056435585022,True
+Stealth Injection Immune,pituitary_087,1,1,0.9899629950523376,True
+Stealth Injection Immune,pituitary_088,1,1,0.9997262954711914,True
+Stealth Injection Immune,pituitary_089,1,1,0.9809284806251526,True
+Stealth Injection Immune,pituitary_090,1,1,0.9531949758529663,True
+Stealth Injection Immune,pituitary_091,1,1,0.9940744638442993,True
+Stealth Injection Immune,pituitary_092,1,1,0.9163845777511597,True
+Stealth Injection Immune,pituitary_093,1,1,0.9853752851486206,True
+Stealth Injection Immune,pituitary_094,1,1,0.9967407584190369,True
+Stealth Injection Immune,pituitary_095,1,1,0.9951439499855042,True
+Stealth Injection Immune,pituitary_096,1,1,0.9982455968856812,True
+Stealth Injection Immune,pituitary_097,1,1,0.9997188448905945,True
+Stealth Injection Immune,pituitary_098,1,1,0.997560977935791,True
+Stealth Injection Immune,pituitary_099,1,1,0.9999524354934692,True
+Stealth Injection Immune,pituitary_100,1,1,0.988322377204895,True
