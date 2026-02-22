@@ -1,5 +1,6 @@
 # API Keys and Secrets
 .env
+Project/.env
 *.json
 !dataset.csv
 *service-account*.json
