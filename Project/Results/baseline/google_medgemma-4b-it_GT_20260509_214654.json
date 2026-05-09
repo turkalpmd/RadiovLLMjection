@@ -1,0 +1,5420 @@
+{
+  "test_date": "2026-05-09T21:51:45.976989",
+  "sdk": "huggingface-transformers (local)",
+  "model": "google/medgemma-4b-it",
+  "prompt_type": "baseline",
+  "total_tests": 600,
+  "pending_tests": 590,
+  "rows": [
+    {
+      "image": "meningioma_011",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:46:52.181481",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_220",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:46:52.422008",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_066",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:46:52.660445",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_078",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:46:52.898624",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_082",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:46:53.136679",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_085",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:46:53.369656",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "glioma_011",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:46:53.600677",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_270",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:46:53.836113",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "glioma_079",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:46:54.068775",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_150",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:46:54.302123",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_001",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:51:58.078694",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_002",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:51:58.319553",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_003",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:51:58.559800",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_004",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:51:58.795745",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_005",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:51:59.029022",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_006",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:51:59.261641",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_007",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:51:59.502360",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_008",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:51:59.736168",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_009",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:51:59.970015",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_010",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:00.204257",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_012",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:00.443309",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_013",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:00.677998",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_014",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:00.918242",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_015",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:01.156818",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_016",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:01.401675",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_017",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:01.634607",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_018",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:01.870553",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_019",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:02.103972",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_020",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:02.337200",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_021",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:02.578600",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_022",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:02.813423",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_023",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:03.048489",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_024",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:03.281457",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_025",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:03.521791",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_026",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:03.758737",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_027",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:03.992864",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_028",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:04.229664",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_029",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:04.470418",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_030",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:04.706526",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_031",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:04.941779",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_032",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:05.176884",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_033",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:05.419771",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_034",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:05.656192",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_035",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:05.890911",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_036",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:06.126935",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_037",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:06.360926",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_038",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:06.603650",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_039",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:06.842688",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_040",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:07.082655",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_041",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:07.324206",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_042",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:07.567420",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_043",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:07.804414",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_044",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:08.040404",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_045",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:08.276633",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_046",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:08.521210",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_047",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:08.758736",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_048",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:08.996044",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_049",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:09.232067",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_050",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:09.476990",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_051",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:09.719082",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_052",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:09.955959",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_053",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:10.193342",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_054",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:10.438117",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "glioma_055",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:10.674034",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_056",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:10.912412",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_057",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:11.148502",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_058",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:11.384915",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_059",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:11.623301",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_060",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:11.859442",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_061",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:12.097010",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_062",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:12.333229",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_063",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:12.577338",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_064",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:12.814612",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_065",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:13.050500",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_066",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:13.287996",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_067",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:13.530189",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_068",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:13.768258",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_069",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:14.051772",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_070",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:14.347301",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_071",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:14.642300",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_072",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:14.906326",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_073",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:15.151355",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_074",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:15.387471",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_075",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:15.632588",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_076",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:15.868493",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_077",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:16.103875",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_080",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:16.341154",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_081",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:16.584800",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_082",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:16.822673",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_083",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:17.060733",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_084",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:17.297193",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_085",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:17.535393",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_086",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:17.772471",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_087",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:18.010641",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_088",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:18.247304",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_089",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:18.492486",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_090",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:18.730705",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_091",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:18.968626",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_092",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:19.208058",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_093",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:19.450974",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_094",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:19.688484",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_095",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:19.928269",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_096",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:20.167192",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_097",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:20.406121",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_098",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:20.651769",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_099",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:20.888944",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "glioma_100",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:21.127664",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_001",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:21.365680",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_002",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:21.612566",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_003",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:21.849976",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_004",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:22.089531",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_005",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:22.329455",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_006",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:22.567203",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_007",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:22.809263",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_008",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:23.049748",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_009",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:23.289284",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_010",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:23.536158",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_012",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:23.773713",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_013",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:24.016807",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_014",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:24.255670",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_015",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:24.504604",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_016",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:24.746831",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_017",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:24.985075",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_018",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:25.228268",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_019",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:25.467640",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_020",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:25.710505",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_021",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:25.953672",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_022",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:26.193014",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_023",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:26.432076",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_024",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:26.682198",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_025",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:26.923715",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_026",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:27.165937",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_027",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:27.405712",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_028",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:27.653702",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_029",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:27.896093",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_030",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:28.138822",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_031",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:28.382390",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_032",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:28.632968",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_033",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:28.871634",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_034",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:29.113811",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_035",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:29.357460",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_036",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:29.600040",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_037",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:29.843312",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_038",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:30.084651",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_039",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:30.323668",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_040",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:30.574069",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_041",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:30.817688",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_042",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:31.060213",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_043",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:31.301748",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_044",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:31.549219",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_045",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:31.792455",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_046",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:32.035584",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_047",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:32.277995",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_048",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:32.529251",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_049",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:32.770631",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_050",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:33.014151",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_051",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:33.258019",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_052",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:33.514017",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_053",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:33.780445",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_054",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:34.022256",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_055",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:34.266842",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_056",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:34.510414",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_057",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:34.755176",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_058",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:34.998521",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_059",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:35.253645",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_060",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:35.502822",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_061",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:35.756301",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_062",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:36.009180",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_063",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:36.255087",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_064",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:36.498859",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_065",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:36.756041",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_066",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:36.999582",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_067",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:37.246728",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_068",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:37.496037",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_069",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:37.747882",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_070",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:38.007636",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_071",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:38.256112",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_072",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:38.501152",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_073",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:38.752503",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_074",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:39.004032",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_075",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:39.250197",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_076",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:39.501402",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_077",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:39.753439",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_078",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:40.005392",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_079",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:40.255464",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_080",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:40.509976",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_081",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:40.763064",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_083",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:41.016022",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_084",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:41.267191",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_085",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:41.514976",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_086",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:41.767629",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_087",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:42.026707",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_088",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:42.281802",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_089",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:42.528007",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_090",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:42.783443",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_091",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:43.037707",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_092",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:43.294106",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_093",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:43.545028",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_094",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:43.805953",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_095",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:44.048280",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_096",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:44.302540",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_097",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:44.554330",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_098",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:44.812099",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_099",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:45.060842",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "meningioma_100",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:45.326441",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_001",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:45.583253",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_002",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:45.835853",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_003",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:46.085074",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_004",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:46.338195",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_005",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:46.596774",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_006",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:46.846677",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_007",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:47.096787",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_008",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:47.344029",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_009",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:47.609733",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_010",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:47.858581",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_011",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:48.171184",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_012",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:48.475717",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_013",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:48.783290",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_014",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:49.048433",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_015",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:49.299572",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_016",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:49.549430",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_017",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:49.802997",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_018",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:50.055965",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_019",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:50.306681",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_020",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:50.560568",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_021",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:50.810397",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_022",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:51.064131",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_023",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:51.314556",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_024",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:51.569404",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_025",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:51.824289",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_026",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:52.086570",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_027",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:52.339507",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_028",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:52.593092",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_029",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:52.846415",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_030",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:53.099410",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_031",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:53.354595",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_032",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:53.605334",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_033",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:53.855868",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_034",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:54.105628",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_035",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:54.359797",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_036",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:54.628501",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_037",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:54.896047",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_038",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:55.139777",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_039",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:55.392270",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_040",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:55.645935",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_041",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:55.900933",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_042",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:56.144539",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_043",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:56.400225",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_044",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:56.657302",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_045",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:56.909725",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_046",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:57.155799",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_047",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:57.416847",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_048",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:57.674309",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_049",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:57.930033",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_050",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:58.174824",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_051",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:58.434821",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_052",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:58.686026",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_053",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:58.939393",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_054",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:59.187915",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_055",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:59.439801",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_056",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:59.702483",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_057",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:52:59.950926",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_058",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:00.202677",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_059",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:00.460659",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_060",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:00.740650",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_061",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:00.985292",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_062",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:01.250897",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_063",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:01.509937",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_064",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:01.765080",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_065",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:02.159258",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_066",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:02.412580",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_067",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:02.690172",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_068",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:02.933850",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_069",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:03.191023",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_070",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:03.444925",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_071",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:03.704565",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_072",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:03.962527",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_073",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:04.215681",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_074",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:04.466653",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_075",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:04.725204",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_076",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:04.983043",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_077",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:05.236040",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_078",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:05.490627",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_079",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:05.749162",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_080",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:06.009018",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_081",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:06.262062",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_082",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:06.510695",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_083",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:06.772850",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_084",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:07.016155",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_086",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:07.277724",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_087",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:07.523042",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_088",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:07.803502",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_089",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:08.049784",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_090",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:08.306890",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_091",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:08.553447",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_092",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:08.820724",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_093",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:09.089460",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_094",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:09.343052",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_095",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:09.598516",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_096",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:09.853652",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_097",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:10.112975",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_098",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:10.363338",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_099",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:10.621826",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_100",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:10.875484",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_101",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:11.136598",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_102",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:11.382473",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_103",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:11.634976",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_104",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:11.897229",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_105",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:12.142634",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_106",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:12.403326",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_107",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:12.658872",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_108",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:12.926832",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_109",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:13.191885",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_110",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:13.447269",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_111",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:13.701332",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_112",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:13.949458",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_113",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:14.219589",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_114",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:14.479937",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_115",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:14.763291",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_116",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:15.008237",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_117",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:15.261226",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_118",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:15.512281",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_119",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:15.782741",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_120",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:16.027243",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_121",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:16.282474",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_122",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:16.533771",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_123",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:16.804391",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_124",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:17.048051",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_125",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:17.301078",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_126",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:17.550333",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_127",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:17.810437",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_128",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:18.054634",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_129",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:18.312782",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_130",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:18.559823",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_131",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:18.821498",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_132",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:19.065857",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_133",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:19.320067",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_134",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:19.568740",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_135",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:19.828263",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_136",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:20.078671",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_137",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:20.325710",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_138",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:20.581651",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_139",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:20.843989",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_140",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:21.106351",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_141",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:21.350220",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_142",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:21.607320",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_143",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:21.860816",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_144",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:22.156501",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_145",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:22.451867",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_146",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:22.747410",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_147",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:23.016737",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_148",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:23.282631",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_149",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:23.533398",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_151",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:23.783343",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_152",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:24.050375",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_153",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:24.302073",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_154",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:24.556527",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_155",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:24.808386",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_156",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:25.059057",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_157",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:25.313949",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_158",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:25.565189",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_159",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:25.824010",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_160",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:26.083145",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_161",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:26.337064",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_162",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:26.590800",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_163",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:26.844221",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_164",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:27.098127",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_165",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:27.351052",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_166",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:27.601914",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_167",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:27.860276",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_168",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:28.118580",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_169",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:28.377301",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_170",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:28.624551",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_171",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:28.897398",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_172",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:29.148852",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_173",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:29.403717",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_174",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:29.655312",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_175",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:29.907173",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_176",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:30.151890",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_177",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:30.418655",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_178",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:30.672777",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_179",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:30.935483",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_180",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:31.181331",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_181",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:31.438616",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_182",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:31.694067",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_183",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:31.966623",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_184",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:32.211388",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_185",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:32.466692",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_186",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:32.712536",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_187",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:32.978185",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_188",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:33.222980",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_189",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:33.478304",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_190",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:33.734594",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_191",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:34.002000",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_192",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:34.245415",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_193",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:34.499004",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_194",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:34.753386",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_195",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:35.023206",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_196",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:35.265916",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_197",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:35.521337",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_198",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:35.770170",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_199",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:36.033888",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_200",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:36.276663",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_201",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:36.532944",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_202",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:36.786736",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_203",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:37.046929",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_204",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:37.294262",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_205",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:37.558614",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_206",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:37.825110",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_207",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:38.083009",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_208",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:38.329171",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_209",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:38.595976",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_210",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:38.852639",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_211",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:39.119990",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_212",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:39.363301",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_213",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:39.620726",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_214",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:39.882298",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_215",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:40.136246",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_216",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:40.385976",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_217",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:40.639907",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_218",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:40.898557",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_219",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:41.151370",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_221",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:41.397730",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_222",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:41.662943",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_223",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:41.923299",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_224",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:42.179168",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_225",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:42.422527",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_226",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:42.694917",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_227",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:42.971967",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_228",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:43.233514",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_229",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:43.477068",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_230",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:43.733411",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_231",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:43.981734",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_232",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:44.244186",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_233",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:44.496945",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_234",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:44.750595",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_235",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:45.012652",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_236",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:45.265307",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_237",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:45.522567",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_238",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:45.777770",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_239",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:46.036512",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_240",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:46.291515",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_241",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:46.535536",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_242",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:46.797528",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_243",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:47.052150",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_244",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:47.315533",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_245",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:47.585252",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_246",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:47.838581",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_247",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:48.099449",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_248",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:48.350481",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_249",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:48.602220",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_250",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:48.854581",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_251",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:49.115561",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_252",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:49.369610",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_253",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:49.625074",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_254",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:49.881174",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_255",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:50.135273",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_256",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:50.388235",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_257",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:50.637770",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_258",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:50.893155",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_259",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:51.150558",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_260",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:51.408727",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_261",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:51.664836",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_262",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:51.929414",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_263",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:52.176305",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_264",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:52.443503",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_265",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:52.699290",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_266",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:52.965793",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_267",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:53.222202",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_268",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:53.477796",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_269",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:53.730042",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_271",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:53.994312",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_272",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:54.244198",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_273",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:54.492705",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_274",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:54.749581",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_275",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:55.009308",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_276",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:55.265474",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_277",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:55.516525",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_278",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:55.768154",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_279",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:56.042271",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_280",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:56.334151",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_281",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:56.633684",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_282",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:56.930888",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_283",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:57.198162",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_284",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:57.454148",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_285",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:57.712035",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_286",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:57.981358",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_287",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:58.226777",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_288",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:58.483449",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_289",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:58.738619",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_290",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:59.003024",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_291",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:59.259952",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_292",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:59.518448",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_293",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:53:59.765881",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_294",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:00.037145",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_295",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:00.305019",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_296",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:00.569945",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_297",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:00.840479",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_298",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:01.090869",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "normal_299",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:01.349032",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "normal_300",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:01.596409",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_001",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:01.847102",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_002",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:02.105449",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_003",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:02.364567",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_004",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:02.618476",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_005",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:02.873319",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_006",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:03.125114",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_007",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:03.394808",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_008",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:03.652900",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_009",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:03.908191",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_010",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:04.166968",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_011",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:04.419088",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_012",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:04.670549",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_013",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:04.926589",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_014",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:05.179557",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_015",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:05.437399",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_016",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:05.688108",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_017",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:05.944453",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_018",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:06.199691",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_019",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:06.456673",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_020",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:06.707233",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_021",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:06.963254",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_022",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:07.224396",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_023",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:07.470236",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_024",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:07.732003",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_025",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:08.014700",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_026",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:08.259153",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_027",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:08.516576",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_028",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:08.766944",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_029",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:09.039788",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_030",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:09.283172",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_031",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:09.542723",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_032",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:09.788334",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_033",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:10.066757",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_034",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:10.312126",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_035",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:10.570900",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_036",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:10.825532",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_037",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:11.096651",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_038",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:11.349767",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_039",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:11.605383",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_040",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:11.859142",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_041",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:12.112958",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_042",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:12.360898",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_043",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:12.619441",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_044",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:12.868186",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_045",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:13.150607",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_046",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:13.397120",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_047",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:13.649638",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_048",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:13.904817",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_049",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:14.167979",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_050",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:14.422985",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_051",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:14.679664",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_052",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:14.931825",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_053",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:15.188746",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_054",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:15.461922",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_055",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:15.716825",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_056",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:15.974333",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_057",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:16.234603",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_058",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:16.491337",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_059",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:16.743720",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_060",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:16.999797",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_061",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:17.253171",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_062",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:17.525850",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_063",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:17.786101",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_064",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:18.061858",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_065",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:18.306254",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_067",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:18.560701",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_068",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:18.816787",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_069",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:19.075927",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_070",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:19.327442",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_071",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:19.583739",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_072",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:19.834486",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_073",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:20.096633",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_074",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:20.355969",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_075",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:20.615415",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_076",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:20.865494",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_077",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:21.121961",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_078",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:21.407447",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_079",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:21.664566",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_080",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:21.921192",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_081",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:22.174170",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_082",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:22.446438",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_083",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:22.704599",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_084",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:22.962154",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_085",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:23.216947",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_086",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:23.474415",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_087",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:23.729754",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_088",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:23.986896",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_089",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:24.241861",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_090",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:24.497965",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_091",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:24.753103",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_092",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:25.010010",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_093",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:25.263884",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_094",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:25.528382",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_095",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:25.792069",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_096",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:26.045247",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_097",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:26.314986",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_098",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:26.586255",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    },
+    {
+      "image": "pituitary_099",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:26.865872",
+      "success": true,
+      "ai_response": "0",
+      "ai_label": 0
+    },
+    {
+      "image": "pituitary_100",
+      "status_code": 200,
+      "model_used": "google/medgemma-4b-it",
+      "timestamp": "2026-05-09T21:54:27.121973",
+      "success": true,
+      "ai_response": "1",
+      "ai_label": 1
+    }
+  ],
+  "prompt": "You are a strict medical image classifier.\nLook at the image and output ONLY one character:\n1 if pathology present, 0 if absent.\nNo words, no punctuation.",
+  "summary": {
+    "total": 600,
+    "success": 600,
+    "failed": 0,
+    "label_1": 411,
+    "label_0": 189,
+    "pct_1": 68.5,
+    "pct_0": 31.5
+  }
+}

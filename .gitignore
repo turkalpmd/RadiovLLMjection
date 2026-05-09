@@ -30,6 +30,13 @@ Results/
 !requirements.txt
 !README.md
 
+# Project/Results: track experiment outputs (JSON, CSV, MD)
+!Project/Results/
+!Project/Results/**/
+!Project/Results/**/*.json
+!Project/Results/**/*.csv
+!Project/Results/**/*.md
+
 # IDE
 .vscode/
 .idea/
