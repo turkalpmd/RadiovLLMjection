@@ -6,3 +6,8 @@ pillow>=10.0.0
 requests>=2.31.0
 python-dotenv>=1.0.0
 
+# medgemma_experiment/ (local HuggingFace inference for google/medgemma-4b-it)
+torch>=2.1.0
+transformers>=4.50.0
+accelerate>=0.30.0
+
