@@ -16,7 +16,7 @@ from pathlib import Path
 import pandas as pd
 import numpy as np
 
-ROOT = Path("/home/izzet/Desktop/RadiovLLMjection")
+ROOT = Path(__file__).resolve().parents[2]
 PROJECT = ROOT / "Project"
 RESULTS = PROJECT / "Results"
 MODEL = "google/medgemma-4b-it"

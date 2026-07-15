@@ -35,7 +35,7 @@ MedGemma automatically.
 ## Pre-warm (one-time, ~8 GB download)
 
 ```bash
-cd /home/izzet/Desktop/RadiovLLMjection/Project
+cd [path/to/RadiovLLMjection]/Project
 python -c "
 import os, torch
 from transformers import AutoProcessor, AutoModelForImageTextToText
@@ -52,7 +52,7 @@ This catches gated-access 401s before any pipeline run.
 ## Usage
 
 ```bash
-cd /home/izzet/Desktop/RadiovLLMjection/Project/medgemma_experiment
+cd [path/to/RadiovLLMjection]/Project/medgemma_experiment
 
 # Smoke test — 10 images, baseline only
 python run_medgemma.py --smoke --step 2

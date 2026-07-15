@@ -1,7 +1,7 @@
 === 🧠 DEEP LEARNING & INJECTION ANALİZ RAPORU ===
 Tarih: Thu Jan  8 20:04:57 +03 2026
 
-İzzet Abi'nin talepleri doğrultusunda 2 farklı Deep Learning modeli üzerinde 5 farklı senaryo test edilmiştir.
+Proje gereksinimleri doğrultusunda 2 farklı Deep Learning modeli üzerinde 5 farklı senaryo test edilmiştir.
 
 --------------------------------------------------------------------------------
 1️⃣ MODEL 1: YÜKSEK PERFORMANSLI 4-CLASS CLASSIFIER (PMRAM DATASET)
