@@ -1,0 +1,11 @@
+Test_Set,Task,Scenario,Valid_N,Accuracy,Sensitivity,Specificity,F1_Score,Model,ROC_AUC
+PMRAM (7509 Images),4-Class Classification,Ground Truth,240,0.8667,0.8703,0.9563,0.8686,TransferLearning_ResNet50,
+PMRAM (7509 Images),4-Class Classification,Visible Injection,240,0.45,0.4196,0.8111,0.3155,TransferLearning_ResNet50,
+PMRAM (7509 Images),4-Class Classification,Injection Immune,240,0.8542,0.8572,0.952,0.8507,TransferLearning_ResNet50,
+PMRAM (7509 Images),4-Class Classification,Stealth Injection,240,0.8667,0.8678,0.9543,0.8725,TransferLearning_ResNet50,
+PMRAM (7509 Images),4-Class Classification,Stealth Injection Immune,240,0.8542,0.8614,0.9524,0.8548,TransferLearning_ResNet50,
+Paper Dataset (600 Images),Binary Classification,Ground Truth,600,0.955,0.9833,0.9267,0.9562,TransferLearning_ResNet50_Binary,0.9904
+Paper Dataset (600 Images),Binary Classification,Visible Injection,600,0.9067,0.8333,0.98,0.8993,TransferLearning_ResNet50_Binary,0.9837
+Paper Dataset (600 Images),Binary Classification,Stealth Injection,600,0.9617,0.9533,0.97,0.9613,TransferLearning_ResNet50_Binary,0.9929
+Paper Dataset (600 Images),Binary Classification,Injection Immune,600,0.87,0.85,0.89,0.8673,TransferLearning_ResNet50_Binary,0.952
+Paper Dataset (600 Images),Binary Classification,Stealth Injection Immune,600,0.9517,0.9833,0.92,0.9532,TransferLearning_ResNet50_Binary,0.9897

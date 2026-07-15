@@ -1,0 +1,46 @@
+=== 🧠 DEEP LEARNING & INJECTION ANALİZ RAPORU ===
+Tarih: Thu Jan  8 20:04:57 +03 2026
+
+İzzet Abi'nin talepleri doğrultusunda 2 farklı Deep Learning modeli üzerinde 5 farklı senaryo test edilmiştir.
+
+--------------------------------------------------------------------------------
+1️⃣ MODEL 1: YÜKSEK PERFORMANSLI 4-CLASS CLASSIFIER (PMRAM DATASET)
+--------------------------------------------------------------------------------
+* Amaç: Yüksek performanslı bir DL modelinin Stealth Injection karşısındaki davranışını kanıtlamak.
+* Model Mimarisi: ResNet50 (ImageNet Pre-trained) + Fine Tuning
+* Veri Seti: PMRAM Dataset (Dengeli dağılım, class başına 300 örnek, toplam 1200 resim)
+* Eğitim Stratejisi:
+    - İlk katmanlar donduruldu (frozen), sadece son katman (fully connected) eğitildi.
+    - Test Seti: %20 Split (240 Resim)
+* SONUÇLAR:
+    - Ground Truth:       %86.6 (Yüksek Başarı)
+    - Stealth Injection:  %86.6 (DEĞİŞİM YOK! - Hipotez Kanıtlandı ✅)
+    - Visible Injection:  %45.0 (Ciddi Düşüş - Beklendiği Gibi)
+
+--------------------------------------------------------------------------------
+2️⃣ MODEL 2: BINARY CLASSIFIER (MAKALE DATASETİ)
+--------------------------------------------------------------------------------
+* Amaç: Kendi makalemizdeki (Tumor vs Healthy) veri setini DL modeli ile doğrulamak.
+* Model Mimarisi: ResNet50 (Binary Classification Head)
+* Veri Seti: Makale Dataseti (600 Resim: 300 Tumor, 300 Normal)
+* Eğitim Stratejisi: PMRAM verisi ile eğitilip, Makale resimleri üzerinde hiç görmeden (zero-shot) test edildi.
+* SONUÇLAR:
+    - Ground Truth:       %95.5
+    - Stealth Injection:  %96.1 (Model etkilenmedi ✅)
+    - Visible Injection:  %90.6
+
+--------------------------------------------------------------------------------
+🧪 UYGULANAN 5 TEST SENARYOSU (HER İKİ MODEL İÇİN):
+--------------------------------------------------------------------------------
+1. Ground Truth: Orijinal, temiz resimler.
+2. Visible Injection: Gözle görülür checkerboard pattern.
+3. Injection Immune: Visible injection ile eğitilmiş (desensitize) model.
+4. Stealth Injection: İnsan gözünün fark edemeyeceği Gaussian Noise.
+5. Stealth Injection Immune: Stealth injection ile eğitilmiş model.
+
+--------------------------------------------------------------------------------
+📂 TESLİM EDİLEN DOSYALAR (Results/DL_Results/):
+--------------------------------------------------------------------------------
+1. SUMMARY_METRICS.csv: Tüm sonuçların toplu özeti.
+2. PMRAM_ResNet50_Detailed_Predictions.csv: 240 test resminin detaylı tahminleri.
+3. PaperDataset_Binary_Predictions.csv: Makale datasetindeki 600 resmin detaylı tahminleri.
