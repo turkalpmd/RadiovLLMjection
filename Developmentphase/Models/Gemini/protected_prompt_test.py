@@ -10,7 +10,7 @@ from datetime import datetime
 from pathlib import Path
 
 # Gemini API bilgileri (kullanıcı ekledi)
-GEMINI_API_KEY = "REMOVED_KEY"
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "your-gemini-api-key-here")
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent"
 
 def encode_image_to_base64(image_path):

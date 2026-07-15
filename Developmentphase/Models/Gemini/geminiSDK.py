@@ -355,7 +355,7 @@ def main():
                         help="Pause seconds between API calls")
     args = parser.parse_args()
 
-    api_key = 'REMOVED_KEY' #os.getenv("GEMINI_API_KEY", "").strip()
+    api_key = os.getenv("GEMINI_API_KEY", "").strip()
     if not api_key:
         print("⚠️  GEMINI_API_KEY environment variable is required.")
         print("👉 Get a key: https://aistudio.google.com/app/apikey")

@@ -13,7 +13,7 @@ from PIL import Image
 import io
 
 # Gemini API bilgileri
-GEMINI_API_KEY = "REMOVED_KEY"  # Yeni API key
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "your-gemini-api-key-here")
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent"
 
 def encode_image_to_base64(image_path):

@@ -51,7 +51,7 @@ temp*.png
 debug*.log
 checkpoint*.json
 
-# Analysis (İzzet halledecek)
+# Analysis
 Analysis_Results/figures/
 Analysis_Results/*.png
 Analysis_Results/*.jpg

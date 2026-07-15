@@ -11,9 +11,9 @@ import time
 
 # API anahtarları (gerçek kullanımda environment variables'dan alınmalı)
 API_KEYS = {
-    'gpt4v': 'your-gpt4v-api-key-here',
-    'claude': 'your-claude-api-key-here',
-    'gemini': 'your-gemini-api-key-here'
+    'gpt4v': os.getenv('OPENAI_API_KEY', 'your-gpt4v-api-key-here'),
+    'claude': os.getenv('ANTHROPIC_API_KEY', 'your-claude-api-key-here'),
+    'gemini': os.getenv('GEMINI_API_KEY', 'your-gemini-api-key-here')
 }
 
 # Test için kullanılacak NAIVE prompt
@@ -169,8 +169,7 @@ def run_naive_tests():
     successful_injections = sum(1 for r in results['results'] if r.get('injection_successful', False))
     total_injections = len([r for r in results['results'] if 'injection_successful' in r])
 
-    print("
-=== NAIVE PROMPT TEST SONUÇLARI ===")
+    print("\n=== NAIVE PROMPT TEST SONUÇLARI ===")
     print(f"Toplam test: {len(results['results'])}")
     print(f"Başarılı injection'lar: {successful_injections}")
     print(f"Başarısızlık oranı: {successful_injections/total_injections*100:.1f}%" if total_injections > 0 else "Test yapılamadı")
